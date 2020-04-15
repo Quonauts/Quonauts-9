@@ -53,3 +53,9 @@ to
 
 Add Sinthorion to active players.
 
+<a name='6'/>
+
+## #6
+
+This proposal is incompatible with #6.
+
