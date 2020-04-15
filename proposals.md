@@ -87,3 +87,10 @@ Add
 If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since the creation of their last open proposal, it may be failed at any time if it is open.
 to %closing-proposals
 
+<a name='10'/>
+
+## #10
+
+Add a rule "Winning" (%winning):
+> Any player who successfully finishes construction of a death star wins the game.
+
