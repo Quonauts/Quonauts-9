@@ -8,6 +8,7 @@
     * [**1.3. Precedence**](#precedence)
     * [**1.4. Forbidden actions**](#forbidden-actions)
     * [**1.5. Rule violation polls**](#rule-violation-polls)
+    * [**1.6. Timezones**](#timezones)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -63,4 +64,8 @@ In a rule violation poll, any votes cast by the accused player are ignored.
 If the poll passes, the rule violation and its consequences must be reverted.
 
 If the poll passes and more players are in favour of a strike (🇦 reactions) than against (🇧 and 👎 reactions), the accused player may not perform any game actions for the next 24 hours.
+
+### <a name='timezones'/> Timezones
+
+Unless otherwise specified, all times and dates are specified with respect to UTC.
 
