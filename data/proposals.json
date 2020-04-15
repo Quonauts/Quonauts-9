@@ -71,6 +71,8 @@
 			"message_id": 700099084102533190,
 			"votes": {
 				"160279332454006795": 1,
+				"309787486278909952": 1,
+				"330678593904443393": 0,
 				"421060058009305088": 1
 			},
 			"timestamp": 1586983428
@@ -82,6 +84,9 @@
 			"status": "voting",
 			"message_id": 700102449272193094,
 			"votes": {
+				"160279332454006795": -1,
+				"309787486278909952": 0,
+				"330678593904443393": -1,
 				"421060058009305088": 1
 			},
 			"timestamp": 1586984230
@@ -90,12 +95,51 @@
 			"n": 8,
 			"author": 421060058009305088,
 			"content": "Remove\nIf a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since their last proposal, it may be failed without a vote.\nfrom %proposals.\nAdd\nIf a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since their last open proposal, it may be failed without a vote.\nto %closing-proposals",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 700102873358270464,
 			"votes": {
+				"309787486278909952": -1,
 				"421060058009305088": 1
 			},
 			"timestamp": 1586984332
+		},
+		{
+			"n": 9,
+			"author": 421060058009305088,
+			"content": "Remove\nIf a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since they last created a proposal, it may be failed at any time if it is open.\nfrom %proposals.\nAdd\nIf a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since the creation of their last open proposal, it may be failed at any time if it is open.\nto %closing-proposals",
+			"status": "voting",
+			"message_id": 700105877751070790,
+			"votes": {
+				"421060058009305088": 1
+			},
+			"timestamp": 1586985048
+		},
+		{
+			"n": 10,
+			"author": 330678593904443393,
+			"content": "Add a rule \"Winning\" (%winning):\n> Any player who successfully finishes construction of a death star wins the game.",
+			"status": "voting",
+			"message_id": 700106973714317384,
+			"votes": {
+				"160279332454006795": -1,
+				"330678593904443393": 1,
+				"421060058009305088": -1
+			},
+			"timestamp": 1586985309
+		},
+		{
+			"n": 11,
+			"author": 160279332454006795,
+			"content": "Define a new quantity named Points, with this description:\n*** Points** are an arbitrary (positive integer) value which should generally be used as a reward/currency.",
+			"status": "voting",
+			"message_id": 700106997890023595,
+			"votes": {
+				"160279332454006795": 1,
+				"309787486278909952": 1,
+				"330678593904443393": 0,
+				"421060058009305088": 1
+			},
+			"timestamp": 1586985315
 		}
 	]
 }
