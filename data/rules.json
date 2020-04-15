@@ -30,7 +30,8 @@
 				"general",
 				"proposals",
 				"rules",
-				"polls"
+				"polls",
+				"transactions"
 			],
 			"message_ids": [
 				700045318032457841
@@ -236,6 +237,16 @@
 				700045427059327207
 			]
 		},
+		"quantities": {
+			"tag": "quantities",
+			"title": "Quantities",
+			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n* applies to all players.\n* is instantiated at zero.\n* must be an integer.\n* must never have a negative value.\n\nWhen a new quantity is created, a subsection of this rule must be created, containing a short description and possible gameplay effects. The description has no relevance to the game.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				700059607774658673
+			]
+		},
 		"root": {
 			"tag": "root",
 			"title": null,
@@ -243,11 +254,12 @@
 			"parent_tag": null,
 			"child_tags": [
 				"meta-rules",
-				"channels"
+				"channels",
+				"quantities"
 			],
 			"message_ids": [
-				700046100333330583,
-				700046101171929118
+				700059609028755616,
+				700059609611894810
 			]
 		},
 		"rule-violation-polls": {
@@ -293,6 +305,16 @@
 			"child_tags": [],
 			"message_ids": [
 				700044503863525447
+			]
+		},
+		"transactions": {
+			"tag": "transactions",
+			"title": "#transactions",
+			"content": "The <#700059517605511189> channel may be used to modify quantities, but only in ways specifically allowed by the rules.",
+			"parent_tag": "channels",
+			"child_tags": [],
+			"message_ids": [
+				700059607346970695
 			]
 		},
 		"voting-on-proposals": {

@@ -5,7 +5,7 @@
 			"n": 1,
 			"author": 309787486278909952,
 			"content": "Add a rule \"Quantities\" (%quantities) in %root:\n> A quantity is a named property with a numerical value for each player.\n> \n> By default any unique quantity added to the game:\n> * applies to all players.\n> * is instantiated at zero.\n> * must be an integer.\n> * must never have a negative value.\n> \n> When a new quantity is created, a subsection of this rule must be created, containing a short description and possible gameplay effects. The description has no relevance to the game.\n\nAdd a rule \"#transactions\" (%transactions) in %channels:\n> The #transactions channel may be used to modify quantities, but only in ways specifically allowed by the rules.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 700048255131713604,
 			"votes": {
 				"309787486278909952": 1,
@@ -19,8 +19,32 @@
 			"content": "Replace paragraph in %proposals, from\n> If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since their last proposal, it may be failed without a vote.\nto\n> If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since their last open proposal, it may be failed without a vote.",
 			"status": "voting",
 			"message_id": 700055537827577876,
-			"votes": {},
+			"votes": {
+				"309787486278909952": 0
+			},
 			"timestamp": 1586973046
+		},
+		{
+			"n": 3,
+			"author": 309787486278909952,
+			"content": "Edit %closing-proposals, changing\n> All active players have cast a vote or abstained from voting on the proposal.\nto\n> All active players have cast a vote or abstained from voting on the proposal, and there are more than two active players.",
+			"status": "voting",
+			"message_id": 700059900172173434,
+			"votes": {
+				"309787486278909952": 1
+			},
+			"timestamp": 1586974086
+		},
+		{
+			"n": 4,
+			"author": 309787486278909952,
+			"content": "This proposal is incompatible with #2.\n\nEdit %proposals, changing\n> If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since their last proposal, it may be failed without a vote.\nto\n> If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since they last created a proposal, it may be failed at any time if it is open.",
+			"status": "voting",
+			"message_id": 700061336163450970,
+			"votes": {
+				"309787486278909952": 1
+			},
+			"timestamp": 1586974428
 		}
 	]
 }
