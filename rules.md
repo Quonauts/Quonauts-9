@@ -4,6 +4,7 @@
 
 * [**1. Meta rules**](#meta-rules)
     * [**1.1. Glossary**](#glossary)
+    * [**1.2. Accuracy**](#accuracy)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -26,4 +27,8 @@ The definitions for terms listed here take precedence over their normal English 
 * **Inactive Player**: Any player who is not an active player.
 
 Whenever the word "if" is used in the rules, it is to be interpreted as "if and only if".
+
+### <a name='accuracy'/> Accuracy
+
+This document is not guaranteed to always be up-to-date as the game rules are modified, however it is the duty of all players to keep this document accurate as game rules are modified. Where this document disagrees with the game rules, players must follow the game rules as they are, rather than their description in this document.
 
