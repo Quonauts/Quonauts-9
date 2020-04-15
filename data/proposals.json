@@ -17,11 +17,11 @@
 			"n": 2,
 			"author": 91269654017748992,
 			"content": "Replace paragraph in %proposals, from\n> If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since their last proposal, it may be failed without a vote.\nto\n> If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since their last open proposal, it may be failed without a vote.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 700055537827577876,
 			"votes": {
 				"160279332454006795": 0,
-				"309787486278909952": 0,
+				"309787486278909952": -1,
 				"91269654017748992": 1
 			},
 			"timestamp": 1586973046
@@ -30,7 +30,7 @@
 			"n": 3,
 			"author": 309787486278909952,
 			"content": "Edit %closing-proposals, changing\n> All active players have cast a vote or abstained from voting on the proposal.\nto\n> All active players have cast a vote or abstained from voting on the proposal, and there are more than two active players.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 700059900172173434,
 			"votes": {
 				"160279332454006795": 0,
@@ -43,7 +43,7 @@
 			"n": 4,
 			"author": 309787486278909952,
 			"content": "This proposal is incompatible with #2.\n\nEdit %proposals, changing\n> If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since their last proposal, it may be failed without a vote.\nto\n> If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since they last created a proposal, it may be failed at any time if it is open.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 700061336163450970,
 			"votes": {
 				"160279332454006795": 0,
@@ -51,6 +51,17 @@
 				"91269654017748992": 0
 			},
 			"timestamp": 1586974428
+		},
+		{
+			"n": 5,
+			"author": 330678593904443393,
+			"content": "Add Sinthorion to active players.",
+			"status": "failed",
+			"message_id": 700095011341074592,
+			"votes": {
+				"309787486278909952": 0
+			},
+			"timestamp": 1586982457
 		}
 	]
 }
