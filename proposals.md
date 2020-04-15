@@ -36,3 +36,14 @@ Edit %closing-proposals, changing
 to
 > All active players have cast a vote or abstained from voting on the proposal, and there are more than two active players.
 
+<a name='4'/>
+
+## #4
+
+This proposal is incompatible with #2.
+
+Edit %proposals, changing
+> If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since their last proposal, it may be failed without a vote.
+to
+> If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since they last created a proposal, it may be failed without a vote.
+
