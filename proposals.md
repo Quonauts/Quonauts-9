@@ -101,3 +101,10 @@ Add a rule "Winning" (%winning):
 Define a new quantity named Points, with this description:
 *** Points** are an arbitrary (positive integer) value which should generally be used as a reward/currency.
 
+<a name='12'/>
+
+## #12
+
+Define a new quantity called Clay, with this description:
+*** Clay** is a positive real value which is used to build things
+
