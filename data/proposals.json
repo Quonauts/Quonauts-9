@@ -62,6 +62,40 @@
 				"309787486278909952": 0
 			},
 			"timestamp": 1586982457
+		},
+		{
+			"n": 6,
+			"author": 160279332454006795,
+			"content": "This proposal is incompatible with #6.",
+			"status": "voting",
+			"message_id": 700099084102533190,
+			"votes": {
+				"160279332454006795": 1,
+				"421060058009305088": 1
+			},
+			"timestamp": 1586983428
+		},
+		{
+			"n": 7,
+			"author": 421060058009305088,
+			"content": "<@!549449251822764043> wins Quonauts 9",
+			"status": "voting",
+			"message_id": 700102449272193094,
+			"votes": {
+				"421060058009305088": 1
+			},
+			"timestamp": 1586984230
+		},
+		{
+			"n": 8,
+			"author": 421060058009305088,
+			"content": "Remove\nIf a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since their last proposal, it may be failed without a vote.\nfrom %proposals.\nAdd\nIf a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since their last open proposal, it may be failed without a vote.\nto %closing-proposals",
+			"status": "voting",
+			"message_id": 700102873358270464,
+			"votes": {
+				"421060058009305088": 1
+			},
+			"timestamp": 1586984332
 		}
 	]
 }
