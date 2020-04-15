@@ -29,7 +29,7 @@ to
 
 <a name='3'/>
 
-## #3
+## #3 — Passed
 
 Edit %closing-proposals, changing
 > All active players have cast a vote or abstained from voting on the proposal.
