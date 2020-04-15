@@ -26,6 +26,7 @@
             * [**2.2.3.1. Passing and failing proposals**](#passing-and-failing-proposals)
         * [**2.2.4. Deleting proposals**](#deleting-proposals)
         * [**2.2.5. Editing proposals**](#editing-proposals)
+    * [**2.3. #rules**](#rules)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -218,4 +219,8 @@ The author of an open proposal may delete it at any time.
 A player may freely edit a proposal they have submitted if that proposal is open for voting and has no votes cast by players other than its author.
 
 The author of a proposal or the player passing a proposal may choose to add or remove whitespace and fix typos or grammar mistakes, provided the meaning of the proposal and any dependent proposals remains unchanged. Clarifications or additional details must always be added by a new proposal.
+
+### <a name='rules'/> #rules
+
+The <#700035968467599442> channel contains this rules document.
 
