@@ -38,7 +38,7 @@ to
 
 <a name='4'/>
 
-## #4
+## #4 — Passed
 
 This proposal is incompatible with #2.
 
