@@ -28,6 +28,7 @@
         * [**2.2.5. Editing proposals**](#editing-proposals)
     * [**2.3. #rules**](#rules)
     * [**2.4. #polls**](#polls)
+* [**3. Quantities**](#quantities)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -244,4 +245,16 @@ A poll closes when one or more of the following conditions is met:
 * A majority of active players have voted in favour of or against the poll, and there are more than two active players.
 
 When a poll is closed, no more votes may be cast on it, and it may not be edited. If more active players have voted in favour of the poll than against, the poll passes, otherwise, it fails.
+
+## <a name='quantities'/> Quantities
+
+A quantity is a named property with a numerical value for each player.
+
+By default any unique quantity added to the game:
+* applies to all players.
+* is instantiated at zero.
+* must be an integer.
+* must never have a negative value.
+
+When a new quantity is created, a subsection of this rule must be created, containing a short description and possible gameplay effects. The description has no relevance to the game.
 
