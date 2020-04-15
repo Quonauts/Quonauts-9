@@ -80,7 +80,6 @@ to %closing-proposals
 
 ## #9
 
-Proposal #8   —   Failed
 Remove
 If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since they last created a proposal, it may be failed at any time if it is open.
 from %proposals.
