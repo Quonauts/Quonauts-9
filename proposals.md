@@ -59,3 +59,9 @@ Add Sinthorion to active players.
 
 This proposal is incompatible with #6.
 
+<a name='7'/>
+
+## #7
+
+<@!549449251822764043> wins Quonauts 9
+
