@@ -2,7 +2,7 @@
 
 <a name='1'/>
 
-## #1
+## #1 — Passed
 
 Add a rule "Quantities" (%quantities) in %root:
 > A quantity is a named property with a numerical value for each player.
