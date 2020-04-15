@@ -65,3 +65,14 @@ This proposal is incompatible with #6.
 
 <@!549449251822764043> wins Quonauts 9
 
+<a name='8'/>
+
+## #8
+
+Remove
+If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since their last proposal, it may be failed without a vote.
+from %proposals.
+Add
+If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since their last open proposal, it may be failed without a vote.
+to %closing-proposals
+
