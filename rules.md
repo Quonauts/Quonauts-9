@@ -199,7 +199,7 @@ A player may change their vote on an open proposal at any time.
 Any player may close an open proposal if one or more of the following conditions is met:
 
 * The proposal is at least 48 hours (2 days) old.
-* All active players have cast a vote or abstained from voting on the proposal.
+* All active players have cast a vote or abstained from voting on the proposal, and there are more than 2 active players.
 * A majority of active players have voted in favour of the proposal, and there are more than 2 active players.
 * A majority of active players have voted against the proposal, and there are more than 2 active players.
 
