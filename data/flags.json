@@ -3,6 +3,6 @@
 	"allow_vote_change": true,
 	"allow_vote_multi": false,
 	"auto_upload": true,
-	"logs_channel_id": null,
+	"logs_channel_id": 700035710048272465,
 	"player_activity_cutoff": 72
 }
