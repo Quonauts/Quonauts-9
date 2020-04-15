@@ -1,4 +1,16 @@
 {
 	"channel": 700035956522090596,
-	"proposals": []
+	"proposals": [
+		{
+			"n": 1,
+			"author": 309787486278909952,
+			"content": "Add a rule \"Quantities\" (%quantities) in %root:\n> A quantity is a named property with a numerical value for each player.\n> \n> By default any unique quantity added to the game:\n> * applies to all players.\n> * is instantiated at zero.\n> * must be an integer.\n> * must never have a negative value.\n> \n> When a new quantity is created, a subsection of this rule must be created, containing a short description and possible gameplay effects. The description has no relevance to the game.\n\nAdd a rule \"#transactions\" (%transactions) in %channels:\n> The #transactions channel may be used to modify quantities, but only in ways specifically allowed by the rules.",
+			"status": "voting",
+			"message_id": 700048255131713604,
+			"votes": {
+				"309787486278909952": 1
+			},
+			"timestamp": 1586971309
+		}
+	]
 }
