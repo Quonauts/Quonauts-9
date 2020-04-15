@@ -18,3 +18,12 @@ Add a rule "Quantities" (%quantities) in %root:
 Add a rule "#transactions" (%transactions) in %channels:
 > The #transactions channel may be used to modify quantities, but only in ways specifically allowed by the rules.
 
+<a name='2'/>
+
+## #2
+
+Replace paragraph in %proposals, from
+> If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since their last proposal, it may be failed without a vote.
+to
+> If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since their last open proposal, it may be failed without a vote.
+
