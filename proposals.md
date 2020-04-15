@@ -67,7 +67,7 @@ This proposal is incompatible with #6.
 
 <a name='8'/>
 
-## #8
+## #8 — Failed
 
 Remove
 If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since their last proposal, it may be failed without a vote.
