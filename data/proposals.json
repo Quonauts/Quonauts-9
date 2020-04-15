@@ -8,9 +8,19 @@
 			"status": "voting",
 			"message_id": 700048255131713604,
 			"votes": {
-				"309787486278909952": 1
+				"309787486278909952": 1,
+				"91269654017748992": 1
 			},
 			"timestamp": 1586971309
+		},
+		{
+			"n": 2,
+			"author": 91269654017748992,
+			"content": "Replace paragraph in %proposals, from\n> If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since their last proposal, it may be failed without a vote.\nto\n> If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since their last open proposal, it may be failed without a vote.",
+			"status": "voting",
+			"message_id": 700055537827577876,
+			"votes": {},
+			"timestamp": 1586973046
 		}
 	]
 }
