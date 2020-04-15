@@ -27,3 +27,12 @@ Replace paragraph in %proposals, from
 to
 > If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since their last open proposal, it may be failed without a vote.
 
+<a name='3'/>
+
+## #3
+
+Edit %closing-proposals, changing
+> All active players have cast a vote or abstained from voting on the proposal.
+to
+> All active players have cast a vote or abstained from voting on the proposal, and there are more than two active players.
+
