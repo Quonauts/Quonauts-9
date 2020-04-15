@@ -76,3 +76,15 @@ Add
 If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since their last open proposal, it may be failed without a vote.
 to %closing-proposals
 
+<a name='9'/>
+
+## #9
+
+Proposal #8   —   Failed
+Remove
+If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since they last created a proposal, it may be failed at any time if it is open.
+from %proposals.
+Add
+If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since the creation of their last open proposal, it may be failed at any time if it is open.
+to %closing-proposals
+
