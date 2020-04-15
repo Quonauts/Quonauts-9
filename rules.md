@@ -28,6 +28,7 @@
         * [**2.2.5. Editing proposals**](#editing-proposals)
     * [**2.3. #rules**](#rules)
     * [**2.4. #polls**](#polls)
+    * [**2.5. #transactions**](#transactions)
 * [**3. Quantities**](#quantities)
 
 ## <a name='meta-rules'/> Meta rules
@@ -245,6 +246,10 @@ A poll closes when one or more of the following conditions is met:
 * A majority of active players have voted in favour of or against the poll, and there are more than two active players.
 
 When a poll is closed, no more votes may be cast on it, and it may not be edited. If more active players have voted in favour of the poll than against, the poll passes, otherwise, it fails.
+
+### <a name='transactions'/> #transactions
+
+The <#700059517605511189> channel may be used to modify quantities, but only in ways specifically allowed by the rules.
 
 ## <a name='quantities'/> Quantities
 
