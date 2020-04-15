@@ -9,6 +9,7 @@
     * [**1.4. Forbidden actions**](#forbidden-actions)
     * [**1.5. Rule violation polls**](#rule-violation-polls)
     * [**1.6. Timezones**](#timezones)
+    * [**1.7. Bots**](#bots)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -68,4 +69,8 @@ If the poll passes and more players are in favour of a strike (🇦 reactions) t
 ### <a name='timezones'/> Timezones
 
 Unless otherwise specified, all times and dates are specified with respect to UTC.
+
+### <a name='bots'/> Bots
+
+Certain game functions may be performed automatically by automated "bots"; the behavior of such bots is not governed by the rules, and any function that bots may perform should be feasible, even if inconvenient, to do manually.
 
