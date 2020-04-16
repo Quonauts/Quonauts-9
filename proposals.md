@@ -127,3 +127,18 @@ Create a new rule within %Quantities% named "Obtaining Points". This rule sectio
 
 ## #15 — Deleted
 
+<a name='16'/>
+
+## #16
+
+Edit %quantities, changing
+> When a new quantity is created, a subsection of this rule must be created, containing a short description and possible gameplay effects. The description has no relevance to the game.
+to
+> The following quantities exist:
+> *
+> 
+> When a new quantity is created, it must be added to the above list, along with an optional short description. The description, if present, has no relevance to the game.
+
+If proposal #11 has passed, add the "points" quantity to the list of quantities.
+If proposal #12 has passed, add the "clay" quantity to the list of quantities.
+
