@@ -142,3 +142,12 @@ to
 If proposal #11 has passed, add the "points" quantity to the list of quantities.
 If proposal #12 has passed, add the "clay" quantity to the list of quantities.
 
+<a name='17'/>
+
+## #17
+
+Make a new rule section named "Cabals" below all other rules:
+> A cabal is defined as a collection of 2 or more players. A player may belong to only one cabal, and cabals are part of the game state. The creator of a cabal is the owner, and may invite other players into a cabal or kick them out. Cabals must be named.
+> 
+> All members of the Dramly cabal win the game. This applies at all moments in the game.
+
