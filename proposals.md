@@ -151,3 +151,11 @@ Make a new rule section named "Cabals" below all other rules:
 > 
 > All members of the Dramly cabal win the game. This applies at all moments in the game.
 
+<a name='18'/>
+
+## #18
+
+Depends on #11.
+Add a rule "Winning" (or append to it if it already exists):
+> The first player to reach 100 points wins the game.
+
