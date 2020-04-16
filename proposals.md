@@ -174,3 +174,9 @@ Add a new rule "The end" (%the-end) after %winning:
 
 disallow <@!160279332454006795>  from changing people's nicknames without their consent
 
+<a name='21'/>
+
+## #21
+
+If g doesn't change their nickname to something other than "g" within 48h, any of their proposals may be failed instantly. (Note: "g" refers to any player currently named "g").
+
