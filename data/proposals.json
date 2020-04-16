@@ -278,6 +278,7 @@
 			"votes": {
 				"160279332454006795": -1,
 				"309787486278909952": 1,
+				"330678593904443393": 0,
 				"390317093242929154": 0,
 				"427589146295664667": -1
 			},
@@ -291,10 +292,24 @@
 			"message_id": 700448081765859449,
 			"votes": {
 				"151149148639330304": -1,
+				"160279332454006795": -1,
 				"309787486278909952": 0,
 				"421060058009305088": 1
 			},
 			"timestamp": 1587066636
+		},
+		{
+			"n": 21,
+			"author": 330678593904443393,
+			"content": "If g doesn't change their nickname to something other than \"g\" within 48h, any of their proposals may be failed instantly. (Note: \"g\" refers to any player currently named \"g\").",
+			"status": "voting",
+			"message_id": 700460131862970438,
+			"votes": {
+				"160279332454006795": -1,
+				"309787486278909952": -1,
+				"427589146295664667": 1
+			},
+			"timestamp": 1587069509
 		}
 	]
 }
