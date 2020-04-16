@@ -168,3 +168,9 @@ Depends on #18.
 Add a new rule "The end" (%the-end) after %winning:
 > The game ends when one or more players have won.
 
+<a name='20'/>
+
+## #20
+
+disallow <@!160279332454006795>  from changing people's nicknames without their consent
+
