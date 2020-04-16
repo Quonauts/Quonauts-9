@@ -125,9 +125,5 @@ Create a new rule within %Quantities% named "Obtaining Points". This rule sectio
 
 <a name='15'/>
 
-## #15
-
-This proposal depends on #14.
-
-Move %obtaining-points into %points (it's not a quantity, so it shouldn't be an immediate subsection of %quantities).
+## #15 — Deleted
 
