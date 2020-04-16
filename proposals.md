@@ -159,3 +159,12 @@ Depends on #11.
 Add a rule "Winning" (or append to it if it already exists):
 > The first player to reach 100 points wins the game.
 
+<a name='19'/>
+
+## #19
+
+Depends on #18.
+
+Add a new rule "The end" (%the-end) after %winning:
+> The game ends when one or more players have won.
+
