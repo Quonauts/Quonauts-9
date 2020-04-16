@@ -115,3 +115,11 @@ Define a new quantity called Clay, with this description:
 Add a new section Voting Power (%voting-power) that is a subsection of %quantities:
 > Voting Power is initialized to one. Whenever a player votes on a proposal or poll, that player's vote is worth a number of votes equal to that player's Voting Power.
 
+<a name='14'/>
+
+## #14
+
+This proposal depends on propsoal #11.
+Create a new rule within %Quantities% named "Obtaining Points". This rule section should be updated whenever a new method is created.
+> When a proposal is passed, its author obtains 2 points and the person who enacted it obtains 1, if this is applicable.
+
