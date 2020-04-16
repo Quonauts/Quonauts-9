@@ -123,3 +123,11 @@ This proposal depends on propsoal #11.
 Create a new rule within %Quantities% named "Obtaining Points". This rule section should be updated whenever a new method is created.
 > When a proposal is passed, its author obtains 2 points and the person who enacted it obtains 1, if this is applicable.
 
+<a name='15'/>
+
+## #15
+
+This proposal depends on #14.
+
+Move %obtaining-points into %points (it's not a quantity, so it shouldn't be an immediate subsection of %quantities).
+
