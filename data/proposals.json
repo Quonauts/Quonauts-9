@@ -201,12 +201,25 @@
 			"n": 15,
 			"author": 309787486278909952,
 			"content": "This proposal depends on #14.\n\nMove %obtaining-points into %points (it's not a quantity, so it shouldn't be an immediate subsection of %quantities).",
-			"status": "voting",
+			"status": "deleted",
 			"message_id": 700259722078584862,
 			"votes": {
+				"160279332454006795": -1,
 				"309787486278909952": 1
 			},
 			"timestamp": 1587021727
+		},
+		{
+			"n": 16,
+			"author": 309787486278909952,
+			"content": "Edit %quantities, changing\n> When a new quantity is created, a subsection of this rule must be created, containing a short description and possible gameplay effects. The description has no relevance to the game.\nto\n> The following quantities exist:\n> *\n> \n> When a new quantity is created, it must be added to the above list, along with an optional short description. The description, if present, has no relevance to the game.\n\nIf proposal #11 has passed, add the \"points\" quantity to the list of quantities.\nIf proposal #12 has passed, add the \"clay\" quantity to the list of quantities.",
+			"status": "voting",
+			"message_id": 700298672562503711,
+			"votes": {
+				"160279332454006795": 0,
+				"309787486278909952": 1
+			},
+			"timestamp": 1587031014
 		}
 	]
 }
