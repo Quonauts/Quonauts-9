@@ -108,3 +108,10 @@ Define a new quantity named Points, with this description:
 Define a new quantity called Clay, with this description:
 *** Clay** is a positive real value which is used to build things
 
+<a name='13'/>
+
+## #13
+
+Add a new section Voting Power (%voting-power) that is a subsection of %quantities:
+> Voting Power is initialized to one. Whenever a player votes on a proposal or poll, that player's vote is worth a number of votes equal to that player's Voting Power.
+
