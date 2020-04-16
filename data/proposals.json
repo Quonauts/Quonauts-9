@@ -220,6 +220,18 @@
 				"309787486278909952": 1
 			},
 			"timestamp": 1587031014
+		},
+		{
+			"n": 17,
+			"author": 160279332454006795,
+			"content": "Make a new rule section named \"Cabals\" below all other rules:\n> A cabal is defined as a collection of 2 or more players. A player may belong to only one cabal, and cabals are part of the game state. The creator of a cabal is the owner, and may invite other players into a cabal or kick them out. Cabals must be named.\n> \n> All members of the Dramly cabal win the game. This applies at all moments in the game.",
+			"status": "voting",
+			"message_id": 700301507119153153,
+			"votes": {
+				"160279332454006795": 1,
+				"309787486278909952": 1
+			},
+			"timestamp": 1587031690
 		}
 	]
 }
