@@ -161,6 +161,7 @@
 			"message_id": 700123533002670171,
 			"votes": {
 				"151149148639330304": -1,
+				"160279332454006795": -1,
 				"330678593904443393": 0,
 				"390317093242929154": 1,
 				"427589146295664667": 1,
@@ -176,9 +177,21 @@
 			"message_id": 700146003088506971,
 			"votes": {
 				"151149148639330304": 1,
+				"160279332454006795": -1,
 				"91269654017748992": -1
 			},
 			"timestamp": 1586994615
+		},
+		{
+			"n": 14,
+			"author": 160279332454006795,
+			"content": "This proposal depends on propsoal #11.\nCreate a new rule within %Quantities% named \"Obtaining Points\". This rule section should be updated whenever a new method is created.\n> When a proposal is passed, its author obtains 2 points and the person who enacted it obtains 1, if this is applicable.",
+			"status": "voting",
+			"message_id": 700220709040816138,
+			"votes": {
+				"160279332454006795": 1
+			},
+			"timestamp": 1587012426
 		}
 	]
 }
