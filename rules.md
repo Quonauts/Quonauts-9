@@ -262,7 +262,10 @@ By default any unique quantity added to the game:
 * must be an integer.
 * must never have a negative value.
 
-When a new quantity is created, a subsection of this rule must be created, containing a short description and possible gameplay effects. The description has no relevance to the game.
+The following quantities exist:
+* **Points**: An arbritrary value which should generally be used as a reward/currency.
+
+When a new quantity is created, it must be added to the above list, along with an optional short description. The description, if present, has no relevance to the game.
 
 ### <a name='points'/> Points
 
