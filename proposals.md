@@ -188,3 +188,14 @@ This proposal depends on #16.
 
 Remove the %points rule section.
 
+<a name='23'/>
+
+## #23
+
+Edit %closing-proposals, changing
+> * A majority of active players have voted in favour of the proposal, and there are more than 2 active players.
+> * A majority of active players have voted against the proposal, and there are more than 2 active players.
+to
+> * A majority of active players have voted in favour of or abstained from voting on the proposal, and there are more than 2 active players.
+> * A majority of active players have voted against or abstained from voting on the proposal, and there are more than 2 active players.
+
