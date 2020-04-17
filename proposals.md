@@ -96,7 +96,7 @@ Add a rule "Winning" (%winning):
 
 <a name='11'/>
 
-## #11
+## #11 — Passed
 
 Define a new quantity named Points, with this description:
 *** Points** are an arbitrary (positive integer) value which should generally be used as a reward/currency.
