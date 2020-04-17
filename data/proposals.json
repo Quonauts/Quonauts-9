@@ -353,6 +353,45 @@
 				"330678593904443393": -1
 			},
 			"timestamp": 1587153109
+		},
+		{
+			"n": 24,
+			"author": 160279332454006795,
+			"content": "You're a hero, George! aaa i have a headache while writing this proposal :( im gonna sleep now goodnight please write good well thought out proposals regarding possibly like trade of the points currency, maybe even a way to buy votes (extremely expensive because op), etc",
+			"status": "voting",
+			"message_id": 700835679113838643,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": -1,
+				"309787486278909952": 0
+			},
+			"timestamp": 1587159046
+		},
+		{
+			"n": 25,
+			"author": 309787486278909952,
+			"content": "gn",
+			"status": "voting",
+			"message_id": 700835775045959830,
+			"votes": {
+				"151149148639330304": -1,
+				"309787486278909952": -1,
+				"330678593904443393": 1
+			},
+			"timestamp": 1587159069
+		},
+		{
+			"n": 26,
+			"author": 330678593904443393,
+			"content": "Edit %rule-violation-polls: Replace every occurence of \ud83c\udde6  with \ud83d\udc4d and ever occurence of \ud83c\udde7 with \ud83e\udd37.",
+			"status": "voting",
+			"message_id": 700836519547764827,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 0,
+				"330678593904443393": 1
+			},
+			"timestamp": 1587159247
 		}
 	]
 }
