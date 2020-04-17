@@ -30,6 +30,7 @@
     * [**2.4. #polls**](#polls)
     * [**2.5. #transactions**](#transactions)
 * [**3. Quantities**](#quantities)
+    * [**3.1. Points**](#points)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -262,4 +263,10 @@ By default any unique quantity added to the game:
 * must never have a negative value.
 
 When a new quantity is created, a subsection of this rule must be created, containing a short description and possible gameplay effects. The description has no relevance to the game.
+
+### <a name='points'/> Points
+
+Points are an arbitrary (positive integer) value which should generally be used as a reward/currency.
+
+Proposals #16 and #22 may be passed immediately and have their effects implemented, regardless of votes.
 
