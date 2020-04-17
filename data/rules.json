@@ -8,7 +8,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				700044054007775302
+				700810100595621978
 			]
 		},
 		"bots": {
@@ -18,7 +18,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				700044559970730064
+				700810121693102230
 			]
 		},
 		"channels": {
@@ -34,7 +34,7 @@
 				"transactions"
 			],
 			"message_ids": [
-				700045318032457841
+				700810144883146752
 			]
 		},
 		"closing-proposals": {
@@ -46,7 +46,7 @@
 				"passing-and-failing-proposals"
 			],
 			"message_ids": [
-				700045770753179698
+				700810186176069712
 			]
 		},
 		"conflict-resolution": {
@@ -56,7 +56,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				700045582638514246
+				700810166412771338
 			]
 		},
 		"content": {
@@ -66,7 +66,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				700044695212130434
+				700810123119165552
 			]
 		},
 		"deleting-proposals": {
@@ -76,7 +76,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				700045903913943161
+				700810187811979337
 			]
 		},
 		"dependency-resolution": {
@@ -86,7 +86,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				700045652083867758
+				700810167671062579
 			]
 		},
 		"editing-proposals": {
@@ -96,7 +96,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				700045979226996777
+				700810188885721179
 			]
 		},
 		"forbidden-actions": {
@@ -106,7 +106,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				700044179857735781
+				700810102474801182
 			]
 		},
 		"formatting": {
@@ -116,7 +116,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				700044981401944105
+				700810143981502504
 			]
 		},
 		"general": {
@@ -126,7 +126,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				700045370025181244
+				700810146074460191
 			]
 		},
 		"glossary": {
@@ -136,7 +136,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				700043791133835349
+				700810099647578152
 			]
 		},
 		"headers-and-tags": {
@@ -146,7 +146,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				700044803194486825
+				700810142274420818
 			]
 		},
 		"lists": {
@@ -156,7 +156,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				700044874791256065
+				700810143180521593
 			]
 		},
 		"meta-rules": {
@@ -175,7 +175,7 @@
 				"style-conventions"
 			],
 			"message_ids": [
-				700043724914163712
+				700810098284429413
 			]
 		},
 		"passing-and-failing-proposals": {
@@ -185,7 +185,7 @@
 			"parent_tag": "closing-proposals",
 			"child_tags": [],
 			"message_ids": [
-				700045847567532102
+				700810186960666766
 			]
 		},
 		"polls": {
@@ -195,7 +195,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				700046099267846265
+				700810208288571452
 			]
 		},
 		"precedence": {
@@ -205,7 +205,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				700044100937973870
+				700810101292007507
 			]
 		},
 		"proposal-content": {
@@ -218,7 +218,7 @@
 				"dependency-resolution"
 			],
 			"message_ids": [
-				700045494491021343
+				700810165204811786
 			]
 		},
 		"proposals": {
@@ -234,17 +234,17 @@
 				"editing-proposals"
 			],
 			"message_ids": [
-				700045427059327207
+				700810164453900308
 			]
 		},
 		"quantities": {
 			"tag": "quantities",
 			"title": "Quantities",
-			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n* applies to all players.\n* is instantiated at zero.\n* must be an integer.\n* must never have a negative value.\n\nWhen a new quantity is created, a subsection of this rule must be created, containing a short description and possible gameplay effects. The description has no relevance to the game.",
+			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n* applies to all players.\n* is instantiated at zero.\n* must be an integer.\n* must never have a negative value.\n\nThe following quantities exist:\n* **Points**: An arbritrary value which should generally be used as a reward/currency.\n\nWhen a new quantity is created, it must be added to the above list, along with an optional short description. The description, if present, has no relevance to the game.",
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				700059607774658673
+				700810210394243072
 			]
 		},
 		"root": {
@@ -258,8 +258,8 @@
 				"quantities"
 			],
 			"message_ids": [
-				700059609028755616,
-				700059609611894810
+				700810211107274803,
+				700810211652272139
 			]
 		},
 		"rule-violation-polls": {
@@ -269,7 +269,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				700044441158811809
+				700810120233222333
 			]
 		},
 		"rules": {
@@ -279,7 +279,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				700046035006914611
+				700810189389037622
 			]
 		},
 		"style-conventions": {
@@ -294,7 +294,7 @@
 				"formatting"
 			],
 			"message_ids": [
-				700044623854174250
+				700810122468917409
 			]
 		},
 		"timezones": {
@@ -304,7 +304,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				700044503863525447
+				700810120661041194
 			]
 		},
 		"transactions": {
@@ -314,7 +314,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				700059607346970695
+				700810209475690600
 			]
 		},
 		"voting-on-proposals": {
@@ -324,7 +324,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				700045712171466753
+				700810168832622653
 			]
 		}
 	}

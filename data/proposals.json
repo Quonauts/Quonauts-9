@@ -147,7 +147,7 @@
 			"n": 11,
 			"author": 160279332454006795,
 			"content": "Define a new quantity named Points, with this description:\n*** Points** are an arbitrary (positive integer) value which should generally be used as a reward/currency.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 700106997890023595,
 			"votes": {
 				"151149148639330304": 1,
@@ -230,7 +230,7 @@
 			"n": 16,
 			"author": 309787486278909952,
 			"content": "Edit %quantities, changing\n> When a new quantity is created, a subsection of this rule must be created, containing a short description and possible gameplay effects. The description has no relevance to the game.\nto\n> The following quantities exist:\n> *\n> \n> When a new quantity is created, it must be added to the above list, along with an optional short description. The description, if present, has no relevance to the game.\n\nIf proposal #11 has passed, add the \"points\" quantity to the list of quantities.\nIf proposal #12 has passed, add the \"clay\" quantity to the list of quantities.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 700298672562503711,
 			"votes": {
 				"151149148639330304": -1,
@@ -328,6 +328,28 @@
 				"91269654017748992": 1
 			},
 			"timestamp": 1587069509
+		},
+		{
+			"n": 22,
+			"author": 309787486278909952,
+			"content": "This proposal depends on #16.\n\nRemove the %points rule section.",
+			"status": "passed",
+			"message_id": 700809308744712362,
+			"votes": {
+				"309787486278909952": -1
+			},
+			"timestamp": 1587152759
+		},
+		{
+			"n": 23,
+			"author": 309787486278909952,
+			"content": "Edit %closing-proposals, changing\n> * A majority of active players have voted in favour of the proposal, and there are more than 2 active players.\n> * A majority of active players have voted against the proposal, and there are more than 2 active players.\nto\n> * A majority of active players have voted in favour of or abstained from voting on the proposal, and there are more than 2 active players.\n> * A majority of active players have voted against or abstained from voting on the proposal, and there are more than 2 active players.",
+			"status": "voting",
+			"message_id": 700810778386628608,
+			"votes": {
+				"309787486278909952": 1
+			},
+			"timestamp": 1587153109
 		}
 	]
 }
