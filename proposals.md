@@ -205,3 +205,9 @@ to
 
 You're a hero, George! aaa i have a headache while writing this proposal :( im gonna sleep now goodnight please write good well thought out proposals regarding possibly like trade of the points currency, maybe even a way to buy votes (extremely expensive because op), etc
 
+<a name='25'/>
+
+## #25
+
+gn
+
