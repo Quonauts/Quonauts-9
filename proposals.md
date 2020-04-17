@@ -129,7 +129,7 @@ Create a new rule within %Quantities% named "Obtaining Points". This rule sectio
 
 <a name='16'/>
 
-## #16
+## #16 — Passed
 
 Edit %quantities, changing
 > When a new quantity is created, a subsection of this rule must be created, containing a short description and possible gameplay effects. The description has no relevance to the game.
