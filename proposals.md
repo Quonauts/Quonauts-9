@@ -211,3 +211,9 @@ You're a hero, George! aaa i have a headache while writing this proposal :( im g
 
 gn
 
+<a name='26'/>
+
+## #26
+
+Edit %rule-violation-polls: Replace every occurence of 🇦  with 👍 and ever occurence of 🇧 with 🤷.
+
