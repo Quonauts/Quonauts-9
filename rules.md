@@ -30,7 +30,6 @@
     * [**2.4. #polls**](#polls)
     * [**2.5. #transactions**](#transactions)
 * [**3. Quantities**](#quantities)
-    * [**3.1. Points**](#points)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -266,10 +265,4 @@ The following quantities exist:
 * **Points**: An arbritrary value which should generally be used as a reward/currency.
 
 When a new quantity is created, it must be added to the above list, along with an optional short description. The description, if present, has no relevance to the game.
-
-### <a name='points'/> Points
-
-Points are an arbitrary (positive integer) value which should generally be used as a reward/currency.
-
-Proposals #16 and #22 may be passed immediately and have their effects implemented, regardless of votes.
 
