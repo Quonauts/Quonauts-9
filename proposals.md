@@ -182,7 +182,7 @@ If g doesn't change their nickname to something other than "g" within 48h, any o
 
 <a name='22'/>
 
-## #22
+## #22 — Passed
 
 This proposal depends on #16.
 
