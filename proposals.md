@@ -61,7 +61,7 @@ This proposal is incompatible with #6.
 
 <a name='7'/>
 
-## #7
+## #7 — Failed
 
 <@!549449251822764043> wins Quonauts 9
 
