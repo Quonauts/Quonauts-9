@@ -178,6 +178,16 @@
 				700810098284429413
 			]
 		},
+		"obtaining-points": {
+			"tag": "obtaining-points",
+			"title": "Obtaining points",
+			"content": "When a proposal is passed, its author obtains 2 points and the person who enacted it obtains 1, if this is applicable.",
+			"parent_tag": "quantities",
+			"child_tags": [],
+			"message_ids": [
+				700973502525603932
+			]
+		},
 		"passing-and-failing-proposals": {
 			"tag": "passing-and-failing-proposals",
 			"title": "Passing and failing proposals",
@@ -242,7 +252,9 @@
 			"title": "Quantities",
 			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n* applies to all players.\n* is instantiated at zero.\n* must be an integer.\n* must never have a negative value.\n\nThe following quantities exist:\n* **Points**: An arbritrary value which should generally be used as a reward/currency.\n\nWhen a new quantity is created, it must be added to the above list, along with an optional short description. The description, if present, has no relevance to the game.",
 			"parent_tag": "root",
-			"child_tags": [],
+			"child_tags": [
+				"obtaining-points"
+			],
 			"message_ids": [
 				700810210394243072
 			]
@@ -258,8 +270,8 @@
 				"quantities"
 			],
 			"message_ids": [
-				700810211107274803,
-				700810211652272139
+				700973503817580554,
+				700973504371228673
 			]
 		},
 		"rule-violation-polls": {

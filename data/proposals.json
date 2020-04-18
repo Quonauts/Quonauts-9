@@ -67,7 +67,7 @@
 			"n": 6,
 			"author": 160279332454006795,
 			"content": "This proposal is incompatible with #6.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 700099084102533190,
 			"votes": {
 				"151149148639330304": 1,
@@ -84,7 +84,7 @@
 			"n": 7,
 			"author": 421060058009305088,
 			"content": "<@!549449251822764043> wins Quonauts 9",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 700102449272193094,
 			"votes": {
 				"151149148639330304": -1,
@@ -128,7 +128,7 @@
 			"n": 10,
 			"author": 330678593904443393,
 			"content": "Add a rule \"Winning\" (%winning):\n> Any player who successfully finishes construction of a death star wins the game.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 700106973714317384,
 			"votes": {
 				"151149148639330304": 1,
@@ -166,7 +166,7 @@
 			"n": 12,
 			"author": 390317093242929154,
 			"content": "Define a new quantity called Clay, with this description:\n*** Clay** is a positive real value which is used to build things",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 700123533002670171,
 			"votes": {
 				"151149148639330304": -1,
@@ -185,7 +185,7 @@
 			"n": 13,
 			"author": 151149148639330304,
 			"content": "Add a new section Voting Power (%voting-power) that is a subsection of %quantities:\n> Voting Power is initialized to one. Whenever a player votes on a proposal or poll, that player's vote is worth a number of votes equal to that player's Voting Power.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 700146003088506971,
 			"votes": {
 				"151149148639330304": 1,
@@ -201,7 +201,7 @@
 			"n": 14,
 			"author": 160279332454006795,
 			"content": "This proposal depends on propsoal #11.\nCreate a new rule within %Quantities% named \"Obtaining Points\". This rule section should be updated whenever a new method is created.\n> When a proposal is passed, its author obtains 2 points and the person who enacted it obtains 1, if this is applicable.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 700220709040816138,
 			"votes": {
 				"151149148639330304": -1,
@@ -396,6 +396,17 @@
 				"364562317645709336": 1
 			},
 			"timestamp": 1587159247
+		},
+		{
+			"n": 27,
+			"author": 309787486278909952,
+			"content": "Create quantities land-x and land-y, which can be negative.\n\nCreate a new rule \"#the-land\" (%the-land) in %channels:\n> #the-land is used to announce land actions.\n\nCreate a new rule \"Land\" (%land) in %root:\n> The Land is an infinite square lattice. A 'land tile' is a point of this lattice, and has corresponding coordinates.\n> \n> 'land-x' and 'land-y' are quantities. A player with (land-x, land-y) matching the coordinates of a certain land tile 'resides' in that land tile.\n> \n> 'North' and 'South' respectively correspond to the positive and negative y-axis, and 'East' and 'West' respectively to the positive and negative x-axis.\n\nCreate a new rule \"Land actions\" (%land-actions) in %land:\n> Each subsection of this rule corresponds to a land action. Players make a land action by announcing it the #the-land, and carrying out the effects as specified by the subsection. After a player makes an action, they must wait 12 hours before performing another action.\n\nCreate a new rule \"Land movement\" (%land-movement) in %land-actions:\n> As a land action, a player may move to a neighbouring tile, i.e. add or subtract one from their land-x or land-y.",
+			"status": "voting",
+			"message_id": 700976730101383209,
+			"votes": {
+				"309787486278909952": 1
+			},
+			"timestamp": 1587192675
 		}
 	]
 }
