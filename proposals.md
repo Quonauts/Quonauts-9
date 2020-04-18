@@ -279,3 +279,12 @@ Edit %glossary, changing the definition of "Game State" from
 to
 > Every current rule; every non-deleted proposal and any votes on it; every poll and any votes on it; every quantity and each player's amount of that quantity; and every message or reaction in any game channel.
 
+<a name='30'/>
+
+## #30
+
+Create new quantity "ponits", with the description:
+* **Ponits** describes how many ponits a player owns. A ponit may use the moves "Tackl", "Embr", "Flame Charg" and "Stmp".
+
+Give <@!91269654017748992> one ponit.
+
