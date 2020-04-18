@@ -270,3 +270,12 @@ Create a new rule "Trade" (%trade) in %land-actions:
 > 
 > After a trade, both players must wait one hour, after which they may perform another action (this overrides the usual 12 hour cooldown).
 
+<a name='29'/>
+
+## #29
+
+Edit %glossary, changing the definition of "Game State" from
+> Every current rule; every non-deleted proposal and any votes on it; every poll and any votes on it; and every message or reaction in any game channel.
+to
+> Every current rule; every non-deleted proposal and any votes on it; every poll and any votes on it; every quantity and each player's amount of that quantity; and every message or reaction in any game channel.
+
