@@ -217,3 +217,25 @@ gn
 
 Edit %rule-violation-polls: Replace every occurence of 🇦  with 👍 and ever occurence of 🇧 with 🤷.
 
+<a name='27'/>
+
+## #27
+
+Create quantities land-x and land-y, which can be negative.
+
+Create a new rule "#the-land" (%the-land) in %channels:
+> #the-land is used to announce land actions.
+
+Create a new rule "Land" (%land) in %root:
+> The Land is an infinite square lattice. A 'land tile' is a point of this lattice, and has corresponding coordinates.
+> 
+> 'land-x' and 'land-y' are quantities. A player with (land-x, land-y) matching the coordinates of a certain land tile 'resides' in that land tile.
+> 
+> 'North' and 'South' respectively correspond to the positive and negative y-axis, and 'East' and 'West' respectively to the positive and negative x-axis.
+
+Create a new rule "Land actions" (%land-actions) in %land:
+> Each subsection of this rule corresponds to a land action. Players make a land action by announcing it the #the-land, and carrying out the effects as specified by the subsection. After a player makes an action, they must wait 12 hours before performing another action.
+
+Create a new rule "Land movement" (%land-movement) in %land-actions:
+> As a land action, a player may move to a neighbouring tile, i.e. add or subtract one from their land-x or land-y.
+
