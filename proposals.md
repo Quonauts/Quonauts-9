@@ -55,7 +55,7 @@ Add Sinthorion to active players.
 
 <a name='6'/>
 
-## #6
+## #6 — Passed
 
 This proposal is incompatible with #6.
 
