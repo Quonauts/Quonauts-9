@@ -89,7 +89,7 @@ to %closing-proposals
 
 <a name='10'/>
 
-## #10
+## #10 — Failed
 
 Add a rule "Winning" (%winning):
 > Any player who successfully finishes construction of a death star wins the game.
