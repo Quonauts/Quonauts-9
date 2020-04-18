@@ -110,7 +110,7 @@ Define a new quantity called Clay, with this description:
 
 <a name='13'/>
 
-## #13
+## #13 — Failed
 
 Add a new section Voting Power (%voting-power) that is a subsection of %quantities:
 > Voting Power is initialized to one. Whenever a player votes on a proposal or poll, that player's vote is worth a number of votes equal to that player's Voting Power.
