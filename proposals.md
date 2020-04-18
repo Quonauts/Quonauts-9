@@ -103,7 +103,7 @@ Define a new quantity named Points, with this description:
 
 <a name='12'/>
 
-## #12
+## #12 — Failed
 
 Define a new quantity called Clay, with this description:
 *** Clay** is a positive real value which is used to build things
