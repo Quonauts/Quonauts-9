@@ -410,6 +410,7 @@
 			"message_id": 700976730101383209,
 			"votes": {
 				"309787486278909952": 1,
+				"421060058009305088": 1,
 				"91269654017748992": 1
 			},
 			"timestamp": 1587192675
@@ -449,6 +450,18 @@
 				"91269654017748992": 1
 			},
 			"timestamp": 1587198868
+		},
+		{
+			"n": 31,
+			"author": 421060058009305088,
+			"content": "Create a vote. Any player may vote for any active player. Any one of those players who gets at least three votes in twenty-four hours loses.",
+			"status": "voting",
+			"message_id": 701072363923701880,
+			"votes": {
+				"309787486278909952": -1,
+				"421060058009305088": 0
+			},
+			"timestamp": 1587215476
 		}
 	]
 }
