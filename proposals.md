@@ -239,3 +239,34 @@ Create a new rule "Land actions" (%land-actions) in %land:
 Create a new rule "Land movement" (%land-movement) in %land-actions:
 > As a land action, a player may move to a neighbouring tile, i.e. add or subtract one from their land-x or land-y.
 
+<a name='28'/>
+
+## #28
+
+This proposal depends on #27.
+
+Edit %quantities, changing
+> By default any unique quantity added to the game:
+> * applies to all players.
+> * is instantiated at zero.
+> * must be an integer.
+> * must never have a negative value
+to
+> By default any unique quantity added to the game:
+> * applies to all players.
+> * is instantiated at zero.
+> * must be an integer.
+> * must never have a negative value
+> * may be traded.
+
+The land-x and land-y quantities may not be traded. Their descriptions in %quantities may be edited to reflect this.
+
+Create a new rule "Trade" (%trade) in %land-actions:
+> As an action, two players residing in the same land tile may trade a certain number of points in exchange for a certain number of another tradable quantity.
+> 
+> Both amounts must be greater than zero. Both players must have amounts of their quantity greater than or equal to the amounts specified in the trade.
+> 
+> After both players announce the trade in #the-land (they must both specify which quantities will be traded, and the amounts, and both players' announcements must match), the quantities are exchanged as per the trade.
+> 
+> After a trade, both players must wait one hour, after which they may perform another action (this overrides the usual 12 hour cooldown).
+
