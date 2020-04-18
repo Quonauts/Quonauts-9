@@ -288,3 +288,9 @@ Create new quantity "ponits", with the description:
 
 Give <@!91269654017748992> one ponit.
 
+<a name='31'/>
+
+## #31
+
+Create a vote. Any player may vote for any active player. Any one of those players who gets at least three votes in twenty-four hours loses.
+
