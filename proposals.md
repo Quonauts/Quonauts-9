@@ -117,7 +117,7 @@ Add a new section Voting Power (%voting-power) that is a subsection of %quantiti
 
 <a name='14'/>
 
-## #14
+## #14 — Passed
 
 This proposal depends on propsoal #11.
 Create a new rule within %Quantities% named "Obtaining Points". This rule section should be updated whenever a new method is created.
