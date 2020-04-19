@@ -316,3 +316,9 @@ Create a new quantity "land" (the amount of land a player has claimed)
 Create a new rule "Claiming land" (%claiming-land) in %land-actions:
 > As a land action, a player who resides in a land tile that has not been claimed may claim that land tile. When a player claims a land tile, they gain 1 land.
 
+<a name='35'/>
+
+## #35
+
+Players have spaceships with which they can travel around. Replace every occurrence of "land" in rule %land or any sub-rule of it (including the rule titles and tags) with "space" (maintaining the same capitalisation).
+
