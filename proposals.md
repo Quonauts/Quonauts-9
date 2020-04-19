@@ -294,3 +294,9 @@ Give <@!91269654017748992> one ponit.
 
 Create a vote. Any player may vote for any active player. Any one of those players who gets at least three votes in twenty-four hours loses.
 
+<a name='32'/>
+
+## #32
+
+hi
+
