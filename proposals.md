@@ -190,7 +190,7 @@ Remove the %points rule section.
 
 <a name='23'/>
 
-## #23
+## #23 — Failed
 
 Edit %closing-proposals, changing
 > * A majority of active players have voted in favour of the proposal, and there are more than 2 active players.
