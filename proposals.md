@@ -161,7 +161,7 @@ Add a rule "Winning" (or append to it if it already exists):
 
 <a name='19'/>
 
-## #19
+## #19 — Failed
 
 Depends on #18.
 
