@@ -307,3 +307,12 @@ hi
 Create a new quantity called "prestige points" with the following description:
 * At any time, a player may exchange their points for half as many prestige points, rounded down. Players may trade prestige points for any other quantities which may be legally traded.
 
+<a name='34'/>
+
+## #34
+
+Create a new quantity "land" (the amount of land a player has claimed)
+
+Create a new rule "Claiming land" (%claiming-land) in %land-actions:
+> As a land action, a player who resides in a land tile that has not been claimed may claim that land tile. When a player claims a land tile, they gain 1 land.
+
