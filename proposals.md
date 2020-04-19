@@ -219,7 +219,7 @@ Edit %rule-violation-polls: Replace every occurence of 🇦  with 👍 and ever 
 
 <a name='27'/>
 
-## #27
+## #27 — Passed
 
 Create quantities land-x and land-y, which can be negative.
 
