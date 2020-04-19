@@ -170,7 +170,7 @@ Add a new rule "The end" (%the-end) after %winning:
 
 <a name='20'/>
 
-## #20
+## #20 — Failed
 
 disallow <@!160279332454006795>  from changing people's nicknames without their consent
 
