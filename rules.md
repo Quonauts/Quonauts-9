@@ -29,6 +29,7 @@
     * [**2.3. #rules**](#rules)
     * [**2.4. #polls**](#polls)
     * [**2.5. #transactions**](#transactions)
+    * [**2.6. #the-land**](#the-land)
 * [**3. Quantities**](#quantities)
     * [**3.1. Obtaining points**](#obtaining-points)
 
@@ -251,6 +252,10 @@ When a poll is closed, no more votes may be cast on it, and it may not be edited
 ### <a name='transactions'/> #transactions
 
 The <#700059517605511189> channel may be used to modify quantities, but only in ways specifically allowed by the rules.
+
+### <a name='the-land'/> #the-land
+
+<#701462982042976297> is used to announce land actions.
 
 ## <a name='quantities'/> Quantities
 
