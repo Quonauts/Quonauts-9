@@ -293,6 +293,5 @@ Each subsection of this rule corresponds to a land action. Players make a land a
 
 #### <a name='land-movement'/> Land movement
 
-Create a new rule "Land movement" (%land-movement) in %land-actions:
 As a land action, a player may move to a neighbouring tile, i.e. add or subtract one from their land-x or land-y.
 
