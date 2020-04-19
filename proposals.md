@@ -300,3 +300,10 @@ Create a vote. Any player may vote for any active player. Any one of those playe
 
 hi
 
+<a name='33'/>
+
+## #33
+
+Create a new quantity called "prestige points" with the following description:
+* At any time, a player may exchange their points for half as many prestige points, rounded down. Players may trade prestige points for any other quantities which may be legally traded.
+
