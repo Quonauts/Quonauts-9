@@ -344,7 +344,7 @@
 			"n": 23,
 			"author": 309787486278909952,
 			"content": "Edit %closing-proposals, changing\n> * A majority of active players have voted in favour of the proposal, and there are more than 2 active players.\n> * A majority of active players have voted against the proposal, and there are more than 2 active players.\nto\n> * A majority of active players have voted in favour of or abstained from voting on the proposal, and there are more than 2 active players.\n> * A majority of active players have voted against or abstained from voting on the proposal, and there are more than 2 active players.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 700810778386628608,
 			"votes": {
 				"151149148639330304": -1,
@@ -517,6 +517,18 @@
 				"91269654017748992": -1
 			},
 			"timestamp": 1587319079
+		},
+		{
+			"n": 35,
+			"author": 330678593904443393,
+			"content": "Players have spaceships with which they can travel around. Replace every occurrence of \"land\" in rule %land or any sub-rule of it (including the rule titles and tags) with \"space\" (maintaining the same capitalisation).",
+			"status": "voting",
+			"message_id": 701543702698655764,
+			"votes": {
+				"309787486278909952": -1,
+				"330678593904443393": 1
+			},
+			"timestamp": 1587327852
 		}
 	]
 }
