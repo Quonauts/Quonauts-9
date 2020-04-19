@@ -32,6 +32,7 @@
     * [**2.6. #the-land**](#the-land)
 * [**3. Quantities**](#quantities)
     * [**3.1. Obtaining points**](#obtaining-points)
+* [**4. Land**](#land)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -275,4 +276,12 @@ When a new quantity is created, it must be added to the above list, along with a
 ### <a name='obtaining-points'/> Obtaining points
 
 When a proposal is passed, its author obtains 2 points and the person who enacted it obtains 1, if this is applicable.
+
+## <a name='land'/> Land
+
+The Land is an infinite square lattice. A 'land tile' is a point of this lattice, and has corresponding coordinates.
+
+'land-x' and 'land-y' are quantities. A player with (land-x, land-y) matching the coordinates of a certain land tile 'resides' in that land tile.
+
+'North' and 'South' respectively correspond to the positive and negative y-axis, and 'East' and 'West' respectively to the positive and negative x-axis.
 
