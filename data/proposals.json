@@ -315,7 +315,7 @@
 			"n": 21,
 			"author": 330678593904443393,
 			"content": "If g doesn't change their nickname to something other than \"g\" within 48h, any of their proposals may be failed instantly. (Note: \"g\" refers to any player currently named \"g\").",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 700460131862970438,
 			"votes": {
 				"151149148639330304": -1,
@@ -406,7 +406,7 @@
 			"n": 27,
 			"author": 309787486278909952,
 			"content": "Create quantities land-x and land-y, which can be negative.\n\nCreate a new rule \"#the-land\" (%the-land) in %channels:\n> #the-land is used to announce land actions.\n\nCreate a new rule \"Land\" (%land) in %root:\n> The Land is an infinite square lattice. A 'land tile' is a point of this lattice, and has corresponding coordinates.\n> \n> 'land-x' and 'land-y' are quantities. A player with (land-x, land-y) matching the coordinates of a certain land tile 'resides' in that land tile.\n> \n> 'North' and 'South' respectively correspond to the positive and negative y-axis, and 'East' and 'West' respectively to the positive and negative x-axis.\n\nCreate a new rule \"Land actions\" (%land-actions) in %land:\n> Each subsection of this rule corresponds to a land action. Players make a land action by announcing it the #the-land, and carrying out the effects as specified by the subsection. After a player makes an action, they must wait 12 hours before performing another action.\n\nCreate a new rule \"Land movement\" (%land-movement) in %land-actions:\n> As a land action, a player may move to a neighbouring tile, i.e. add or subtract one from their land-x or land-y.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 700976730101383209,
 			"votes": {
 				"151149148639330304": 1,
@@ -482,7 +482,8 @@
 			"status": "voting",
 			"message_id": 701462304965001317,
 			"votes": {
-				"309787486278909952": 1
+				"309787486278909952": 1,
+				"91269654017748992": -1
 			},
 			"timestamp": 1587308445
 		}

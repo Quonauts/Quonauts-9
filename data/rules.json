@@ -31,7 +31,8 @@
 				"proposals",
 				"rules",
 				"polls",
-				"transactions"
+				"transactions",
+				"the-land"
 			],
 			"message_ids": [
 				700810144883146752
@@ -149,6 +150,40 @@
 				700810142274420818
 			]
 		},
+		"land": {
+			"tag": "land",
+			"title": "Land",
+			"content": "The Land is an infinite square lattice. A 'land tile' is a point of this lattice, and has corresponding coordinates.\n\n'land-x' and 'land-y' are quantities. A player with (land-x, land-y) matching the coordinates of a certain land tile 'resides' in that land tile.\n\n'North' and 'South' respectively correspond to the positive and negative y-axis, and 'East' and 'West' respectively to the positive and negative x-axis.",
+			"parent_tag": "root",
+			"child_tags": [
+				"land-actions"
+			],
+			"message_ids": [
+				701463173038997635
+			]
+		},
+		"land-actions": {
+			"tag": "land-actions",
+			"title": "Land actions",
+			"content": "Each subsection of this rule corresponds to a land action. Players make a land action by announcing it the <#701462982042976297>, and carrying out the effects as specified by the subsection. After a player makes an action, they must wait 12 hours before performing another action.",
+			"parent_tag": "land",
+			"child_tags": [
+				"land-movement"
+			],
+			"message_ids": [
+				701463254115024987
+			]
+		},
+		"land-movement": {
+			"tag": "land-movement",
+			"title": "Land movement",
+			"content": "As a land action, a player may move to a neighbouring tile, i.e. add or subtract one from their land-x or land-y.",
+			"parent_tag": "land-actions",
+			"child_tags": [],
+			"message_ids": [
+				701463505349378098
+			]
+		},
 		"lists": {
 			"tag": "lists",
 			"title": "Lists",
@@ -185,7 +220,7 @@
 			"parent_tag": "quantities",
 			"child_tags": [],
 			"message_ids": [
-				700973502525603932
+				701463089278877776
 			]
 		},
 		"passing-and-failing-proposals": {
@@ -256,7 +291,7 @@
 				"obtaining-points"
 			],
 			"message_ids": [
-				700810210394243072
+				701463087982837822
 			]
 		},
 		"root": {
@@ -267,11 +302,12 @@
 			"child_tags": [
 				"meta-rules",
 				"channels",
-				"quantities"
+				"quantities",
+				"land"
 			],
 			"message_ids": [
-				700973503817580554,
-				700973504371228673
+				701463506356011058,
+				701463507425820892
 			]
 		},
 		"rule-violation-polls": {
@@ -307,6 +343,16 @@
 			],
 			"message_ids": [
 				700810122468917409
+			]
+		},
+		"the-land": {
+			"tag": "the-land",
+			"title": "#the-land",
+			"content": "<#701462982042976297> is used to announce land actions.",
+			"parent_tag": "channels",
+			"child_tags": [],
+			"message_ids": [
+				701463086988787802
 			]
 		},
 		"timezones": {

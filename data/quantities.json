@@ -1,4 +1,20 @@
 {
+	"land-x": {
+		"name": "land-x",
+		"aliases": [
+			"x"
+		],
+		"players": {},
+		"default_value": 0
+	},
+	"land-y": {
+		"name": "land-y",
+		"aliases": [
+			"y"
+		],
+		"players": {},
+		"default_value": 0
+	},
 	"points": {
 		"name": "points",
 		"aliases": [],
