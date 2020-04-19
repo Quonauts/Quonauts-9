@@ -247,7 +247,7 @@
 			"n": 17,
 			"author": 160279332454006795,
 			"content": "Make a new rule section named \"Cabals\" below all other rules:\n> A cabal is defined as a collection of 2 or more players. A player may belong to only one cabal, and cabals are part of the game state. The creator of a cabal is the owner, and may invite other players into a cabal or kick them out. Cabals must be named.\n> \n> All members of the Dramly cabal win the game. This applies at all moments in the game.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 700301507119153153,
 			"votes": {
 				"151149148639330304": -1,
@@ -265,7 +265,7 @@
 			"n": 18,
 			"author": 330678593904443393,
 			"content": "Depends on #11.\nAdd a rule \"Winning\" (or append to it if it already exists):\n> The first player to reach 100 points wins the game.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 700341643634802778,
 			"votes": {
 				"151149148639330304": -1,
@@ -281,7 +281,7 @@
 			"n": 19,
 			"author": 309787486278909952,
 			"content": "Depends on #18.\n\nAdd a new rule \"The end\" (%the-end) after %winning:\n> The game ends when one or more players have won.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 700391440106389545,
 			"votes": {
 				"160279332454006795": -1,
@@ -299,7 +299,7 @@
 			"n": 20,
 			"author": 421060058009305088,
 			"content": "disallow <@!160279332454006795>  from changing people's nicknames without their consent",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 700448081765859449,
 			"votes": {
 				"151149148639330304": -1,
@@ -453,7 +453,7 @@
 			"message_id": 701002704662822972,
 			"votes": {
 				"151149148639330304": 1,
-				"309787486278909952": 0,
+				"309787486278909952": -1,
 				"421060058009305088": -1,
 				"427589146295664667": 1,
 				"91269654017748992": 1
@@ -512,7 +512,8 @@
 			"message_id": 701506904693932042,
 			"votes": {
 				"151149148639330304": 1,
-				"309787486278909952": 1
+				"309787486278909952": 1,
+				"421060058009305088": 1
 			},
 			"timestamp": 1587319079
 		}
