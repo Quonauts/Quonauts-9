@@ -153,7 +153,7 @@ Make a new rule section named "Cabals" below all other rules:
 
 <a name='18'/>
 
-## #18
+## #18 — Failed
 
 Depends on #11.
 Add a rule "Winning" (or append to it if it already exists):
