@@ -34,6 +34,7 @@
     * [**3.1. Obtaining points**](#obtaining-points)
 * [**4. Land**](#land)
     * [**4.1. Land actions**](#land-actions)
+        * [**4.1.1. Land movement**](#land-movement)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -289,4 +290,9 @@ The Land is an infinite square lattice. A 'land tile' is a point of this lattice
 ### <a name='land-actions'/> Land actions
 
 Each subsection of this rule corresponds to a land action. Players make a land action by announcing it the <#701462982042976297>, and carrying out the effects as specified by the subsection. After a player makes an action, they must wait 12 hours before performing another action.
+
+#### <a name='land-movement'/> Land movement
+
+Create a new rule "Land movement" (%land-movement) in %land-actions:
+As a land action, a player may move to a neighbouring tile, i.e. add or subtract one from their land-x or land-y.
 
