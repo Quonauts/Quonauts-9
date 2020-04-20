@@ -331,3 +331,13 @@ Create a new property named "Proposals" with the following description:
 Add a new paragraph to "Obtaining Points":
 > For every 10 "Proposals" the author has, add one to the amount of points they receive upon their proposal being successfully passed.
 
+<a name='37'/>
+
+## #37
+
+(whoops)
+This proposal depends on proposal #36.
+Add a new rule section within Quantities named "Obtaining Proposals":
+> When a proposal is legally passed, its author gains one "Proposal" (as in, the quantity).
+> If 3 proposals by the same author are failed in a span of 24 hours, and this failing is due to the proposal having more/equal against votes than for, then the authors "Proposals" decrease by 1, and 1 per every proposal failed afterwards which also fits in this time period. Proposals cannot be negative, and if a player would gain negative Proposals, they will merely stay at 1 Proposal.
+
