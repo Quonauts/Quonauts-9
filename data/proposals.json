@@ -589,6 +589,17 @@
 				"309787486278909952": 1
 			},
 			"timestamp": 1587391687
+		},
+		{
+			"n": 39,
+			"author": 421060058009305088,
+			"content": "give <@!421060058009305088> a new role, \"mapman\", since they're the only person that's actually updating the maps",
+			"status": "voting",
+			"message_id": 701821952700055583,
+			"votes": {
+				"421060058009305088": 0
+			},
+			"timestamp": 1587394192
 		}
 	]
 }
