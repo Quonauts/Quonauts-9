@@ -241,7 +241,7 @@ Create a new rule "Land movement" (%land-movement) in %land-actions:
 
 <a name='28'/>
 
-## #28
+## #28 — Passed
 
 This proposal depends on #27.
 
