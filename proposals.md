@@ -353,3 +353,9 @@ Replace the following in %trade:
 with:
 > > As an action, two players residing in neighboring land tiles (land tiles within at most 1 distance of each other) may trade a certain number of points in exchange for a certain number of another tradable quantity.
 
+<a name='39'/>
+
+## #39
+
+give <@!421060058009305088> a new role, "mapman", since they're the only person that's actually updating the maps
+
