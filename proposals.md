@@ -346,7 +346,7 @@ Add a new rule section within Quantities named "Obtaining Proposals":
 ## #38
 
 Append the following to the end of %land-movement:
-> A player may not move to a tile if another player currently resides there.
+> A player may not move to a land tile if another player currently resides there.
 
 Replace the following in %trade:
 > As an action, two players residing in the same land tile may trade a certain number of points in exchange for a certain number of another tradable quantity.
