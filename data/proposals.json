@@ -484,6 +484,7 @@
 			"message_id": 701462304965001317,
 			"votes": {
 				"151149148639330304": -1,
+				"160279332454006795": 1,
 				"309787486278909952": 1,
 				"421060058009305088": 1,
 				"91269654017748992": -1
@@ -498,6 +499,7 @@
 			"message_id": 701495094393438288,
 			"votes": {
 				"151149148639330304": -1,
+				"160279332454006795": -1,
 				"309787486278909952": 0,
 				"421060058009305088": 1,
 				"91269654017748992": 0
@@ -531,6 +533,17 @@
 				"91269654017748992": 0
 			},
 			"timestamp": 1587327852
+		},
+		{
+			"n": 36,
+			"author": 160279332454006795,
+			"content": "Create a new property named \"Proposals\" with the following description:\n> * When a proposal is (legally) passed, the author gains one \"Proposal\".\nAdd a new paragraph to \"Obtaining Points\":\n> For every 10 \"Proposals\" the author has, add one to the amount of points they receive upon their proposal being successfully passed.",
+			"status": "voting",
+			"message_id": 701662761532391544,
+			"votes": {
+				"160279332454006795": 1
+			},
+			"timestamp": 1587356238
 		}
 	]
 }
