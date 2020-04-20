@@ -341,3 +341,15 @@ Add a new rule section within Quantities named "Obtaining Proposals":
 > When a proposal is legally passed, its author gains one "Proposal" (as in, the quantity).
 > If 3 proposals by the same author are failed in a span of 24 hours, and this failing is due to the proposal having more/equal against votes than for, then the authors "Proposals" decrease by 1, and 1 per every proposal failed afterwards which also fits in this time period. Proposals cannot be negative, and if a player would gain negative Proposals, they will merely stay at 1 Proposal.
 
+<a name='38'/>
+
+## #38
+
+Append the following to the end of %land-movement:
+> A player may not move to a tile if another player currently resides there.
+
+Replace the following in %trade:
+> As an action, two players residing in the same land tile may trade a certain number of points in exchange for a certain number of another tradable quantity.
+with:
+> > As an action, two players residing in neighboring land tiles (land tiles within at most 1 distance of each other) may trade a certain number of points in exchange for a certain number of another tradable quantity.
+
