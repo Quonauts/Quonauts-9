@@ -577,6 +577,18 @@
 				"91269654017748992": -1
 			},
 			"timestamp": 1587358670
+		},
+		{
+			"n": 38,
+			"author": 151149148639330304,
+			"content": "Append the following to the end of %land-movement:\n> A player may not move to a land tile if another player currently resides there.\n\nReplace the following in %trade:\n> As an action, two players residing in the same land tile may trade a certain number of points in exchange for a certain number of another tradable quantity.\nwith:\n> > As an action, two players residing in neighboring land tiles (land tiles within at most 1 distance of each other) may trade a certain number of points in exchange for a certain number of another tradable quantity.",
+			"status": "voting",
+			"message_id": 701811445360361572,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 1
+			},
+			"timestamp": 1587391687
 		}
 	]
 }
