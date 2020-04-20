@@ -290,7 +290,7 @@ Give <@!91269654017748992> one ponit.
 
 <a name='31'/>
 
-## #31
+## #31 — Failed
 
 Create a vote. Any player may vote for any active player. Any one of those players who gets at least three votes in twenty-four hours loses.
 
