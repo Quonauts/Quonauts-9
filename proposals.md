@@ -281,7 +281,7 @@ to
 
 <a name='30'/>
 
-## #30
+## #30 — Failed
 
 Create new quantity "ponits", with the description:
 * **Ponits** describes how many ponits a player owns. A ponit may use the moves "Tackl", "Embr", "Flame Charg" and "Stmp".
