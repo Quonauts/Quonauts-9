@@ -213,7 +213,7 @@ gn
 
 <a name='26'/>
 
-## #26
+## #26 — Passed
 
 Edit %rule-violation-polls: Replace every occurence of 🇦  with 👍 and ever occurence of 🇧 with 🤷.
 
