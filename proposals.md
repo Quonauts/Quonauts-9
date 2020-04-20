@@ -272,7 +272,7 @@ Create a new rule "Trade" (%trade) in %land-actions:
 
 <a name='29'/>
 
-## #29
+## #29 — Passed
 
 Edit %glossary, changing the definition of "Game State" from
 > Every current rule; every non-deleted proposal and any votes on it; every poll and any votes on it; and every message or reaction in any game channel.
