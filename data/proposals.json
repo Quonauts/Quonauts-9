@@ -360,7 +360,7 @@
 			"n": 24,
 			"author": 160279332454006795,
 			"content": "You're a hero, George! aaa i have a headache while writing this proposal :( im gonna sleep now goodnight please write good well thought out proposals regarding possibly like trade of the points currency, maybe even a way to buy votes (extremely expensive because op), etc",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 700835679113838643,
 			"votes": {
 				"151149148639330304": -1,
@@ -375,7 +375,7 @@
 			"n": 25,
 			"author": 309787486278909952,
 			"content": "gn",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 700835775045959830,
 			"votes": {
 				"151149148639330304": -1,
@@ -390,7 +390,7 @@
 			"n": 26,
 			"author": 330678593904443393,
 			"content": "Edit %rule-violation-polls: Replace every occurence of \ud83c\udde6  with \ud83d\udc4d and ever occurence of \ud83c\udde7 with \ud83e\udd37.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 700836519547764827,
 			"votes": {
 				"151149148639330304": 1,
@@ -527,6 +527,7 @@
 			"status": "voting",
 			"message_id": 701543702698655764,
 			"votes": {
+				"160279332454006795": -1,
 				"309787486278909952": -1,
 				"330678593904443393": 1,
 				"421060058009305088": -1,
@@ -544,6 +545,17 @@
 				"160279332454006795": 1
 			},
 			"timestamp": 1587356238
+		},
+		{
+			"n": 37,
+			"author": 160279332454006795,
+			"content": "(whoops)\nThis proposal depends on proposal #36.\nAdd a new rule section within Quantities named \"Obtaining Proposals\":\n> When a proposal is legally passed, its author gains one \"Proposal\" (as in, the quantity).\n> If 3 proposals by the same author are failed in a span of 24 hours, and this failing is due to the proposal having more/equal against votes than for, then the authors \"Proposals\" decrease by 1, and 1 per every proposal failed afterwards which also fits in this time period. Proposals cannot be negative, and if a player would gain negative Proposals, they will merely stay at 1 Proposal.",
+			"status": "voting",
+			"message_id": 701672960657719326,
+			"votes": {
+				"160279332454006795": 1
+			},
+			"timestamp": 1587358670
 		}
 	]
 }
