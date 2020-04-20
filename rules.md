@@ -35,6 +35,7 @@
 * [**4. Land**](#land)
     * [**4.1. Land actions**](#land-actions)
         * [**4.1.1. Land movement**](#land-movement)
+        * [**4.1.2. Trade**](#trade)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -297,4 +298,14 @@ Each subsection of this rule corresponds to a land action. Players make a land a
 #### <a name='land-movement'/> Land movement
 
 As a land action, a player may move to a neighbouring tile, i.e. add or subtract one from their land-x or land-y.
+
+#### <a name='trade'/> Trade
+
+As an action, two players residing in the same land tile may trade a certain number of points in exchange for a certain number of another tradable quantity.
+
+Both amounts must be greater than zero. Both players must have amounts of their quantity greater than or equal to the amounts specified in the trade.
+
+After both players announce the trade in <#701462982042976297> (they must both specify which quantities will be traded, and the amounts, and both players' announcements must match), the quantities are exchanged as per the trade.
+
+After a trade, both players must wait one hour, after which they may perform another action (this overrides the usual 12 hour cooldown).
 
