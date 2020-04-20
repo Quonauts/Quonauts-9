@@ -421,7 +421,7 @@
 			"n": 28,
 			"author": 309787486278909952,
 			"content": "This proposal depends on #27.\n\nEdit %quantities, changing\n> By default any unique quantity added to the game:\n> * applies to all players.\n> * is instantiated at zero.\n> * must be an integer.\n> * must never have a negative value\nto\n> By default any unique quantity added to the game:\n> * applies to all players.\n> * is instantiated at zero.\n> * must be an integer.\n> * must never have a negative value\n> * may be traded.\n\nThe land-x and land-y quantities may not be traded. Their descriptions in %quantities may be edited to reflect this.\n\nCreate a new rule \"Trade\" (%trade) in %land-actions:\n> As an action, two players residing in the same land tile may trade a certain number of points in exchange for a certain number of another tradable quantity.\n> \n> Both amounts must be greater than zero. Both players must have amounts of their quantity greater than or equal to the amounts specified in the trade.\n> \n> After both players announce the trade in #the-land (they must both specify which quantities will be traded, and the amounts, and both players' announcements must match), the quantities are exchanged as per the trade.\n> \n> After a trade, both players must wait one hour, after which they may perform another action (this overrides the usual 12 hour cooldown).",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 700980880675700796,
 			"votes": {
 				"151149148639330304": 1,
@@ -436,7 +436,7 @@
 			"n": 29,
 			"author": 309787486278909952,
 			"content": "Edit %glossary, changing the definition of \"Game State\" from\n> Every current rule; every non-deleted proposal and any votes on it; every poll and any votes on it; and every message or reaction in any game channel.\nto\n> Every current rule; every non-deleted proposal and any votes on it; every poll and any votes on it; every quantity and each player's amount of that quantity; and every message or reaction in any game channel.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 700981155675242577,
 			"votes": {
 				"151149148639330304": 1,
@@ -452,7 +452,7 @@
 			"n": 30,
 			"author": 91269654017748992,
 			"content": "Create new quantity \"ponits\", with the description:\n* **Ponits** describes how many ponits a player owns. A ponit may use the moves \"Tackl\", \"Embr\", \"Flame Charg\" and \"Stmp\".\n\nGive <@!91269654017748992> one ponit.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 701002704662822972,
 			"votes": {
 				"151149148639330304": 1,

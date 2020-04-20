@@ -133,7 +133,7 @@
 		"glossary": {
 			"tag": "glossary",
 			"title": "Glossary",
-			"content": "The definitions for terms listed here take precedence over their normal English meanings, however any terms defined in a specific section of the rules override these in the section in which they are defined and its subsections. A section may also define terms for use in the whole document.\n\n* **The Game**: The instance of Nomic governed by these rules.\n* **Game Channel**: Any text or voice channel listed under the \"Game Channels\" category of the Discord server.\n* **Game Action**: Any modification of the game state.\n* **Game State**: Every current rule; every non-deleted proposal and any votes on it; every poll and any votes on it; and every message or reaction in any game channel.\n* **The Rules**: The rules of the game, which are described by this document.\n* **Section**: A part of the rules contained under one header. Unless otherwise specified, this does not include its subsections.\n* **Subsection**: A section contained within another another section.\n* **Clause**: A single statement in the rules.\n* **Player**: Any participant of the game.\n* **Active Player**: Any player who has performed a game action in the preceding 72 hours, and is a member of the Discord server.\n* **Inactive Player**: Any player who is not an active player.\n\nWhenever the word \"if\" is used in the rules, it is to be interpreted as \"if and only if\".",
+			"content": "The definitions for terms listed here take precedence over their normal English meanings, however any terms defined in a specific section of the rules override these in the section in which they are defined and its subsections. A section may also define terms for use in the whole document.\n\n* **The Game**: The instance of Nomic governed by these rules.\n* **Game Channel**: Any text or voice channel listed under the \"Game Channels\" category of the Discord server.\n* **Game Action**: Any modification of the game state.\n* **Game State**: Every current rule; every non-deleted proposal and any votes on it; every poll and any votes on it; every quantity and each player's amount of that quantity; and every message or reaction in any game channel.\n* **The Rules**: The rules of the game, which are described by this document.\n* **Section**: A part of the rules contained under one header. Unless otherwise specified, this does not include its subsections.\n* **Subsection**: A section contained within another another section.\n* **Clause**: A single statement in the rules.\n* **Player**: Any participant of the game.\n* **Active Player**: Any player who has performed a game action in the preceding 72 hours, and is a member of the Discord server.\n* **Inactive Player**: Any player who is not an active player.\n\nWhenever the word \"if\" is used in the rules, it is to be interpreted as \"if and only if\".",
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
@@ -168,7 +168,8 @@
 			"content": "Each subsection of this rule corresponds to a land action. Players make a land action by announcing it the <#701462982042976297>, and carrying out the effects as specified by the subsection. After a player makes an action, they must wait 12 hours before performing another action.",
 			"parent_tag": "land",
 			"child_tags": [
-				"land-movement"
+				"land-movement",
+				"trade"
 			],
 			"message_ids": [
 				701463254115024987
@@ -285,7 +286,7 @@
 		"quantities": {
 			"tag": "quantities",
 			"title": "Quantities",
-			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n* applies to all players.\n* is instantiated at zero.\n* must be an integer.\n* must never have a negative value.\n\nThe following quantities exist:\n* **Points**: An arbritrary value which should generally be used as a reward/currency.\n\nWhen a new quantity is created, it must be added to the above list, along with an optional short description. The description, if present, has no relevance to the game.",
+			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n* applies to all players.\n* is instantiated at zero.\n* must be an integer.\n* must never have a negative value.\n* may be traded.\n\nThe following quantities exist:\n* **Points**: An arbritrary value which should generally be used as a reward/currency.\n* **land-x**: A player's x position in the land. May not be traded.\n* **land-y**: A player's y position in the land. May not be traded.\n\nWhen a new quantity is created, it must be added to the above list, along with an optional short description. The description, if present, has no relevance to the game.",
 			"parent_tag": "root",
 			"child_tags": [
 				"obtaining-points"
@@ -306,8 +307,9 @@
 				"land"
 			],
 			"message_ids": [
-				701463506356011058,
-				701463507425820892
+				701759694481522698,
+				701759695140028468,
+				701759696104718367
 			]
 		},
 		"rule-violation-polls": {
@@ -363,6 +365,16 @@
 			"child_tags": [],
 			"message_ids": [
 				700810120661041194
+			]
+		},
+		"trade": {
+			"tag": "trade",
+			"title": "Trade",
+			"content": "As an action, two players residing in the same land tile may trade a certain number of points in exchange for a certain number of another tradable quantity.\n\nBoth amounts must be greater than zero. Both players must have amounts of their quantity greater than or equal to the amounts specified in the trade.\n\nAfter both players announce the trade in <#701462982042976297> (they must both specify which quantities will be traded, and the amounts, and both players' announcements must match), the quantities are exchanged as per the trade.\n\nAfter a trade, both players must wait one hour, after which they may perform another action (this overrides the usual 12 hour cooldown).",
+			"parent_tag": "land-actions",
+			"child_tags": [],
+			"message_ids": [
+				701759693214974013
 			]
 		},
 		"transactions": {
