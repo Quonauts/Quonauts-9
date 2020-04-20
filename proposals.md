@@ -322,3 +322,12 @@ Create a new rule "Claiming land" (%claiming-land) in %land-actions:
 
 Players have spaceships with which they can travel around. Replace every occurrence of "land" in rule %land or any sub-rule of it (including the rule titles and tags) with "space" (maintaining the same capitalisation).
 
+<a name='36'/>
+
+## #36
+
+Create a new property named "Proposals" with the following description:
+> * When a proposal is (legally) passed, the author gains one "Proposal".
+Add a new paragraph to "Obtaining Points":
+> For every 10 "Proposals" the author has, add one to the amount of points they receive upon their proposal being successfully passed.
+
