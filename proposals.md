@@ -380,3 +380,9 @@ Proposal number 41 is automatically failed
 
 Create a new channel named #jibson. Give gibson 2 points. Take 3 points from gibson. Award gibson 1 point.
 
+<a name='43'/>
+
+## #43
+
+The last person to vote for Proposal #43 gets one point
+
