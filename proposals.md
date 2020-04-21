@@ -368,3 +368,9 @@ Replace the rule %land-movement by:
 > 
 > The movement speed of each player is 3, unless other rules modify it.
 
+<a name='41'/>
+
+## #41
+
+Proposal number 41 is automatically failed
+
