@@ -296,7 +296,7 @@ Create a vote. Any player may vote for any active player. Any one of those playe
 
 <a name='32'/>
 
-## #32
+## #32 — Failed
 
 hi
 
