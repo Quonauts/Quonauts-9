@@ -374,3 +374,9 @@ Replace the rule %land-movement by:
 
 Proposal number 41 is automatically failed
 
+<a name='42'/>
+
+## #42
+
+Create a new channel named #jibson. Give gibson 2 points. Take 3 points from gibson. Award gibson 1 point.
+
