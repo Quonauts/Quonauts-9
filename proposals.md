@@ -361,7 +361,7 @@ give <@!421060058009305088> a new role, "mapman", since they're the only person 
 
 <a name='40'/>
 
-## #40
+## #40 — Passed
 
 Replace the rule %land-movement by:
 > As an action, a player may move to a different tile which has an euclidean distance of up to the player's movement speed from their current position. In other words, they may change their land-x and land-y such that `sqrt(dx²+dy²) ≤ movement speed`, where `d<n> = old land-<n> - new land-<n>`.
