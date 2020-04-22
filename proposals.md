@@ -318,7 +318,7 @@ Create a new rule "Claiming land" (%claiming-land) in %land-actions:
 
 <a name='35'/>
 
-## #35
+## #35 — Failed
 
 Players have spaceships with which they can travel around. Replace every occurrence of "land" in rule %land or any sub-rule of it (including the rule titles and tags) with "space" (maintaining the same capitalisation).
 
