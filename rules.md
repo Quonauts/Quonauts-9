@@ -297,7 +297,9 @@ Each subsection of this rule corresponds to a land action. Players make a land a
 
 #### <a name='land-movement'/> Land movement
 
-As a land action, a player may move to a neighbouring tile, i.e. add or subtract one from their land-x or land-y.
+As an action, a player may move to a different tile which has an euclidean distance of up to the player's movement speed from their current position. In other words, they may change their land-x and land-y such that sqrt(dx²+dy²) ≤ movement speed, where d<n> = old land-<n> - new land-<n>.
+
+The movement speed of each player is 3, unless other rules modify it.
 
 #### <a name='trade'/> Trade
 
