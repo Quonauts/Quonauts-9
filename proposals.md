@@ -309,7 +309,7 @@ Create a new quantity called "prestige points" with the following description:
 
 <a name='34'/>
 
-## #34
+## #34 — Passed
 
 Create a new quantity "land" (the amount of land a player has claimed)
 
