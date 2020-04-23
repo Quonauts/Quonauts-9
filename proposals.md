@@ -427,7 +427,7 @@ Create a new rule named Proposal #48:
 
 <a name='49'/>
 
-## #49
+## #49 — Failed
 
 Create a new rule named %i-just-wanted-to-have-fun, which sates: when proposal #49 is enacted, the results of proposals #47 and #48 are retroactively reverted.
 
