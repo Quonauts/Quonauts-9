@@ -425,3 +425,9 @@ Create a new rule named Proposal #46:
 Create a new rule named Proposal #48:
 > When proposal #48 is enacted, all changes to the game state caused by proposal #46 being enacted are to be retroactively reverted, and proposal #48 is to be reopened for voting.
 
+<a name='49'/>
+
+## #49
+
+Create a new rule named %i-just-wanted-to-have-fun, which sates: when proposal #49 is enacted, the results of proposals #47 and #48 are retroactively reverted.
+
