@@ -370,7 +370,7 @@ Replace the rule %land-movement by:
 
 <a name='41'/>
 
-## #41
+## #41 — Failed
 
 Proposal number 41 is automatically failed
 
