@@ -382,7 +382,7 @@ Create a new channel named #jibson. Give gibson 2 points. Take 3 points from gib
 
 <a name='43'/>
 
-## #43
+## #43 — Failed
 
 The last person to vote for Proposal #43 gets one point
 
