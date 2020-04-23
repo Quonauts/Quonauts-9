@@ -333,7 +333,7 @@ Add a new paragraph to "Obtaining Points":
 
 <a name='37'/>
 
-## #37
+## #37 — Failed
 
 (whoops)
 This proposal depends on proposal #36.
