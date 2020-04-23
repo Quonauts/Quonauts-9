@@ -405,3 +405,9 @@ Remove from %trade:
 Create a new rule named Proposal #9:
 > Proposal #9 is to be considered open indefinitely, and cannot be closed. This overrides all other rules, including all rules which state they override this one.
 
+<a name='46'/>
+
+## #46
+
+Add a new rule, %contradiction, which overrides %proposal-#9. This overrides all other rules, including all rules which state they override this one.
+
