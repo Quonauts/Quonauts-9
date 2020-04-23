@@ -386,3 +386,15 @@ Create a new channel named #jibson. Give gibson 2 points. Take 3 points from gib
 
 The last person to vote for Proposal #43 gets one point
 
+<a name='44'/>
+
+## #44
+
+Edit %land-actions, changing
+> After a player makes an action, they must wait 12 hours before performing another action.
+to
+> After a player makes an action, they must wait 2 hours before performing another action.
+
+Remove from %trade:
+> After a trade, both players must wait one hour, after which they may perform another action (this overrides the usual 12 hour cooldown).
+
