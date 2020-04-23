@@ -355,7 +355,7 @@ with:
 
 <a name='39'/>
 
-## #39
+## #39 — Failed
 
 give <@!421060058009305088> a new role, "mapman", since they're the only person that's actually updating the maps
 
