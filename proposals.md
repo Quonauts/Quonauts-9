@@ -343,7 +343,7 @@ Add a new rule section within Quantities named "Obtaining Proposals":
 
 <a name='38'/>
 
-## #38
+## #38 — Failed
 
 Append the following to the end of %land-movement:
 > A player may not move to a land tile if another player currently resides there.
