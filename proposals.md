@@ -398,3 +398,10 @@ to
 Remove from %trade:
 > After a trade, both players must wait one hour, after which they may perform another action (this overrides the usual 12 hour cooldown).
 
+<a name='45'/>
+
+## #45
+
+Create a new rule named Proposal #9:
+> Proposal #9 is to be considered open indefinitely, and cannot be closed. This overrides all other rules, including all rules which state they override this one.
+
