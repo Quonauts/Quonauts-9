@@ -431,3 +431,10 @@ Create a new rule named Proposal #48:
 
 Create a new rule named %i-just-wanted-to-have-fun, which sates: when proposal #49 is enacted, the results of proposals #47 and #48 are retroactively reverted.
 
+<a name='50'/>
+
+## #50
+
+Create a new rule named ugh go away mooooosey:
+Proposals 49 through 55 are to be retroactively undone, and failed. This is done because there is probably going to be a large amount of spam.
+
