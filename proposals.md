@@ -324,7 +324,7 @@ Players have spaceships with which they can travel around. Replace every occurre
 
 <a name='36'/>
 
-## #36
+## #36 — Failed
 
 Create a new property named "Proposals" with the following description:
 > * When a proposal is (legally) passed, the author gains one "Proposal".
