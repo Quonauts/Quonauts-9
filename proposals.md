@@ -433,7 +433,7 @@ Create a new rule named %i-just-wanted-to-have-fun, which sates: when proposal #
 
 <a name='50'/>
 
-## #50
+## #50 — Failed
 
 Create a new rule named ugh go away mooooosey:
 Proposals 49 through 55 are to be retroactively undone, and failed. This is done because there is probably going to be a large amount of spam.
