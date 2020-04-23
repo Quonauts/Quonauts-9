@@ -438,3 +438,16 @@ Create a new rule named %i-just-wanted-to-have-fun, which sates: when proposal #
 Create a new rule named ugh go away mooooosey:
 Proposals 49 through 55 are to be retroactively undone, and failed. This is done because there is probably going to be a large amount of spam.
 
+<a name='51'/>
+
+## #51
+
+Change the content of %<#700035956522090596> to:
+> Proposals can be made by posting them to the <#700035956522090596> game channel.
+> 
+> The first proposal is numbered #1 and each subsequent proposal's number is increased by 1. Deleted proposals retain their number.
+> 
+> A proposal is either open or closed. When it is first submitted a proposal is open. A non-deleted, closed proposal is either passed or failed. When a player closes a proposal, they must either pass it or fail it. A deleted proposal is closed, but does not pass or fail.
+> 
+> If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since they created their most recent currently open proposal, it may be failed at any time if it is open.
+
