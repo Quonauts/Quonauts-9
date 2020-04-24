@@ -793,6 +793,17 @@
 				"421060058009305088": 1
 			},
 			"timestamp": 1587749490
+		},
+		{
+			"n": 53,
+			"author": 364562317645709336,
+			"content": "Create a new rule %land-map with the following content under %land:\n> The #land-map channel must contain exactly one message, whose contents are a link to a datastore viewable and editable by all players. This datastore must contain all data needed for a complete, accurate description of The Land's and all players' states. The datastore must also be updated at least every 36 hours.\n> \n> Falsifying map data violates this rule. In the event of data falsification or addition of bad actions (Land actions not within the rules), the Land state must be reverted to its latest recorded legitimate state. \n> \n> walter\n\n%land-map will not be enforced until 36 hours have passed (after this proposal passes)\nCreate a channel called #land-map.",
+			"status": "voting",
+			"message_id": 703313292369723433,
+			"votes": {
+				"421060058009305088": -1
+			},
+			"timestamp": 1587749756
 		}
 	]
 }
