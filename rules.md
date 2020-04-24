@@ -294,7 +294,7 @@ The Land is an infinite square lattice. A 'land tile' is a point of this lattice
 
 ### <a name='land-actions'/> Land actions
 
-Each subsection of this rule corresponds to a land action. Players make a land action by announcing it the <#701462982042976297>, and carrying out the effects as specified by the subsection. After a player makes an action, they must wait 12 hours before performing another action.
+Each subsection of this rule corresponds to a land action. Players make a land action by announcing it the <#701462982042976297>, and carrying out the effects as specified by the subsection. After a player makes an action, they must wait 2 hours before performing another action.
 
 #### <a name='land-movement'/> Land movement
 
