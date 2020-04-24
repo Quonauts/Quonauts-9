@@ -310,8 +310,6 @@ Both amounts must be greater than zero. Both players must have amounts of their 
 
 After both players announce the trade in <#701462982042976297> (they must both specify which quantities will be traded, and the amounts, and both players' announcements must match), the quantities are exchanged as per the trade.
 
-After a trade, both players must wait one hour, after which they may perform another action (this overrides the usual 12 hour cooldown).
-
 #### <a name='claiming-land'/> Claiming land
 
 As a land action, a player who resides in a land tile that has not been claimed may claim that land tile. When a player claims a land tile, they gain 1 land.
