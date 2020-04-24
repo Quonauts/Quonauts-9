@@ -8,7 +8,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				700810100595621978
+				703303530076831814
 			]
 		},
 		"bots": {
@@ -18,7 +18,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				700810121693102230
+				703303551283363947
 			]
 		},
 		"channels": {
@@ -35,7 +35,17 @@
 				"the-land"
 			],
 			"message_ids": [
-				700810144883146752
+				703303576620892321
+			]
+		},
+		"claiming-land": {
+			"tag": "claiming-land",
+			"title": "Claiming land",
+			"content": "As a land action, a player who resides in a land tile that has not been claimed may claim that land tile. When a player claims a land tile, they gain 1 land.",
+			"parent_tag": "land-actions",
+			"child_tags": [],
+			"message_ids": [
+				703303663661219941
 			]
 		},
 		"closing-proposals": {
@@ -47,7 +57,7 @@
 				"passing-and-failing-proposals"
 			],
 			"message_ids": [
-				700810186176069712
+				703303615300894842
 			]
 		},
 		"conflict-resolution": {
@@ -57,7 +67,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				700810166412771338
+				703303595092738199
 			]
 		},
 		"content": {
@@ -67,7 +77,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				700810123119165552
+				703303552512163942
 			]
 		},
 		"deleting-proposals": {
@@ -77,7 +87,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				700810187811979337
+				703303617297514677
 			]
 		},
 		"dependency-resolution": {
@@ -87,7 +97,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				700810167671062579
+				703303595910627338
 			]
 		},
 		"editing-proposals": {
@@ -97,7 +107,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				700810188885721179
+				703303618195095573
 			]
 		},
 		"forbidden-actions": {
@@ -107,7 +117,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				700810102474801182
+				703303531976720384
 			]
 		},
 		"formatting": {
@@ -117,7 +127,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				700810143981502504
+				703303576130158722
 			]
 		},
 		"general": {
@@ -127,7 +137,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				700810146074460191
+				703303578038566932
 			]
 		},
 		"glossary": {
@@ -137,7 +147,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				700810099647578152
+				703303528873066556
 			]
 		},
 		"headers-and-tags": {
@@ -147,7 +157,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				700810142274420818
+				703303571575144469
 			]
 		},
 		"land": {
@@ -159,30 +169,31 @@
 				"land-actions"
 			],
 			"message_ids": [
-				701463173038997635
+				703303659458658315
 			]
 		},
 		"land-actions": {
 			"tag": "land-actions",
 			"title": "Land actions",
-			"content": "Each subsection of this rule corresponds to a land action. Players make a land action by announcing it the <#701462982042976297>, and carrying out the effects as specified by the subsection. After a player makes an action, they must wait 12 hours before performing another action.",
+			"content": "Each subsection of this rule corresponds to a land action. Players make a land action by announcing it the <#701462982042976297>, and carrying out the effects as specified by the subsection. After a player makes an action, they must wait 2 hours before performing another action.",
 			"parent_tag": "land",
 			"child_tags": [
 				"land-movement",
-				"trade"
+				"trade",
+				"claiming-land"
 			],
 			"message_ids": [
-				701463254115024987
+				703303660452708444
 			]
 		},
 		"land-movement": {
 			"tag": "land-movement",
 			"title": "Land movement",
-			"content": "As a land action, a player may move to a neighbouring tile, i.e. add or subtract one from their land-x or land-y.",
+			"content": "As an action, a player may move to a different tile which has an euclidean distance of up to the player's movement speed from their current position. In other words, they may change their land-x and land-y such that sqrt(dx\u00b2+dy\u00b2) \u2264 movement speed, where d<n> = old land-<n> - new land-<n>.\n\nThe movement speed of each player is 3, unless other rules modify it.",
 			"parent_tag": "land-actions",
 			"child_tags": [],
 			"message_ids": [
-				701463505349378098
+				703303661799079946
 			]
 		},
 		"lists": {
@@ -192,7 +203,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				700810143180521593
+				703303575358406827
 			]
 		},
 		"meta-rules": {
@@ -211,7 +222,7 @@
 				"style-conventions"
 			],
 			"message_ids": [
-				700810098284429413
+				703303527296139317
 			]
 		},
 		"obtaining-points": {
@@ -221,7 +232,7 @@
 			"parent_tag": "quantities",
 			"child_tags": [],
 			"message_ids": [
-				701463089278877776
+				703303640961515647
 			]
 		},
 		"passing-and-failing-proposals": {
@@ -231,7 +242,7 @@
 			"parent_tag": "closing-proposals",
 			"child_tags": [],
 			"message_ids": [
-				700810186960666766
+				703303616244744413
 			]
 		},
 		"polls": {
@@ -241,7 +252,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				700810208288571452
+				703303637165801553
 			]
 		},
 		"precedence": {
@@ -251,7 +262,17 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				700810101292007507
+				703303530894852149
+			]
+		},
+		"proposal-9": {
+			"tag": "proposal-9",
+			"title": "Proposal #9",
+			"content": "Proposal #9 is to be considered open indefinitely, and cannot be closed. This overrides all other rules, including all rules which state they override this one.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				703303681944059924
 			]
 		},
 		"proposal-content": {
@@ -264,7 +285,7 @@
 				"dependency-resolution"
 			],
 			"message_ids": [
-				700810165204811786
+				703303594195157213
 			]
 		},
 		"proposals": {
@@ -280,7 +301,7 @@
 				"editing-proposals"
 			],
 			"message_ids": [
-				700810164453900308
+				703303593444376656
 			]
 		},
 		"quantities": {
@@ -292,7 +313,7 @@
 				"obtaining-points"
 			],
 			"message_ids": [
-				701463087982837822
+				703303640106139828
 			]
 		},
 		"root": {
@@ -304,12 +325,13 @@
 				"meta-rules",
 				"channels",
 				"quantities",
-				"land"
+				"land",
+				"proposal-9"
 			],
 			"message_ids": [
-				701759694481522698,
-				701759695140028468,
-				701759696104718367
+				703303682623668277,
+				703303683517055116,
+				703303684381081660
 			]
 		},
 		"rule-violation-polls": {
@@ -319,7 +341,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				700810120233222333
+				703303549349527573
 			]
 		},
 		"rules": {
@@ -329,7 +351,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				700810189389037622
+				703303618962653341
 			]
 		},
 		"style-conventions": {
@@ -344,7 +366,7 @@
 				"formatting"
 			],
 			"message_ids": [
-				700810122468917409
+				703303552097058967
 			]
 		},
 		"the-land": {
@@ -354,7 +376,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				701463086988787802
+				703303638533144617
 			]
 		},
 		"timezones": {
@@ -364,17 +386,17 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				700810120661041194
+				703303550347771960
 			]
 		},
 		"trade": {
 			"tag": "trade",
 			"title": "Trade",
-			"content": "As an action, two players residing in the same land tile may trade a certain number of points in exchange for a certain number of another tradable quantity.\n\nBoth amounts must be greater than zero. Both players must have amounts of their quantity greater than or equal to the amounts specified in the trade.\n\nAfter both players announce the trade in <#701462982042976297> (they must both specify which quantities will be traded, and the amounts, and both players' announcements must match), the quantities are exchanged as per the trade.\n\nAfter a trade, both players must wait one hour, after which they may perform another action (this overrides the usual 12 hour cooldown).",
+			"content": "As an action, two players residing in the same land tile may trade a certain number of points in exchange for a certain number of another tradable quantity.\n\nBoth amounts must be greater than zero. Both players must have amounts of their quantity greater than or equal to the amounts specified in the trade.\n\nAfter both players announce the trade in <#701462982042976297> (they must both specify which quantities will be traded, and the amounts, and both players' announcements must match), the quantities are exchanged as per the trade.",
 			"parent_tag": "land-actions",
 			"child_tags": [],
 			"message_ids": [
-				701759693214974013
+				703303662495334401
 			]
 		},
 		"transactions": {
@@ -384,7 +406,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				700810209475690600
+				703303638013182062
 			]
 		},
 		"voting-on-proposals": {
@@ -394,7 +416,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				700810168832622653
+				703303596812271787
 			]
 		}
 	}

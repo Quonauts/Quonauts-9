@@ -486,7 +486,7 @@
 			"n": 32,
 			"author": 160279332454006795,
 			"content": "hi",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 701462304965001317,
 			"votes": {
 				"151149148639330304": -1,
@@ -503,7 +503,7 @@
 			"n": 33,
 			"author": 421060058009305088,
 			"content": "Create a new quantity called \"prestige points\" with the following description:\n* At any time, a player may exchange their points for half as many prestige points, rounded down. Players may trade prestige points for any other quantities which may be legally traded.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 701495094393438288,
 			"votes": {
 				"151149148639330304": -1,
@@ -520,7 +520,7 @@
 			"n": 34,
 			"author": 309787486278909952,
 			"content": "Create a new quantity \"land\" (the amount of land a player has claimed)\n\nCreate a new rule \"Claiming land\" (%claiming-land) in %land-actions:\n> As a land action, a player who resides in a land tile that has not been claimed may claim that land tile. When a player claims a land tile, they gain 1 land.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 701506904693932042,
 			"votes": {
 				"151149148639330304": 1,
@@ -536,7 +536,7 @@
 			"n": 35,
 			"author": 330678593904443393,
 			"content": "Players have spaceships with which they can travel around. Replace every occurrence of \"land\" in rule %land or any sub-rule of it (including the rule titles and tags) with \"space\" (maintaining the same capitalisation).",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 701543702698655764,
 			"votes": {
 				"151149148639330304": -1,
@@ -553,7 +553,7 @@
 			"n": 36,
 			"author": 160279332454006795,
 			"content": "Create a new property named \"Proposals\" with the following description:\n> * When a proposal is (legally) passed, the author gains one \"Proposal\".\nAdd a new paragraph to \"Obtaining Points\":\n> For every 10 \"Proposals\" the author has, add one to the amount of points they receive upon their proposal being successfully passed.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 701662761532391544,
 			"votes": {
 				"151149148639330304": -1,
@@ -570,7 +570,7 @@
 			"n": 37,
 			"author": 160279332454006795,
 			"content": "(whoops)\nThis proposal depends on proposal #36.\nAdd a new rule section within Quantities named \"Obtaining Proposals\":\n> When a proposal is legally passed, its author gains one \"Proposal\" (as in, the quantity).\n> If 3 proposals by the same author are failed in a span of 24 hours, and this failing is due to the proposal having more/equal against votes than for, then the authors \"Proposals\" decrease by 1, and 1 per every proposal failed afterwards which also fits in this time period. Proposals cannot be negative, and if a player would gain negative Proposals, they will merely stay at 1 Proposal.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 701672960657719326,
 			"votes": {
 				"151149148639330304": -1,
@@ -587,12 +587,13 @@
 			"n": 38,
 			"author": 151149148639330304,
 			"content": "Append the following to the end of %land-movement:\n> A player may not move to a land tile if another player currently resides there.\n\nReplace the following in %trade:\n> As an action, two players residing in the same land tile may trade a certain number of points in exchange for a certain number of another tradable quantity.\nwith:\n> > As an action, two players residing in neighboring land tiles (land tiles within at most 1 distance of each other) may trade a certain number of points in exchange for a certain number of another tradable quantity.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 701811445360361572,
 			"votes": {
 				"151149148639330304": 1,
-				"309787486278909952": 1,
-				"91269654017748992": 0
+				"160279332454006795": -1,
+				"309787486278909952": -1,
+				"91269654017748992": -1
 			},
 			"timestamp": 1587391687
 		},
@@ -600,11 +601,12 @@
 			"n": 39,
 			"author": 421060058009305088,
 			"content": "give <@!421060058009305088> a new role, \"mapman\", since they're the only person that's actually updating the maps",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 701821952700055583,
 			"votes": {
 				"151149148639330304": -1,
 				"160279332454006795": 0,
+				"309787486278909952": -1,
 				"330678593904443393": 0,
 				"421060058009305088": 0,
 				"91269654017748992": 0
@@ -615,15 +617,170 @@
 			"n": 40,
 			"author": 330678593904443393,
 			"content": "Replace the rule %land-movement by:\n> As an action, a player may move to a different tile which has an euclidean distance of up to the player's movement speed from their current position. In other words, they may change their land-x and land-y such that `sqrt(dx\u00b2+dy\u00b2) \u2264 movement speed`, where `d<n> = old land-<n> - new land-<n>`.\n> \n> The movement speed of each player is 3, unless other rules modify it.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 701981086556749844,
 			"votes": {
 				"151149148639330304": 1,
+				"160279332454006795": 1,
 				"330678593904443393": 1,
+				"421060058009305088": 1,
 				"427589146295664667": 1,
 				"91269654017748992": 1
 			},
 			"timestamp": 1587432133
+		},
+		{
+			"n": 41,
+			"author": 353513054912249856,
+			"content": "Proposal number 41 is automatically failed",
+			"status": "failed",
+			"message_id": 702190797847789698,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": -1,
+				"421060058009305088": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1587482132
+		},
+		{
+			"n": 42,
+			"author": 160279332454006795,
+			"content": "Create a new channel named #jibson. Give gibson 2 points. Take 3 points from gibson. Award gibson 1 point.",
+			"status": "failed",
+			"message_id": 702239986862391307,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": 1,
+				"309787486278909952": 0,
+				"421060058009305088": 1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1587493859
+		},
+		{
+			"n": 43,
+			"author": 421060058009305088,
+			"content": "The last person to vote for Proposal #43 gets one point",
+			"status": "failed",
+			"message_id": 702241636595531797,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": -1,
+				"309787486278909952": -1,
+				"421060058009305088": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1587494253
+		},
+		{
+			"n": 44,
+			"author": 309787486278909952,
+			"content": "Edit %land-actions, changing\n> After a player makes an action, they must wait 12 hours before performing another action.\nto\n> After a player makes an action, they must wait 2 hours before performing another action.\n\nRemove from %trade:\n> After a trade, both players must wait one hour, after which they may perform another action (this overrides the usual 12 hour cooldown).",
+			"status": "passed",
+			"message_id": 702834969306726400,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 1,
+				"330678593904443393": -1,
+				"421060058009305088": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1587635715
+		},
+		{
+			"n": 45,
+			"author": 160279332454006795,
+			"content": "Create a new rule named Proposal #9:\n> Proposal #9 is to be considered open indefinitely, and cannot be closed. This overrides all other rules, including all rules which state they override this one.",
+			"status": "passed",
+			"message_id": 702904980687945729,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": 1,
+				"309787486278909952": 1,
+				"330678593904443393": 1,
+				"421060058009305088": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1587652408
+		},
+		{
+			"n": 46,
+			"author": 421060058009305088,
+			"content": "Add a new rule, %contradiction, which overrides %proposal-#9. This overrides all other rules, including all rules which state they override this one.",
+			"status": "voting",
+			"message_id": 702938497928921140,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": -1,
+				"309787486278909952": 0,
+				"330678593904443393": 1,
+				"421060058009305088": 0,
+				"91269654017748992": -1
+			},
+			"timestamp": 1587660399
+		},
+		{
+			"n": 47,
+			"author": 160279332454006795,
+			"content": "Create a new rule named Proposal #46:\n> When proposal #46 is enacted, all changes to the game state caused by proposal #46 being enacted are to be retroactively reverted, and proposal #46 is to be reopened for voting.",
+			"status": "voting",
+			"message_id": 702938737306370099,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": 1,
+				"309787486278909952": 0,
+				"330678593904443393": -1,
+				"91269654017748992": -1
+			},
+			"timestamp": 1587660456
+		},
+		{
+			"n": 48,
+			"author": 160279332454006795,
+			"content": "Create a new rule named Proposal #48:\n> When proposal #48 is enacted, all changes to the game state caused by proposal #46 being enacted are to be retroactively reverted, and proposal #48 is to be reopened for voting.",
+			"status": "failed",
+			"message_id": 702938842642120715,
+			"votes": {
+				"160279332454006795": 1,
+				"309787486278909952": 1
+			},
+			"timestamp": 1587660481
+		},
+		{
+			"n": 49,
+			"author": 421060058009305088,
+			"content": "Create a new rule named %i-just-wanted-to-have-fun, which sates: when proposal #49 is enacted, the results of proposals #47 and #48 are retroactively reverted.",
+			"status": "failed",
+			"message_id": 702939166945575518,
+			"votes": {},
+			"timestamp": 1587660559
+		},
+		{
+			"n": 50,
+			"author": 160279332454006795,
+			"content": "Create a new rule named ugh go away mooooosey:\nProposals 49 through 55 are to be retroactively undone, and failed. This is done because there is probably going to be a large amount of spam.",
+			"status": "failed",
+			"message_id": 702939431346110556,
+			"votes": {
+				"309787486278909952": 1,
+				"421060058009305088": 1
+			},
+			"timestamp": 1587660621
+		},
+		{
+			"n": 51,
+			"author": 421060058009305088,
+			"content": "Change the content of %<#700035956522090596> to:\n> Proposals can be made by posting them to the <#700035956522090596> game channel.\n> \n> The first proposal is numbered #1 and each subsequent proposal's number is increased by 1. Deleted proposals retain their number.\n> \n> A proposal is either open or closed. When it is first submitted a proposal is open. A non-deleted, closed proposal is either passed or failed. When a player closes a proposal, they must either pass it or fail it. A deleted proposal is closed, but does not pass or fail.\n> \n> If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since they created their most recent currently open proposal, it may be failed at any time if it is open.",
+			"status": "voting",
+			"message_id": 702942453052866620,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": 0,
+				"421060058009305088": 1,
+				"91269654017748992": 1
+			},
+			"timestamp": 1587661342
 		}
 	]
 }
