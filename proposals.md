@@ -400,7 +400,7 @@ Remove from %trade:
 
 <a name='45'/>
 
-## #45
+## #45 — Passed
 
 Create a new rule named Proposal #9:
 > Proposal #9 is to be considered open indefinitely, and cannot be closed. This overrides all other rules, including all rules which state they override this one.
