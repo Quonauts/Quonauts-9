@@ -451,3 +451,9 @@ Change the content of %<#700035956522090596> to:
 > 
 > If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since they created their most recent currently open proposal, it may be failed at any time if it is open.
 
+<a name='52'/>
+
+## #52
+
+Reopen Proposal #52
+
