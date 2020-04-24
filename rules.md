@@ -37,6 +37,7 @@
         * [**4.1.1. Land movement**](#land-movement)
         * [**4.1.2. Trade**](#trade)
         * [**4.1.3. Claiming land**](#claiming-land)
+* [**5. Proposal #9**](#proposal-9)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -313,4 +314,8 @@ After both players announce the trade in <#701462982042976297> (they must both s
 #### <a name='claiming-land'/> Claiming land
 
 As a land action, a player who resides in a land tile that has not been claimed may claim that land tile. When a player claims a land tile, they gain 1 land.
+
+## <a name='proposal-9'/> Proposal #9
+
+Proposal #9 is to be considered open indefinitely, and cannot be closed. This overrides all other rules, including all rules which state they override this one.
 
