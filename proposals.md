@@ -457,3 +457,17 @@ Change the content of %<#700035956522090596> to:
 
 Reopen Proposal #52
 
+<a name='53'/>
+
+## #53
+
+Create a new rule %land-map with the following content under %land:
+> The #land-map channel must contain exactly one message, whose contents are a link to a datastore viewable and editable by all players. This datastore must contain all data needed for a complete, accurate description of The Land's and all players' states. The datastore must also be updated at least every 36 hours.
+> 
+> Falsifying map data violates this rule. In the event of data falsification or addition of bad actions (Land actions not within the rules), the Land state must be reverted to its latest recorded legitimate state. 
+> 
+> walter
+
+%land-map will not be enforced until 36 hours have passed (after this proposal passes)
+Create a channel called #land-map.
+
