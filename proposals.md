@@ -388,7 +388,7 @@ The last person to vote for Proposal #43 gets one point
 
 <a name='44'/>
 
-## #44
+## #44 — Passed
 
 Edit %land-actions, changing
 > After a player makes an action, they must wait 12 hours before performing another action.
