@@ -487,3 +487,12 @@ Change the content of %voting-on-proposals to:
 
 If and only if less than 1/2 of previous proposals have passed, give <@151149148639330304> that Cool role they keep asking for
 
+<a name='56'/>
+
+## #56
+
+Add rule "Opinion Polls" as subrule of %polls:
+> Players may conduct polls to informally gather opinions about any game relevant topic, called "opinion polls".
+> 
+> An opinion poll may only be created if no other opinion poll by that player is currently open. By default, the allowed reactions of an opinion poll are thumbsup and thumbsdown, but the opinion poll may specify different allowed reactions for itself.
+
