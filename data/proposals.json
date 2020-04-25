@@ -821,9 +821,21 @@
 			"votes": {
 				"151149148639330304": 1,
 				"160279332454006795": 0,
-				"330678593904443393": -1
+				"330678593904443393": -1,
+				"421060058009305088": -1
 			},
 			"timestamp": 1587779277
+		},
+		{
+			"n": 55,
+			"author": 421060058009305088,
+			"content": "If and only if less than 1/2 of previous proposals have passed, give <@151149148639330304> that Cool role they keep asking for",
+			"status": "voting",
+			"message_id": 703574087771095120,
+			"votes": {
+				"421060058009305088": 0
+			},
+			"timestamp": 1587811936
 		}
 	]
 }
