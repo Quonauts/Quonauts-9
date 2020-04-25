@@ -471,3 +471,13 @@ Create a new rule %land-map with the following content under %land:
 %land-map will not be enforced until 36 hours have passed (after this proposal passes)
 Create a channel called #land-map.
 
+<a name='54'/>
+
+## #54
+
+[SILLY PROPOSAL]
+
+Change the content of %voting-on-proposals to:
+
+> Hmm yes Freedom Dive very good music yes indeed
+
