@@ -810,6 +810,15 @@
 				"91269654017748992": -1
 			},
 			"timestamp": 1587749756
+		},
+		{
+			"n": 54,
+			"author": 427589146295664667,
+			"content": "[SILLY PROPOSAL]\n\nChange the content of %voting-on-proposals to:\n\n> Hmm yes Freedom Dive very good music yes indeed",
+			"status": "voting",
+			"message_id": 703437105703157842,
+			"votes": {},
+			"timestamp": 1587779277
 		}
 	]
 }
