@@ -822,7 +822,8 @@
 				"151149148639330304": 1,
 				"160279332454006795": 0,
 				"330678593904443393": -1,
-				"421060058009305088": -1
+				"421060058009305088": -1,
+				"91269654017748992": -1
 			},
 			"timestamp": 1587779277
 		},
@@ -834,9 +835,24 @@
 			"message_id": 703574087771095120,
 			"votes": {
 				"160279332454006795": -1,
-				"421060058009305088": 0
+				"330678593904443393": -1,
+				"421060058009305088": 0,
+				"91269654017748992": -1
 			},
 			"timestamp": 1587811936
+		},
+		{
+			"n": 56,
+			"author": 330678593904443393,
+			"content": "Add rule \"Opinion Polls\" as subrule of %polls:\n> Players may conduct polls to informally gather opinions about any game relevant topic, called \"opinion polls\".\n> \n> An opinion poll may only be created if no other opinion poll by that player is currently open. By default, the allowed reactions of an opinion poll are thumbsup and thumbsdown, but the opinion poll may specify different allowed reactions for itself.",
+			"status": "voting",
+			"message_id": 703596234450927709,
+			"votes": {
+				"309787486278909952": 1,
+				"330678593904443393": 1,
+				"421060058009305088": 1
+			},
+			"timestamp": 1587817216
 		}
 	]
 }
