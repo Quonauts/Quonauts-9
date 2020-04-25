@@ -496,3 +496,10 @@ Add rule "Opinion Polls" as subrule of %polls:
 > 
 > An opinion poll may only be created if no other opinion poll by that player is currently open. By default, the allowed reactions of an opinion poll are thumbsup and thumbsdown, but the opinion poll may specify different allowed reactions for itself.
 
+<a name='57'/>
+
+## #57
+
+Add a quantity called "Worship"
+At any time, if they have not in 12 hours, a player may worship heavpoot to gain one Worship.
+
