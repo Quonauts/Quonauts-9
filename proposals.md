@@ -503,3 +503,10 @@ Add rule "Opinion Polls" as subrule of %polls:
 Add a quantity called "Worship"
 At any time, if they have not in 12 hours, a player may worship heavpoot to gain one Worship.
 
+<a name='58'/>
+
+## #58
+
+Add a new rule, %winning:
+> All players win the game. The game does not end.
+
