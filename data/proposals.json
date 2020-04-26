@@ -708,7 +708,7 @@
 			"n": 46,
 			"author": 421060058009305088,
 			"content": "Add a new rule, %contradiction, which overrides %proposal-#9. This overrides all other rules, including all rules which state they override this one.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 702938497928921140,
 			"votes": {
 				"151149148639330304": -1,
@@ -724,7 +724,7 @@
 			"n": 47,
 			"author": 160279332454006795,
 			"content": "Create a new rule named Proposal #46:\n> When proposal #46 is enacted, all changes to the game state caused by proposal #46 being enacted are to be retroactively reverted, and proposal #46 is to be reopened for voting.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 702938737306370099,
 			"votes": {
 				"151149148639330304": 1,
@@ -773,7 +773,7 @@
 			"n": 51,
 			"author": 421060058009305088,
 			"content": "Change the content of %<#700035956522090596> to:\n> Proposals can be made by posting them to the <#700035956522090596> game channel.\n> \n> The first proposal is numbered #1 and each subsequent proposal's number is increased by 1. Deleted proposals retain their number.\n> \n> A proposal is either open or closed. When it is first submitted a proposal is open. A non-deleted, closed proposal is either passed or failed. When a player closes a proposal, they must either pass it or fail it. A deleted proposal is closed, but does not pass or fail.\n> \n> If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since they created their most recent currently open proposal, it may be failed at any time if it is open.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 702942453052866620,
 			"votes": {
 				"151149148639330304": -1,
@@ -831,7 +831,7 @@
 			"n": 55,
 			"author": 421060058009305088,
 			"content": "If and only if less than 1/2 of previous proposals have passed, give <@151149148639330304> that Cool role they keep asking for",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 703574087771095120,
 			"votes": {
 				"151149148639330304": -1,
@@ -881,6 +881,7 @@
 			"votes": {
 				"151149148639330304": -1,
 				"309787486278909952": -1,
+				"330678593904443393": -1,
 				"421060058009305088": 1
 			},
 			"timestamp": 1587912935
