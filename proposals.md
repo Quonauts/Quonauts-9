@@ -407,7 +407,7 @@ Create a new rule named Proposal #9:
 
 <a name='46'/>
 
-## #46
+## #46 — Failed
 
 Add a new rule, %contradiction, which overrides %proposal-#9. This overrides all other rules, including all rules which state they override this one.
 
