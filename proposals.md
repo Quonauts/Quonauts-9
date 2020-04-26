@@ -483,7 +483,7 @@ Change the content of %voting-on-proposals to:
 
 <a name='55'/>
 
-## #55
+## #55 — Failed
 
 If and only if less than 1/2 of previous proposals have passed, give <@151149148639330304> that Cool role they keep asking for
 
