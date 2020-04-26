@@ -440,7 +440,7 @@ Proposals 49 through 55 are to be retroactively undone, and failed. This is done
 
 <a name='51'/>
 
-## #51
+## #51 — Passed
 
 Change the content of %<#700035956522090596> to:
 > Proposals can be made by posting them to the <#700035956522090596> game channel.
