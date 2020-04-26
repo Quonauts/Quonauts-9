@@ -510,3 +510,10 @@ At any time, if they have not in 12 hours, a player may worship heavpoot to gain
 Add a new rule, %winning:
 > All players win the game. The game does not end.
 
+<a name='59'/>
+
+## #59
+
+Add a new rule, %primes, under %quantities:
+Upon the legal passing of a prime-numbered proposal, the author gets an additional point.
+
