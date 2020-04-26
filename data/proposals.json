@@ -871,6 +871,17 @@
 				"91269654017748992": 0
 			},
 			"timestamp": 1587854479
+		},
+		{
+			"n": 58,
+			"author": 421060058009305088,
+			"content": "Add a new rule, %winning:\n> All players win the game. The game does not end.",
+			"status": "voting",
+			"message_id": 703997701230035095,
+			"votes": {
+				"421060058009305088": 1
+			},
+			"timestamp": 1587912935
 		}
 	]
 }
