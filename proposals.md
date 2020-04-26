@@ -413,7 +413,7 @@ Add a new rule, %contradiction, which overrides %proposal-#9. This overrides all
 
 <a name='47'/>
 
-## #47
+## #47 — Failed
 
 Create a new rule named Proposal #46:
 > When proposal #46 is enacted, all changes to the game state caused by proposal #46 being enacted are to be retroactively reverted, and proposal #46 is to be reopened for voting.
