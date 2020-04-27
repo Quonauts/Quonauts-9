@@ -787,11 +787,12 @@
 			"n": 52,
 			"author": 421060058009305088,
 			"content": "Reopen Proposal #52",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 703312175262990496,
 			"votes": {
 				"151149148639330304": 1,
 				"160279332454006795": 0,
+				"309787486278909952": -1,
 				"330678593904443393": 0,
 				"421060058009305088": 1,
 				"91269654017748992": -1
@@ -802,7 +803,7 @@
 			"n": 53,
 			"author": 364562317645709336,
 			"content": "Create a new rule %land-map with the following content under %land:\n> The #land-map channel must contain exactly one message, whose contents are a link to a datastore viewable and editable by all players. This datastore must contain all data needed for a complete, accurate description of The Land's and all players' states. The datastore must also be updated at least every 36 hours.\n> \n> Falsifying map data violates this rule. In the event of data falsification or addition of bad actions (Land actions not within the rules), the Land state must be reverted to its latest recorded legitimate state. \n> \n> walter\n\n%land-map will not be enforced until 36 hours have passed (after this proposal passes)\nCreate a channel called #land-map.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 703313292369723433,
 			"votes": {
 				"151149148639330304": -1,
@@ -816,7 +817,7 @@
 			"n": 54,
 			"author": 427589146295664667,
 			"content": "[SILLY PROPOSAL]\n\nChange the content of %voting-on-proposals to:\n\n> Hmm yes Freedom Dive very good music yes indeed",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 703437105703157842,
 			"votes": {
 				"151149148639330304": 1,
@@ -893,6 +894,7 @@
 			"status": "voting",
 			"message_id": 704117807196930059,
 			"votes": {
+				"309787486278909952": 0,
 				"421060058009305088": 1,
 				"427589146295664667": 1
 			},
@@ -906,6 +908,7 @@
 			"message_id": 704120858133921792,
 			"votes": {
 				"151149148639330304": -1,
+				"309787486278909952": -1,
 				"421060058009305088": -1,
 				"427589146295664667": 1
 			},
