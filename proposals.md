@@ -459,7 +459,7 @@ Reopen Proposal #52
 
 <a name='53'/>
 
-## #53
+## #53 — Failed
 
 Create a new rule %land-map with the following content under %land:
 > The #land-map channel must contain exactly one message, whose contents are a link to a datastore viewable and editable by all players. This datastore must contain all data needed for a complete, accurate description of The Land's and all players' states. The datastore must also be updated at least every 36 hours.
