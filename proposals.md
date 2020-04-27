@@ -453,7 +453,7 @@ Change the content of %<#700035956522090596> to:
 
 <a name='52'/>
 
-## #52 — Passed
+## #52
 
 Reopen Proposal #52
 
