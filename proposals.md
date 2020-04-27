@@ -517,3 +517,10 @@ Add a new rule, %winning:
 Add a new rule, %primes, under %quantities:
 Upon the legal passing of a prime-numbered proposal, the author gets an additional point.
 
+<a name='60'/>
+
+## #60
+
+Add a new rule %composites, under %quantities:
+Upon the legal passing of a composite-numbered proposal, the author gets an additional point.
+
