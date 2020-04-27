@@ -473,7 +473,7 @@ Create a channel called #land-map.
 
 <a name='54'/>
 
-## #54
+## #54 — Failed
 
 [SILLY PROPOSAL]
 
