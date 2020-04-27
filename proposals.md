@@ -535,5 +535,6 @@ Upon the legal passing of a perfect numbered proposal, the author gets an additi
 
 ## #62
 
+Add a new rule, %tree, under %quantites:
 Upon the legal passing of a proposal of number TREE(n) for any n, the author gets points equal to the number of the proposal
 
