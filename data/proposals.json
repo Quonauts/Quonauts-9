@@ -930,6 +930,15 @@
 				"160279332454006795": 1
 			},
 			"timestamp": 1587971220
+		},
+		{
+			"n": 62,
+			"author": 421060058009305088,
+			"content": "Upon the legal passing of a proposal of number TREE(n) for any n, in the fast-growing hierarchy, the author gets points equal to the number of the proposal.",
+			"status": "voting",
+			"message_id": 704300487037681745,
+			"votes": {},
+			"timestamp": 1587985126
 		}
 	]
 }
