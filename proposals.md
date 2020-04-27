@@ -524,3 +524,10 @@ Upon the legal passing of a prime-numbered proposal, the author gets an addition
 Add a new rule %composites, under %quantities:
 Upon the legal passing of a composite-numbered proposal, the author gets an additional point.
 
+<a name='61'/>
+
+## #61
+
+Add a new rule %perfects, under %quantities:
+Upon the legal passing of a perfect numbered proposal, the author gets an additional point.
+
