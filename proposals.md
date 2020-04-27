@@ -545,3 +545,9 @@ Upon the legal passing of a proposal of number TREE(n) for any n, the author get
 Add a new rule %odd-perfects, under %quantities:
 Upon the legal passing of an odd perfect numbered proposal, the author wins and the game ends. This overrides everything where applicable.
 
+<a name='64'/>
+
+## #64
+
+Add a new rule, %goodstein: Change the numbering of proposals in accord with the Goodstein sequence, starting with proposal #100.  The author of proposal #0 wins the game. This rule overrides other rules.
+
