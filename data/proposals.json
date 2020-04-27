@@ -892,8 +892,21 @@
 			"content": "Add a new rule, %primes, under %quantities:\nUpon the legal passing of a prime-numbered proposal, the author gets an additional point.",
 			"status": "voting",
 			"message_id": 704117807196930059,
-			"votes": {},
+			"votes": {
+				"427589146295664667": 1
+			},
 			"timestamp": 1587941571
+		},
+		{
+			"n": 60,
+			"author": 427589146295664667,
+			"content": "Add a new rule %composites, under %quantities:\nUpon the legal passing of a composite-numbered proposal, the author gets an additional point.",
+			"status": "voting",
+			"message_id": 704120858133921792,
+			"votes": {
+				"427589146295664667": 1
+			},
+			"timestamp": 1587942298
 		}
 	]
 }
