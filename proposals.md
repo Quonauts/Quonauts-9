@@ -535,5 +535,5 @@ Upon the legal passing of a perfect numbered proposal, the author gets an additi
 
 ## #62
 
-Upon the legal passing of a proposal of number TREE(n) for any n, in the fast-growing hierarchy, the author gets points equal to the number of the proposal.
+Upon the legal passing of a proposal of number TREE(n) for any n, the author gets points equal to the number of the proposal
 
