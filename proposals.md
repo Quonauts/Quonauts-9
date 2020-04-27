@@ -538,3 +538,10 @@ Upon the legal passing of a perfect numbered proposal, the author gets an additi
 Add a new rule, %tree, under %quantites:
 Upon the legal passing of a proposal of number TREE(n) for any n, the author gets points equal to the number of the proposal
 
+<a name='63'/>
+
+## #63
+
+Add a new rule %odd-perfects, under %quantities:
+Upon the legal passing of an odd perfect numbered proposal, the author wins and the game ends. This overrides everything where applicable.
+
