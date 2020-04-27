@@ -531,3 +531,9 @@ Upon the legal passing of a composite-numbered proposal, the author gets an addi
 Add a new rule %perfects, under %quantities:
 Upon the legal passing of a perfect numbered proposal, the author gets an additional point.
 
+<a name='62'/>
+
+## #62
+
+Upon the legal passing of a proposal of number TREE(n) for any n, in the fast-growing hierarchy, the author gets points equal to the number of the proposal.
+
