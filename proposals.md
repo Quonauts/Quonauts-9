@@ -591,3 +591,10 @@ anyone want to play minecraft lol
 
 🖲️
 
+<a name='70'/>
+
+## #70
+
+Add a new rule, %ruley-mcruleface, under %quantities:
+any player with less than zero points loses the game. The game does not end.
+
