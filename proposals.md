@@ -540,7 +540,7 @@ Upon the legal passing of a proposal of number TREE(n) for any n, the author get
 
 <a name='63'/>
 
-## #63
+## #63 — Passed
 
 Add a new rule %odd-perfects, under %quantities:
 Upon the legal passing of an odd perfect numbered proposal, the author wins and the game ends. This overrides everything where applicable.
