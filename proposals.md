@@ -489,7 +489,7 @@ If and only if less than 1/2 of previous proposals have passed, give <@151149148
 
 <a name='56'/>
 
-## #56
+## #56 — Passed
 
 Add rule "Opinion Polls" as subrule of %polls:
 > Players may conduct polls to informally gather opinions about any game relevant topic, called "opinion polls".
