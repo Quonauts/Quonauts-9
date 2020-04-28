@@ -557,3 +557,9 @@ Add a new rule, %goodstein: Change the numbering of proposals in accord with the
 
 stop it, you muffins
 
+<a name='66'/>
+
+## #66
+
+__ __
+
