@@ -28,6 +28,7 @@
         * [**2.2.5. Editing proposals**](#editing-proposals)
     * [**2.3. #rules**](#rules)
     * [**2.4. #polls**](#polls)
+        * [**2.4.1. Opinion polls**](#opinion-polls)
     * [**2.5. #transactions**](#transactions)
     * [**2.6. #the-land**](#the-land)
 * [**3. Quantities**](#quantities)
@@ -254,6 +255,12 @@ A poll closes when one or more of the following conditions is met:
 * A majority of active players have voted in favour of or against the poll, and there are more than two active players.
 
 When a poll is closed, no more votes may be cast on it, and it may not be edited. If more active players have voted in favour of the poll than against, the poll passes, otherwise, it fails.
+
+#### <a name='opinion-polls'/> Opinion polls
+
+Players may conduct polls to informally gather opinions about any game relevant topic, called "opinion polls".
+
+An opinion poll may only be created if no other opinion poll by that player is currently open. By default, the allowed reactions of an opinion poll are 👍 and 👎, but the opinion poll may specify different allowed reactions for itself.
 
 ### <a name='transactions'/> #transactions
 
