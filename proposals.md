@@ -498,7 +498,7 @@ Add rule "Opinion Polls" as subrule of %polls:
 
 <a name='57'/>
 
-## #57
+## #57 — Failed
 
 Add a quantity called "Worship"
 At any time, if they have not in 12 hours, a player may worship heavpoot to gain one Worship.
