@@ -505,7 +505,7 @@ At any time, if they have not in 12 hours, a player may worship heavpoot to gain
 
 <a name='58'/>
 
-## #58
+## #58 — Failed
 
 Add a new rule, %winning:
 > All players win the game. The game does not end.
