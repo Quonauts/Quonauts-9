@@ -33,12 +33,13 @@
     * [**2.6. #the-land**](#the-land)
 * [**3. Quantities**](#quantities)
     * [**3.1. Obtaining points**](#obtaining-points)
-* [**4. Land**](#land)
-    * [**4.1. Land actions**](#land-actions)
-        * [**4.1.1. Land movement**](#land-movement)
-        * [**4.1.2. Trade**](#trade)
-        * [**4.1.3. Claiming land**](#claiming-land)
-* [**5. Proposal #9**](#proposal-9)
+* [**4. Odd perfects**](#odd-perfects)
+* [**5. Land**](#land)
+    * [**5.1. Land actions**](#land-actions)
+        * [**5.1.1. Land movement**](#land-movement)
+        * [**5.1.2. Trade**](#trade)
+        * [**5.1.3. Claiming land**](#claiming-land)
+* [**6. Proposal #9**](#proposal-9)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -291,6 +292,10 @@ When a new quantity is created, it must be added to the above list, along with a
 ### <a name='obtaining-points'/> Obtaining points
 
 When a proposal is passed, its author obtains 2 points and the person who enacted it obtains 1, if this is applicable.
+
+## <a name='odd-perfects'/> Odd perfects
+
+Upon the legal passing of an odd perfect numbered proposal, the author wins and the game ends. This overrides everything where applicable.
 
 ## <a name='land'/> Land
 
