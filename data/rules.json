@@ -45,7 +45,7 @@
 			"parent_tag": "land-actions",
 			"child_tags": [],
 			"message_ids": [
-				703303663661219941
+				704749132597952663
 			]
 		},
 		"closing-proposals": {
@@ -169,7 +169,7 @@
 				"land-actions"
 			],
 			"message_ids": [
-				703303659458658315
+				704749111538090025
 			]
 		},
 		"land-actions": {
@@ -183,7 +183,7 @@
 				"claiming-land"
 			],
 			"message_ids": [
-				703303660452708444
+				704749112280481814
 			]
 		},
 		"land-movement": {
@@ -193,7 +193,7 @@
 			"parent_tag": "land-actions",
 			"child_tags": [],
 			"message_ids": [
-				703303661799079946
+				704749113337446520
 			]
 		},
 		"lists": {
@@ -232,7 +232,27 @@
 			"parent_tag": "quantities",
 			"child_tags": [],
 			"message_ids": [
-				703303640961515647
+				704748378130612314
+			]
+		},
+		"odd-perfects": {
+			"tag": "odd-perfects",
+			"title": "Odd perfects",
+			"content": "Upon the legal passing of an odd perfect numbered proposal, the author wins and the game ends. This overrides everything where applicable.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				704749110913400983
+			]
+		},
+		"opinion-polls": {
+			"tag": "opinion-polls",
+			"title": "Opinion polls",
+			"content": "Players may conduct polls to informally gather opinions about any game relevant topic, called \"opinion polls\".\n\nAn opinion poll may only be created if no other opinion poll by that player is currently open. By default, the allowed reactions of an opinion poll are \ud83d\udc4d and \ud83d\udc4e, but the opinion poll may specify different allowed reactions for itself.",
+			"parent_tag": "polls",
+			"child_tags": [],
+			"message_ids": [
+				704748374578036786
 			]
 		},
 		"passing-and-failing-proposals": {
@@ -250,7 +270,9 @@
 			"title": "#polls",
 			"content": "A poll is a means of gathering the opinions of players on an issue. A poll is created by sending a message in the <#700035979792089208> channel, provided a rule permits the poll's creation.\n\nPlayers may vote on a poll by reacting to it with a certain reaction, as specified in the rule permitting the poll's creation. No unspecified reactions are permitted.\n\nThe player that posted a poll may edit it freely, as long as such edits do not change the meaning/intent of any existing reactions to the poll.\n\nIn the event of a conflict, the following parts of this section never take precedence over a rule that allows a poll to be created.\n\nEach player may cast only one vote on a given poll, all votes by a player who voted for multiple options are ignored.\n\nA poll closes when one or more of the following conditions is met:\n\n* The poll is at least 24 hours old.\n* All active players have voted on the poll, and there are more than two active players.\n* A majority of active players have voted in favour of or against the poll, and there are more than two active players.\n\nWhen a poll is closed, no more votes may be cast on it, and it may not be edited. If more active players have voted in favour of the poll than against, the poll passes, otherwise, it fails.",
 			"parent_tag": "channels",
-			"child_tags": [],
+			"child_tags": [
+				"opinion-polls"
+			],
 			"message_ids": [
 				703303637165801553
 			]
@@ -272,7 +294,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				703303681944059924
+				704749133709180948
 			]
 		},
 		"proposal-content": {
@@ -313,7 +335,7 @@
 				"obtaining-points"
 			],
 			"message_ids": [
-				703303640106139828
+				704748377333825536
 			]
 		},
 		"root": {
@@ -325,13 +347,14 @@
 				"meta-rules",
 				"channels",
 				"quantities",
+				"odd-perfects",
 				"land",
 				"proposal-9"
 			],
 			"message_ids": [
-				703303682623668277,
-				703303683517055116,
-				703303684381081660
+				704749134946762793,
+				704749136049733662,
+				704749137119412475
 			]
 		},
 		"rule-violation-polls": {
@@ -376,7 +399,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				703303638533144617
+				704748376578850976
 			]
 		},
 		"timezones": {
@@ -396,7 +419,7 @@
 			"parent_tag": "land-actions",
 			"child_tags": [],
 			"message_ids": [
-				703303662495334401
+				704749114167918622
 			]
 		},
 		"transactions": {
@@ -406,7 +429,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				703303638013182062
+				704748375530143794
 			]
 		},
 		"voting-on-proposals": {

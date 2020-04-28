@@ -848,7 +848,7 @@
 			"n": 56,
 			"author": 330678593904443393,
 			"content": "Add rule \"Opinion Polls\" as subrule of %polls:\n> Players may conduct polls to informally gather opinions about any game relevant topic, called \"opinion polls\".\n> \n> An opinion poll may only be created if no other opinion poll by that player is currently open. By default, the allowed reactions of an opinion poll are thumbsup and thumbsdown, but the opinion poll may specify different allowed reactions for itself.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 703596234450927709,
 			"votes": {
 				"151149148639330304": -1,
@@ -865,7 +865,7 @@
 			"n": 57,
 			"author": 421060058009305088,
 			"content": "Add a quantity called \"Worship\"\nAt any time, if they have not in 12 hours, a player may worship heavpoot to gain one Worship.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 703752523999346748,
 			"votes": {
 				"151149148639330304": -1,
@@ -882,7 +882,7 @@
 			"n": 58,
 			"author": 421060058009305088,
 			"content": "Add a new rule, %winning:\n> All players win the game. The game does not end.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 703997701230035095,
 			"votes": {
 				"151149148639330304": -1,
@@ -966,7 +966,7 @@
 			"n": 63,
 			"author": 160279332454006795,
 			"content": "Add a new rule %odd-perfects, under %quantities:\nUpon the legal passing of an odd perfect numbered proposal, the author wins and the game ends. This overrides everything where applicable.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 704461420611371080,
 			"votes": {
 				"151149148639330304": 1,
