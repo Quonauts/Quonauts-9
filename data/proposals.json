@@ -1068,6 +1068,26 @@
 				"421060058009305088": 0
 			},
 			"timestamp": 1588088924
+		},
+		{
+			"n": 70,
+			"author": 421060058009305088,
+			"content": "Add a new rule, %ruley-mcruleface, under %quantities:\nany player with less than zero points loses the game. The game does not end.",
+			"status": "failed",
+			"message_id": 704739641026281652,
+			"votes": {
+				"160279332454006795": -1
+			},
+			"timestamp": 1588089824
+		},
+		{
+			"n": 71,
+			"author": 421060058009305088,
+			"content": "Add a new rule, %ruley-mcruleface, under %quantities:\nany player with over 1000 points wins the game. The game does not end.",
+			"status": "voting",
+			"message_id": 704739788233769102,
+			"votes": {},
+			"timestamp": 1588089859
 		}
 	]
 }
