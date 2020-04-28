@@ -605,3 +605,9 @@ any player with less than zero points loses the game. The game does not end.
 Add a new rule, %ruley-mcruleface, under %quantities:
 any player with over 1000 points wins the game. The game does not end.
 
+<a name='72'/>
+
+## #72
+
+reopen Proposal #72, then fail a random proposal, overriding any rule stating you cannot do so.
+
