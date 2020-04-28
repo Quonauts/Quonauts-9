@@ -551,3 +551,9 @@ Upon the legal passing of an odd perfect numbered proposal, the author wins and 
 
 Add a new rule, %goodstein: Change the numbering of proposals in accord with the Goodstein sequence, starting with proposal #100.  The author of proposal #0 wins the game. This rule overrides other rules.
 
+<a name='65'/>
+
+## #65
+
+stop it, you muffins
+
