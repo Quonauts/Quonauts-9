@@ -636,3 +636,9 @@ Change %<#700035894538928229> to:
 
 Reopen proposals #73, #74, and #76, and give everyone who abstained on at least one of them 1 point.
 
+<a name='77'/>
+
+## #77
+
+Reopen proposals #73, #74, #76, and #77, and give everyone who abstained on at least one of them 1 point.
+
