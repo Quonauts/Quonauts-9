@@ -553,7 +553,7 @@ Add a new rule, %goodstein: Change the numbering of proposals in accord with the
 
 <a name='65'/>
 
-## #65
+## #65 — Passed
 
 stop it, you muffins
 
