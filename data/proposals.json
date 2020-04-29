@@ -1221,6 +1221,7 @@
 			"status": "voting",
 			"message_id": 705028087003480146,
 			"votes": {
+				"151149148639330304": -1,
 				"309787486278909952": -1,
 				"421060058009305088": 1,
 				"427589146295664667": 0
@@ -1234,11 +1235,23 @@
 			"status": "voting",
 			"message_id": 705032363649794168,
 			"votes": {
+				"151149148639330304": -1,
 				"309787486278909952": -1,
 				"421060058009305088": 1,
 				"427589146295664667": 0
 			},
 			"timestamp": 1588159616
+		},
+		{
+			"n": 81,
+			"author": 151149148639330304,
+			"content": "Remove the following clause from #land-actions:\n> After a player makes an action, they must wait 2 hours before performing another action.",
+			"status": "voting",
+			"message_id": 705082686452269167,
+			"votes": {
+				"151149148639330304": 1
+			},
+			"timestamp": 1588171612
 		}
 	]
 }
