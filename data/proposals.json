@@ -1144,9 +1144,21 @@
 			"status": "voting",
 			"message_id": 704837980619145297,
 			"votes": {
+				"421060058009305088": 1,
 				"474424490382589952": -1
 			},
 			"timestamp": 1588113271
+		},
+		{
+			"n": 75,
+			"author": 421060058009305088,
+			"content": "Change %<#700035894538928229> to:\n> Players may post any messages to <#700035894538928229> as longs as said messages contain none of a, e, i, o, or u.",
+			"status": "voting",
+			"message_id": 704847844091101255,
+			"votes": {
+				"421060058009305088": 0
+			},
+			"timestamp": 1588115623
 		}
 	]
 }
