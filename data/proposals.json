@@ -1121,6 +1121,7 @@
 				"309787486278909952": -1,
 				"330678593904443393": 1,
 				"421060058009305088": 0,
+				"427589146295664667": -1,
 				"474424490382589952": -1
 			},
 			"timestamp": 1588107349
@@ -1135,6 +1136,7 @@
 				"151149148639330304": -1,
 				"330678593904443393": 0,
 				"421060058009305088": 1,
+				"427589146295664667": 0,
 				"474424490382589952": -1
 			},
 			"timestamp": 1588107923
@@ -1161,9 +1163,43 @@
 			"message_id": 704847844091101255,
 			"votes": {
 				"151149148639330304": -1,
-				"421060058009305088": 0
+				"421060058009305088": 0,
+				"427589146295664667": -1
 			},
 			"timestamp": 1588115623
+		},
+		{
+			"n": 76,
+			"author": 427589146295664667,
+			"content": "Reopen proposals #73, #74, and #76, and give everyone who abstained on at least one of them 1 point.",
+			"status": "voting",
+			"message_id": 704914315186012200,
+			"votes": {
+				"427589146295664667": 0
+			},
+			"timestamp": 1588131471
+		},
+		{
+			"n": 77,
+			"author": 427589146295664667,
+			"content": "Reopen proposals #73, #74, #76, and #77, and give everyone who abstained on at least one of them 1 point.",
+			"status": "voting",
+			"message_id": 704914382320304138,
+			"votes": {
+				"427589146295664667": 0
+			},
+			"timestamp": 1588131487
+		},
+		{
+			"n": 78,
+			"author": 427589146295664667,
+			"content": "Reopen proposals #73, #74, #76, #77 and #78, and give everyone who abstained on at least one of them 1 point.",
+			"status": "voting",
+			"message_id": 704914473080586291,
+			"votes": {
+				"427589146295664667": 0
+			},
+			"timestamp": 1588131508
 		}
 	]
 }
