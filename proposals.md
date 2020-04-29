@@ -642,3 +642,9 @@ Reopen proposals #73, #74, and #76, and give everyone who abstained on at least 
 
 Reopen proposals #73, #74, #76, and #77, and give everyone who abstained on at least one of them 1 point.
 
+<a name='78'/>
+
+## #78
+
+Reopen proposals #73, #74, #76, #77 and #78, and give everyone who abstained on at least one of them 1 point.
+
