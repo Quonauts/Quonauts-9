@@ -630,3 +630,9 @@ Reopen proposals #73 and #74 and give everyone who abstained on either 1 point.
 Change %<#700035894538928229> to:
 > Players may post any messages to <#700035894538928229> as longs as said messages contain none of a, e, i, o, or u.
 
+<a name='76'/>
+
+## #76
+
+Reopen proposals #73, #74, and #76, and give everyone who abstained on at least one of them 1 point.
+
