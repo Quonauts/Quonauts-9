@@ -660,3 +660,10 @@ Reopen proposals #73, #74, #76, and #79 and give everyone who abstained on or vo
 
 Reopen proposals #73, #74, #76, #77, #78, and #79, and give everyone who abstained on at least one of them 1 point.
 
+<a name='81'/>
+
+## #81
+
+Remove the following clause from #land-actions:
+> After a player makes an action, they must wait 2 hours before performing another action.
+
