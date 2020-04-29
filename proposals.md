@@ -667,3 +667,10 @@ Reopen proposals #73, #74, #76, #77, #78, and #79, and give everyone who abstain
 Remove the following clause from #land-actions:
 > After a player makes an action, they must wait 2 hours before performing another action.
 
+<a name='82'/>
+
+## #82
+
+Append to %land-actions:
+> A player may do no more than 4 land actions per 24 hours.
+
