@@ -1251,9 +1251,21 @@
 			"votes": {
 				"151149148639330304": 1,
 				"160279332454006795": -1,
-				"309787486278909952": -1
+				"309787486278909952": -1,
+				"330678593904443393": -1
 			},
 			"timestamp": 1588171612
+		},
+		{
+			"n": 82,
+			"author": 330678593904443393,
+			"content": "Append to %land-actions:\n> A player may do no more than 4 land actions per 24 hours.",
+			"status": "voting",
+			"message_id": 705150753412481134,
+			"votes": {
+				"330678593904443393": 1
+			},
+			"timestamp": 1588187840
 		}
 	]
 }
