@@ -674,3 +674,10 @@ Remove the following clause from #land-actions:
 Append to %land-actions:
 > A player may do no more than 4 land actions per 24 hours.
 
+<a name='83'/>
+
+## #83
+
+Append to %land-actions:
+A player may do no more than 400 land actions per 24 hours.
+
