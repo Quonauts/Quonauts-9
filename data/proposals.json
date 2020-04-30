@@ -1288,7 +1288,9 @@
 			"content": "Append to %land-actions:\nA player may do no more than 400 land actions per 24 hours.",
 			"status": "voting",
 			"message_id": 705442164691304559,
-			"votes": {},
+			"votes": {
+				"427589146295664667": 1
+			},
 			"timestamp": 1588257319
 		}
 	]
