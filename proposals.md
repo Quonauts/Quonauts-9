@@ -687,3 +687,9 @@ A player may do no more than 400 land actions per 24 hours.
 
 Add a new banana (note: not a rule): Quonauts 4.5 ends immediately
 
+<a name='85'/>
+
+## #85
+
+change all mentions of "rules" to "bananas" in the rules. Change <#700035968467599442> to #bananas.
+
