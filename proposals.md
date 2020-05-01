@@ -714,3 +714,10 @@ A player may do no more than 4e529 land actions per 24 nanoseconds.
 
 fail this proposal
 
+<a name='89'/>
+
+## #89
+
+Append to %land actions:
+A player may do no more than Graham's number actions per planck-time.
+
