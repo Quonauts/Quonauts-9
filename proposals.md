@@ -519,7 +519,7 @@ Upon the legal passing of a prime-numbered proposal, the author gets an addition
 
 <a name='60'/>
 
-## #60
+## #60 — Failed
 
 Add a new rule %composites, under %quantities:
 Upon the legal passing of a composite-numbered proposal, the author gets an additional point.
