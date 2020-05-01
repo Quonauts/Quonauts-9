@@ -710,7 +710,7 @@ A player may do no more than 4e529 land actions per 24 nanoseconds.
 
 <a name='88'/>
 
-## #88
+## #88 — Failed
 
 fail this proposal
 
