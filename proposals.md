@@ -607,7 +607,7 @@ any player with over 1000 points wins the game. The game does not end.
 
 <a name='72'/>
 
-## #72
+## #72 — Failed
 
 reopen Proposal #72, then fail a random proposal, overriding any rule stating you cannot do so.
 
