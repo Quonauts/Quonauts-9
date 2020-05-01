@@ -45,7 +45,7 @@
 			"parent_tag": "land-actions",
 			"child_tags": [],
 			"message_ids": [
-				704749132597952663
+				705778545066115252
 			]
 		},
 		"closing-proposals": {
@@ -160,6 +160,16 @@
 				703303571575144469
 			]
 		},
+		"iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf": {
+			"tag": "iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf",
+			"title": "iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf",
+			"content": "wwei is a ajskkfhjkkkkkkkkk8799999999998797898533243524333333333333333333332rrrrrrrrrrrrfv frv frv fr vfrv frv\nAll players are to be considered adfojpio455u345u34. osdfhkzsdhfhdkflgjsdhf is to be considered part of the game state. Gibson is considered to be part of the first state of america (in alphabetical order). jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjhhhhhjkjjjjjjjjjjjjjjjjjj8979799879879799999999999999999999999999999999999999999999777777777979797979ninesevensevensevenninenine9979797999999999999\n\n111111\u00b9\u00b9\u00b9\u00b9\u00b9\u00b9\u00b9\u00b9\u00b9\u00b9\u00b9111111111111\u00b9111\u00b9\u00b9\u00b91\u00b9\u00b91111111\u00b911\u00b911\u00b9\u00b911\u00b911\u00b912aaaaaa\nboredom\naaaa\n\nbored\nanyone want to play minecraft lol",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				705778835303563356
+			]
+		},
 		"land": {
 			"tag": "land",
 			"title": "Land",
@@ -169,7 +179,7 @@
 				"land-actions"
 			],
 			"message_ids": [
-				704749111538090025
+				705778523947925506
 			]
 		},
 		"land-actions": {
@@ -183,7 +193,7 @@
 				"claiming-land"
 			],
 			"message_ids": [
-				704749112280481814
+				705778525227057153
 			]
 		},
 		"land-movement": {
@@ -193,7 +203,7 @@
 			"parent_tag": "land-actions",
 			"child_tags": [],
 			"message_ids": [
-				704749113337446520
+				705778527005311007
 			]
 		},
 		"lists": {
@@ -242,7 +252,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				704749110913400983
+				705778523545010216
 			]
 		},
 		"opinion-polls": {
@@ -263,6 +273,16 @@
 			"child_tags": [],
 			"message_ids": [
 				703303616244744413
+			]
+		},
+		"perfects": {
+			"tag": "perfects",
+			"title": "Perfects",
+			"content": "Upon the legal passing of a perfect numbered proposal, the author gets an additional point.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				705778522249101364
 			]
 		},
 		"polls": {
@@ -294,7 +314,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				704749133709180948
+				705778545732878427
 			]
 		},
 		"proposal-content": {
@@ -347,14 +367,16 @@
 				"meta-rules",
 				"channels",
 				"quantities",
+				"perfects",
 				"odd-perfects",
 				"land",
-				"proposal-9"
+				"proposal-9",
+				"iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf"
 			],
 			"message_ids": [
-				704749134946762793,
-				704749136049733662,
-				704749137119412475
+				705778836683358218,
+				705778837660762173,
+				705778838323462197
 			]
 		},
 		"rule-violation-polls": {
@@ -419,7 +441,7 @@
 			"parent_tag": "land-actions",
 			"child_tags": [],
 			"message_ids": [
-				704749114167918622
+				705778543833120830
 			]
 		},
 		"transactions": {

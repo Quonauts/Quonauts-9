@@ -899,7 +899,7 @@
 			"n": 59,
 			"author": 421060058009305088,
 			"content": "Add a new rule, %primes, under %quantities:\nUpon the legal passing of a prime-numbered proposal, the author gets an additional point.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 704117807196930059,
 			"votes": {
 				"160279332454006795": 0,
@@ -915,7 +915,7 @@
 			"n": 60,
 			"author": 427589146295664667,
 			"content": "Add a new rule %composites, under %quantities:\nUpon the legal passing of a composite-numbered proposal, the author gets an additional point.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 704120858133921792,
 			"votes": {
 				"151149148639330304": -1,
@@ -933,7 +933,7 @@
 			"n": 61,
 			"author": 160279332454006795,
 			"content": "Add a new rule %perfects, under %quantities:\nUpon the legal passing of a perfect numbered proposal, the author gets an additional point.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 704242163755778110,
 			"votes": {
 				"151149148639330304": 1,
@@ -988,7 +988,7 @@
 			"n": 64,
 			"author": 421060058009305088,
 			"content": "Add a new rule, %goodstein: Change the numbering of proposals in accord with the Goodstein sequence, starting with proposal #100.  The author of proposal #0 wins the game. This rule overrides other rules.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 704473172216643664,
 			"votes": {
 				"151149148639330304": -1,
@@ -1032,7 +1032,7 @@
 			"n": 67,
 			"author": 160279332454006795,
 			"content": "@everyone",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 704724330747134024,
 			"votes": {
 				"151149148639330304": -1,
@@ -1053,7 +1053,7 @@
 			"n": 68,
 			"author": 160279332454006795,
 			"content": ".,,,,,,,,,,............,...........,.........,,,nnnnnnnnn897667576586tgghcgfcgfcfhcjrye5y4w365wesfgsxdxxcvbvc 65 6445e3 45mdjur4deckigftr6jkuftrtvgj\u00f0\u201d \u0309fr mjutr5em rf bvf m\nCreate a new rule named iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf:\nwwei is a ajskkfhjkkkkkkkkk8799999999998797898533243524333333333333333333332rrrrrrrrrrrrfv frv frv fr vfrv frv\nAll players are to be considered adfojpio455u345u34. osdfhkzsdhfhdkflgjsdhf is to be considered part of the game state. Gibson is considered to be part of the first state of america (in alphabetical order). jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjhhhhhjkjjjjjjjjjjjjjjjjjj8979799879879799999999999999999999999999999999999999999999777777777979797979ninesevensevensevenninenine9979797999999999999\n\n111111\u00b9\u00b9\u00b9\u00b9\u00b9\u00b9\u00b9\u00b9\u00b9\u00b9\u00b9111111111111\u00b9111\u00b9\u00b9\u00b91\u00b9\u00b91111111\u00b911\u00b911\u00b9\u00b911\u00b911\u00b912aaaaaa\nboredom\naaaa\n\nbored\nanyone want to play minecraft lol",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 704726703246934097,
 			"votes": {
 				"151149148639330304": 1,
@@ -1073,7 +1073,7 @@
 			"n": 69,
 			"author": 353513054912249856,
 			"content": "\ud83d\uddb2\ufe0f",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 704735868958802020,
 			"votes": {
 				"330678593904443393": -1,
@@ -1098,7 +1098,7 @@
 			"n": 71,
 			"author": 421060058009305088,
 			"content": "Add a new rule, %ruley-mcruleface, under %quantities:\nany player with over 1000 points wins the game. The game does not end.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 704739788233769102,
 			"votes": {
 				"151149148639330304": -1,
@@ -1115,7 +1115,7 @@
 			"n": 72,
 			"author": 421060058009305088,
 			"content": "reopen Proposal #72, then fail a random proposal, overriding any rule stating you cannot do so.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 704813143741956137,
 			"votes": {
 				"151149148639330304": -1,
@@ -1133,7 +1133,7 @@
 			"n": 73,
 			"author": 421060058009305088,
 			"content": "Reopen Proposal #73 and give everyone who abstained on it 1 point (see %quantities).",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 704815551045828657,
 			"votes": {
 				"151149148639330304": -1,
@@ -1151,7 +1151,7 @@
 			"n": 74,
 			"author": 421060058009305088,
 			"content": "Reopen proposals #73 and #74 and give everyone who abstained on either 1 point.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 704837980619145297,
 			"votes": {
 				"151149148639330304": -1,
@@ -1168,7 +1168,7 @@
 			"n": 75,
 			"author": 421060058009305088,
 			"content": "Change %<#700035894538928229> to:\n> Players may post any messages to <#700035894538928229> as longs as said messages contain none of a, e, i, o, or u.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 704847844091101255,
 			"votes": {
 				"151149148639330304": -1,
@@ -1184,7 +1184,7 @@
 			"n": 76,
 			"author": 427589146295664667,
 			"content": "Reopen proposals #73, #74, and #76, and give everyone who abstained on at least one of them 1 point.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 704914315186012200,
 			"votes": {
 				"309787486278909952": -1,
@@ -1223,7 +1223,7 @@
 			"n": 79,
 			"author": 421060058009305088,
 			"content": "Reopen proposals #73, #74, #76, and #79 and give everyone who abstained on or voted against at least one of them one point.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 705028087003480146,
 			"votes": {
 				"151149148639330304": -1,
@@ -1238,7 +1238,7 @@
 			"n": 80,
 			"author": 427589146295664667,
 			"content": "Reopen proposals #73, #74, #76, #77, #78, and #79, and give everyone who abstained on at least one of them 1 point.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 705032363649794168,
 			"votes": {
 				"151149148639330304": -1,
@@ -1289,6 +1289,7 @@
 			"status": "voting",
 			"message_id": 705442164691304559,
 			"votes": {
+				"309787486278909952": -1,
 				"427589146295664667": 1
 			},
 			"timestamp": 1588257319
@@ -1300,6 +1301,7 @@
 			"status": "voting",
 			"message_id": 705474069515993199,
 			"votes": {
+				"309787486278909952": -1,
 				"353513054912249856": 1,
 				"364562317645709336": 1,
 				"421060058009305088": 1,
@@ -1315,13 +1317,85 @@
 			"status": "voting",
 			"message_id": 705474837493055549,
 			"votes": {
-				"309787486278909952": 0,
+				"309787486278909952": -1,
 				"353513054912249856": 1,
 				"364562317645709336": -1,
 				"421060058009305088": 1,
 				"91269654017748992": -1
 			},
 			"timestamp": 1588265109
+		},
+		{
+			"n": 86,
+			"author": 543131534685765673,
+			"content": "Append to %odd-perfects:\nOther conditions for a rule to go under the same procedure as mentioned previously are the number never reaching 1 in its Collatz-iteration trajectory and it being a negative number.",
+			"status": "voting",
+			"message_id": 705777703516635207,
+			"votes": {
+				"160279332454006795": 0,
+				"309787486278909952": 0,
+				"543131534685765673": 1
+			},
+			"timestamp": 1588337319
+		},
+		{
+			"n": 87,
+			"author": 160279332454006795,
+			"content": "Proposal #83\nAppend to %land-actions:\nA player may do no more than 4e529 land actions per 24 nanoseconds.",
+			"status": "voting",
+			"message_id": 705779775574376499,
+			"votes": {
+				"160279332454006795": 1,
+				"309787486278909952": -1,
+				"427589146295664667": 1
+			},
+			"timestamp": 1588337813
+		},
+		{
+			"n": 88,
+			"author": 160279332454006795,
+			"content": "fail this proposal",
+			"status": "failed",
+			"message_id": 705780008844525608,
+			"votes": {},
+			"timestamp": 1588337868
+		},
+		{
+			"n": 89,
+			"author": 543131534685765673,
+			"content": "Append to %land actions:\nA player may do no more than Graham's number actions per planck-time.",
+			"status": "voting",
+			"message_id": 705780052540784760,
+			"votes": {
+				"160279332454006795": 0,
+				"309787486278909952": -1,
+				"427589146295664667": 1,
+				"543131534685765673": 1
+			},
+			"timestamp": 1588337879
+		},
+		{
+			"n": 90,
+			"author": 427589146295664667,
+			"content": "Reopen proposals #73, #74, #76, #77, #78, #79, #80, and #90, and give everyone who either voted on or abstained from at least one of those proposals one point.",
+			"status": "voting",
+			"message_id": 705780190881644575,
+			"votes": {
+				"309787486278909952": -1,
+				"427589146295664667": 1
+			},
+			"timestamp": 1588337912
+		},
+		{
+			"n": 91,
+			"author": 543131534685765673,
+			"content": "Call this proposal #100 and pretend that the numerical quantities 91-100 exclusive do not exist. Any action which might associate a quantity with numbers in this range should be denied.",
+			"status": "voting",
+			"message_id": 705780457488252989,
+			"votes": {
+				"309787486278909952": -1
+			},
+			"timestamp": 1588337975
 		}
 	]
 }
