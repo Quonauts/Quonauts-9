@@ -693,3 +693,10 @@ Add a new banana (note: not a rule): Quonauts 4.5 ends immediately
 
 change all mentions of "rules" to "bananas" in the rules. Change <#700035968467599442> to #bananas.
 
+<a name='86'/>
+
+## #86
+
+Append to %odd-perfects:
+Other conditions for a rule to go under the same procedure as mentioned previously are the number never reaching 1 in its Collatz-iteration trajectory and it being a negative number.
+
