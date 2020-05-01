@@ -613,7 +613,7 @@ reopen Proposal #72, then fail a random proposal, overriding any rule stating yo
 
 <a name='73'/>
 
-## #73
+## #73 — Failed
 
 Reopen Proposal #73 and give everyone who abstained on it 1 point (see %quantities).
 
