@@ -721,3 +721,9 @@ fail this proposal
 Append to %land actions:
 A player may do no more than Graham's number actions per planck-time.
 
+<a name='90'/>
+
+## #90
+
+Reopen proposals #73, #74, #76, #77, #78, #79, #80, and #90, and give everyone who either voted on or abstained from at least one of those proposals one point.
+
