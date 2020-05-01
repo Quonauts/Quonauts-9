@@ -727,3 +727,9 @@ A player may do no more than Graham's number actions per planck-time.
 
 Reopen proposals #73, #74, #76, #77, #78, #79, #80, and #90, and give everyone who either voted on or abstained from at least one of those proposals one point.
 
+<a name='91'/>
+
+## #91
+
+Call this proposal #100 and pretend that the numerical quantities 91-100 exclusive do not exist. Any action which might associate a quantity with numbers in this range should be denied.
+
