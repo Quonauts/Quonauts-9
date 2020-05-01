@@ -656,7 +656,7 @@ Reopen proposals #73, #74, #76, and #79 and give everyone who abstained on or vo
 
 <a name='80'/>
 
-## #80
+## #80 — Failed
 
 Reopen proposals #73, #74, #76, #77, #78, and #79, and give everyone who abstained on at least one of them 1 point.
 
