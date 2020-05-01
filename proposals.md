@@ -700,3 +700,11 @@ change all mentions of "rules" to "bananas" in the rules. Change <#7000359684675
 Append to %odd-perfects:
 Other conditions for a rule to go under the same procedure as mentioned previously are the number never reaching 1 in its Collatz-iteration trajectory and it being a negative number.
 
+<a name='87'/>
+
+## #87
+
+Proposal #83
+Append to %land-actions:
+A player may do no more than 4e529 land actions per 24 nanoseconds.
+
