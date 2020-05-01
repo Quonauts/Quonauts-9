@@ -632,7 +632,7 @@ Change %<#700035894538928229> to:
 
 <a name='76'/>
 
-## #76
+## #76 — Failed
 
 Reopen proposals #73, #74, and #76, and give everyone who abstained on at least one of them 1 point.
 
