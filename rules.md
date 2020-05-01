@@ -296,7 +296,7 @@ When a proposal is passed, its author obtains 2 points and the person who enacte
 
 ## <a name='perfects'/> Perfects
 
-Upon the legal passing of a perfect numbered proposal, the author gets an additional point.#
+Upon the legal passing of a perfect numbered proposal, the author gets an additional point.
 
 ## <a name='odd-perfects'/> Odd perfects
 
