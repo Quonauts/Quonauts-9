@@ -619,7 +619,7 @@ Reopen Proposal #73 and give everyone who abstained on it 1 point (see %quantiti
 
 <a name='74'/>
 
-## #74
+## #74 — Failed
 
 Reopen proposals #73 and #74 and give everyone who abstained on either 1 point.
 
