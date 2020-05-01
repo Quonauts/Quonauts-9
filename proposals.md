@@ -739,3 +739,10 @@ Call this proposal #100 and pretend that the numerical quantities 91-100 exclusi
 
 RRRRR¶¶¶¶¶
 
+<a name='93'/>
+
+## #93
+
+Append to %land-actions:
+A player may do no more actions per duck.
+
