@@ -600,7 +600,7 @@ any player with less than zero points loses the game. The game does not end.
 
 <a name='71'/>
 
-## #71
+## #71 — Failed
 
 Add a new rule, %ruley-mcruleface, under %quantities:
 any player with over 1000 points wins the game. The game does not end.
