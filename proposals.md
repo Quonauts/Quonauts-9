@@ -512,7 +512,7 @@ Add a new rule, %winning:
 
 <a name='59'/>
 
-## #59
+## #59 — Failed
 
 Add a new rule, %primes, under %quantities:
 Upon the legal passing of a prime-numbered proposal, the author gets an additional point.
