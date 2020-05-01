@@ -41,6 +41,7 @@
         * [**6.1.2. Trade**](#trade)
         * [**6.1.3. Claiming land**](#claiming-land)
 * [**7. Proposal #9**](#proposal-9)
+* [**8. iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf**](#iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -335,4 +336,16 @@ As a land action, a player who resides in a land tile that has not been claimed 
 ## <a name='proposal-9'/> Proposal #9
 
 Proposal #9 is to be considered open indefinitely, and cannot be closed. This overrides all other rules, including all rules which state they override this one.
+
+## <a name='iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf'/> iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf
+
+wwei is a ajskkfhjkkkkkkkkk8799999999998797898533243524333333333333333333332rrrrrrrrrrrrfv frv frv fr vfrv frv
+All players are to be considered adfojpio455u345u34. osdfhkzsdhfhdkflgjsdhf is to be considered part of the game state. Gibson is considered to be part of the first state of america (in alphabetical order). jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjhhhhhjkjjjjjjjjjjjjjjjjjj8979799879879799999999999999999999999999999999999999999999777777777979797979ninesevensevensevenninenine9979797999999999999
+
+111111¹¹¹¹¹¹¹¹¹¹¹111111111111¹111¹¹¹1¹¹1111111¹11¹11¹¹11¹11¹12aaaaaa
+boredom
+aaaa
+
+bored
+anyone want to play minecraft lol
 
