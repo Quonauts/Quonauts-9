@@ -33,13 +33,14 @@
     * [**2.6. #the-land**](#the-land)
 * [**3. Quantities**](#quantities)
     * [**3.1. Obtaining points**](#obtaining-points)
-* [**4. Odd perfects**](#odd-perfects)
-* [**5. Land**](#land)
-    * [**5.1. Land actions**](#land-actions)
-        * [**5.1.1. Land movement**](#land-movement)
-        * [**5.1.2. Trade**](#trade)
-        * [**5.1.3. Claiming land**](#claiming-land)
-* [**6. Proposal #9**](#proposal-9)
+* [**4. Perfects**](#perfects)
+* [**5. Odd perfects**](#odd-perfects)
+* [**6. Land**](#land)
+    * [**6.1. Land actions**](#land-actions)
+        * [**6.1.1. Land movement**](#land-movement)
+        * [**6.1.2. Trade**](#trade)
+        * [**6.1.3. Claiming land**](#claiming-land)
+* [**7. Proposal #9**](#proposal-9)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -292,6 +293,10 @@ When a new quantity is created, it must be added to the above list, along with a
 ### <a name='obtaining-points'/> Obtaining points
 
 When a proposal is passed, its author obtains 2 points and the person who enacted it obtains 1, if this is applicable.
+
+## <a name='perfects'/> Perfects
+
+Upon the legal passing of a perfect numbered proposal, the author gets an additional point.#
 
 ## <a name='odd-perfects'/> Odd perfects
 
