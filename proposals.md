@@ -526,7 +526,7 @@ Upon the legal passing of a composite-numbered proposal, the author gets an addi
 
 <a name='61'/>
 
-## #61
+## #61 — Passed
 
 Add a new rule %perfects, under %quantities:
 Upon the legal passing of a perfect numbered proposal, the author gets an additional point.
