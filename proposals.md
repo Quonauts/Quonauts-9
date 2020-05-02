@@ -760,3 +760,9 @@ Add a new rule, %ambiguous-wording
 Add a new rule 8.1 (%%iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf-1):
 > Yes (I would like to play Minecraft).
 
+<a name='96'/>
+
+## #96
+
+For every request made not vital to the game, you lose a point.
+
