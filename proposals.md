@@ -753,3 +753,10 @@ A player may do no more actions per duck.
 Add a new rule, %ambiguous-wording
 > If any proposal is similar enough to #68, according to at least three people, it may not be enacted. However, keep rule 8. (To prevent it from being used again and not being funny)
 
+<a name='95'/>
+
+## #95
+
+Add a new rule 8.1 (%%iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf-1):
+> Yes (I would like to play Minecraft).
+
