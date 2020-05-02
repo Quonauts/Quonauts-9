@@ -1431,7 +1431,8 @@
 			"votes": {
 				"160279332454006795": 0,
 				"309787486278909952": 1,
-				"330678593904443393": 0
+				"330678593904443393": 0,
+				"421060058009305088": -1
 			},
 			"timestamp": 1588365420
 		},
@@ -1442,9 +1443,19 @@
 			"status": "voting",
 			"message_id": 705931074940698667,
 			"votes": {
-				"330678593904443393": 0
+				"330678593904443393": 0,
+				"421060058009305088": -1
 			},
 			"timestamp": 1588373886
+		},
+		{
+			"n": 94,
+			"author": 421060058009305088,
+			"content": "Add a new rule, %ambiguous-wording\n> If any proposal is similar enough to #68, according to at least three people, it may not be enacted. However, keep rule 8. (To prevent it from being used again and not being funny)",
+			"status": "voting",
+			"message_id": 705933038286143559,
+			"votes": {},
+			"timestamp": 1588374354
 		}
 	]
 }
