@@ -774,3 +774,11 @@ quonauts is dead, long live quonauts
 Add a new rule named %spicy:
 Every UTC day, <@!160279332454006795> must ping every member in the server in <#700035894538928229>.
 
+<a name='98'/>
+
+## #98
+
+quonauts is alive, long die quonauts
+add a new rule named %minty:
+every UTC day, every member *may* ping <@!160279332454006795> in <#700035894538928229>
+
