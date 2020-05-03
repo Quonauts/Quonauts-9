@@ -766,3 +766,11 @@ Add a new rule 8.1 (%%iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttyt
 
 For every request made not vital to the game, you lose a point.
 
+<a name='97'/>
+
+## #97
+
+quonauts is dead, long live quonauts
+Add a new rule named %spicy:
+Every UTC day, <@!160279332454006795> must ping every member in the server in <#700035894538928229>.
+
