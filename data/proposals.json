@@ -1494,6 +1494,18 @@
 				"628661184081559589": 1
 			},
 			"timestamp": 1588414974
+		},
+		{
+			"n": 97,
+			"author": 160279332454006795,
+			"content": "quonauts is dead, long live quonauts\nAdd a new rule named %spicy:\nEvery UTC day, <@!160279332454006795> must ping every member in the server in <#700035894538928229>.",
+			"status": "voting",
+			"message_id": 706466897566236743,
+			"votes": {
+				"160279332454006795": 1,
+				"309787486278909952": 0
+			},
+			"timestamp": 1588501637
 		}
 	]
 }
