@@ -1529,6 +1529,17 @@
 				"427589146295664667": -1
 			},
 			"timestamp": 1588514117
+		},
+		{
+			"n": 99,
+			"author": 421060058009305088,
+			"content": "add a new rule %zfc.\nadd a new rule, %extensionality, under %zfc:\n\u2200x\u2200y[\u2200z(z\u2208x\u21d4z\u2208y)\u21d2x=y]\nadd a new rule, %regularity, under %zfc:\n\u2200x[\u2203a(a\u2208x)\u21d2\u2203y(y\u2208x\u2227\u00ac\u2203z(z\u2208y\u2227z\u2208x))].}\nadd a new rule, %specification, under %zfc:\nfor any formula phi:\n\u2200w\\_1,...,w\\_n\u2200A\u2203B,\u2200x(x\u2208B\u21d4[x\u2208A\u2227phi(x,w\\_1,... ,w_n,A)])}\nadd a new rule, %pairing, under %zfc:\n\u2200x\u2200y\u2203z((x\u2208z)\u2227(y\u2208z)).}\nadd a new rule, %union, under %zfc:\n\u2200F\u2203A\u2200Y\u2200x[(x\u2208Y\u2227Y\u2208F)\u21d2x\u2208A].\nadd a new rule, %replacement, under %zfc:\nfor any formula phi:\n\u2200A\u2200w\\_1\u2200w\\_2...\u2200w_n[\u2200x(x\u2208A\u21d2\u2203!y,phi)\u21d2\u2203B\u2200x(x\u2208A\u21d2\u2203y(y\u2208B\u2227phi ))]}\nadd a new rule, %infinity, under %zfc:\n\u2203X[\u00d8\u2208X\u2227\u2200y(y\u2208X\u21d2S(y)\u2208X)]\nadd a new rule, %powerset, under %zfc:\n\u2200x\u2203y\u2200z[(\u2200w(w\u2208z\u21d2w\u2208x))\u21d2z\u2208y].\nadd a new rule, %choice, under %zfc:\n\u2200X[\u00d8\u2209X\u21d2\u2203f:X\u21a6\u22c3X   \u2200A\u2208X,(f(A)\u2208A)]",
+			"status": "voting",
+			"message_id": 706597260888113162,
+			"votes": {
+				"309787486278909952": -1
+			},
+			"timestamp": 1588532719
 		}
 	]
 }
