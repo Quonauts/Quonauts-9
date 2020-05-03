@@ -782,3 +782,29 @@ quonauts is alive, long die quonauts
 add a new rule named %minty:
 every UTC day, every member *may* ping <@!160279332454006795> in <#700035894538928229>
 
+<a name='99'/>
+
+## #99
+
+add a new rule %zfc.
+add a new rule, %extensionality, under %zfc:
+∀x∀y[∀z(z∈x⇔z∈y)⇒x=y]
+add a new rule, %regularity, under %zfc:
+∀x[∃a(a∈x)⇒∃y(y∈x∧¬∃z(z∈y∧z∈x))].}
+add a new rule, %specification, under %zfc:
+for any formula phi:
+∀w\_1,...,w\_n∀A∃B,∀x(x∈B⇔[x∈A∧phi(x,w\_1,... ,w_n,A)])}
+add a new rule, %pairing, under %zfc:
+∀x∀y∃z((x∈z)∧(y∈z)).}
+add a new rule, %union, under %zfc:
+∀F∃A∀Y∀x[(x∈Y∧Y∈F)⇒x∈A].
+add a new rule, %replacement, under %zfc:
+for any formula phi:
+∀A∀w\_1∀w\_2...∀w_n[∀x(x∈A⇒∃!y,phi)⇒∃B∀x(x∈A⇒∃y(y∈B∧phi ))]}
+add a new rule, %infinity, under %zfc:
+∃X[Ø∈X∧∀y(y∈X⇒S(y)∈X)]
+add a new rule, %powerset, under %zfc:
+∀x∃y∀z[(∀w(w∈z⇒w∈x))⇒z∈y].
+add a new rule, %choice, under %zfc:
+∀X[Ø∉X⇒∃f:X↦⋃X   ∀A∈X,(f(A)∈A)]
+
