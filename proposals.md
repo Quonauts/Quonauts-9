@@ -695,7 +695,7 @@ change all mentions of "rules" to "bananas" in the rules. Change <#7000359684675
 
 <a name='86'/>
 
-## #86
+## #86 — Failed
 
 Append to %odd-perfects:
 Other conditions for a rule to go under the same procedure as mentioned previously are the number never reaching 1 in its Collatz-iteration trajectory and it being a negative number.
