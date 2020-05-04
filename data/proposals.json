@@ -1253,7 +1253,7 @@
 			"n": 81,
 			"author": 151149148639330304,
 			"content": "Remove the following clause from #land-actions:\n> After a player makes an action, they must wait 2 hours before performing another action.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 705082686452269167,
 			"votes": {
 				"151149148639330304": 1,
@@ -1270,7 +1270,7 @@
 			"n": 82,
 			"author": 330678593904443393,
 			"content": "Append to %land-actions:\n> A player may do no more than 4 land actions per 24 hours.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 705150753412481134,
 			"votes": {
 				"151149148639330304": -1,
@@ -1286,7 +1286,7 @@
 			"n": 83,
 			"author": 160279332454006795,
 			"content": "Append to %land-actions:\nA player may do no more than 400 land actions per 24 hours.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 705442164691304559,
 			"votes": {
 				"151149148639330304": -1,
@@ -1300,7 +1300,7 @@
 			"n": 84,
 			"author": 353513054912249856,
 			"content": "Add a new banana (note: not a rule): Quonauts 4.5 ends immediately",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 705474069515993199,
 			"votes": {
 				"151149148639330304": -1,
@@ -1317,7 +1317,7 @@
 			"n": 85,
 			"author": 421060058009305088,
 			"content": "change all mentions of \"rules\" to \"bananas\" in the rules. Change <#700035968467599442> to #bananas.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 705474837493055549,
 			"votes": {
 				"151149148639330304": -1,
@@ -1334,7 +1334,7 @@
 			"n": 86,
 			"author": 543131534685765673,
 			"content": "Append to %odd-perfects:\nOther conditions for a rule to go under the same procedure as mentioned previously are the number never reaching 1 in its Collatz-iteration trajectory and it being a negative number.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 705777703516635207,
 			"votes": {
 				"151149148639330304": -1,
@@ -1351,7 +1351,7 @@
 			"n": 87,
 			"author": 160279332454006795,
 			"content": "Proposal #83\nAppend to %land-actions:\nA player may do no more than 4e529 land actions per 24 nanoseconds.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 705779775574376499,
 			"votes": {
 				"151149148639330304": -1,
@@ -1378,7 +1378,7 @@
 			"n": 89,
 			"author": 543131534685765673,
 			"content": "Append to %land actions:\nA player may do no more than Graham's number actions per planck-time.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 705780052540784760,
 			"votes": {
 				"151149148639330304": -1,
@@ -1395,7 +1395,7 @@
 			"n": 90,
 			"author": 427589146295664667,
 			"content": "Reopen proposals #73, #74, #76, #77, #78, #79, #80, and #90, and give everyone who either voted on or abstained from at least one of those proposals one point.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 705780190881644575,
 			"votes": {
 				"151149148639330304": -1,
@@ -1410,7 +1410,7 @@
 			"n": 91,
 			"author": 543131534685765673,
 			"content": "Call this proposal #100 and pretend that the numerical quantities 91-100 exclusive do not exist. Any action which might associate a quantity with numbers in this range should be denied.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 705780457488252989,
 			"votes": {
 				"151149148639330304": -1,
@@ -1427,7 +1427,7 @@
 			"n": 92,
 			"author": 160279332454006795,
 			"content": "RRRRR\u00b6\u00b6\u00b6\u00b6\u00b6",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 705895568437805078,
 			"votes": {
 				"151149148639330304": 1,
@@ -1443,7 +1443,7 @@
 			"n": 93,
 			"author": 330678593904443393,
 			"content": "Append to %land-actions:\nA player may do no more actions per duck.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 705931074940698667,
 			"votes": {
 				"151149148639330304": -1,
@@ -1458,7 +1458,7 @@
 			"n": 94,
 			"author": 421060058009305088,
 			"content": "Add a new rule, %ambiguous-wording\n> If any proposal is similar enough to #68, according to at least three people, it may not be enacted. However, keep rule 8. (To prevent it from being used again and not being funny)",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 705933038286143559,
 			"votes": {
 				"151149148639330304": -1,
@@ -1472,7 +1472,7 @@
 			"n": 95,
 			"author": 151149148639330304,
 			"content": "Add a new rule 8.1 (%%iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf-1):\n> Yes (I would like to play Minecraft).",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 705960872983527457,
 			"votes": {
 				"151149148639330304": 1,
@@ -1487,7 +1487,7 @@
 			"n": 96,
 			"author": 628661184081559589,
 			"content": "For every request made not vital to the game, you lose a point.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 706103410109186108,
 			"votes": {
 				"151149148639330304": -1,
@@ -1554,6 +1554,7 @@
 			"status": "voting",
 			"message_id": 706819461490933794,
 			"votes": {
+				"309787486278909952": -1,
 				"421060058009305088": -1
 			},
 			"timestamp": 1588585692
@@ -1565,6 +1566,7 @@
 			"status": "voting",
 			"message_id": 706840834221408308,
 			"votes": {
+				"309787486278909952": -1,
 				"421060058009305088": 1
 			},
 			"timestamp": 1588590788
@@ -1584,7 +1586,9 @@
 			"content": "Add a new rule, %water:\nNo rules named %hot may be proposed or added to the rules. Any rules by that name in the rules are retroactively deleted.",
 			"status": "voting",
 			"message_id": 706960049901142076,
-			"votes": {},
+			"votes": {
+				"309787486278909952": -1
+			},
 			"timestamp": 1588619212
 		}
 	]
