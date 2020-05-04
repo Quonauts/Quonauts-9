@@ -808,3 +808,11 @@ add a new rule, %powerset, under %zfc:
 add a new rule, %choice, under %zfc:
 ∀X[Ø∉X⇒∃f:X↦⋃X   ∀A∈X,(f(A)∈A)]
 
+<a name='100'/>
+
+## #100
+
+quonauts is dead, long live quonauts
+Add a new rule named %spicy:
+Every UTC day, @g must ping every member in the server in <#700035894538928229>.
+
