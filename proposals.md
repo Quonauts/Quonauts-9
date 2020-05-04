@@ -702,7 +702,7 @@ Other conditions for a rule to go under the same procedure as mentioned previous
 
 <a name='87'/>
 
-## #87
+## #87 — Failed
 
 Proposal #83
 Append to %land-actions:
