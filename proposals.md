@@ -823,3 +823,10 @@ Every UTC day, @g must ping every member in the server in <#700035894538928229>.
 Add a new rule, %mints:
 No rules named %spicy may be proposed or added to the rules. Any rules by that name in the rules are retroactively deleted.
 
+<a name='102'/>
+
+## #102
+
+Add a new rule, %hot:
+No rules named %mints may be proposed or added to the rules. Any rules by that name in the rules are retroactively deleted.
+
