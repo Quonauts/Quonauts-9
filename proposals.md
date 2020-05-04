@@ -716,7 +716,7 @@ fail this proposal
 
 <a name='89'/>
 
-## #89
+## #89 — Failed
 
 Append to %land actions:
 A player may do no more than Graham's number actions per planck-time.
