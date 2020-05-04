@@ -748,7 +748,7 @@ A player may do no more actions per duck.
 
 <a name='94'/>
 
-## #94
+## #94 — Failed
 
 Add a new rule, %ambiguous-wording
 > If any proposal is similar enough to #68, according to at least three people, it may not be enacted. However, keep rule 8. (To prevent it from being used again and not being funny)
