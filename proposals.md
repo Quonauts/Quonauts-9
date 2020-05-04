@@ -762,7 +762,7 @@ Add a new rule 8.1 (%%iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttyt
 
 <a name='96'/>
 
-## #96
+## #96 — Failed
 
 For every request made not vital to the game, you lose a point.
 
