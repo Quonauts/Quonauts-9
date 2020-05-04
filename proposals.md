@@ -662,7 +662,7 @@ Reopen proposals #73, #74, #76, #77, #78, and #79, and give everyone who abstain
 
 <a name='81'/>
 
-## #81
+## #81 — Failed
 
 Remove the following clause from #land-actions:
 > After a player makes an action, they must wait 2 hours before performing another action.
