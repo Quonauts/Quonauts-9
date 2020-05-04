@@ -676,7 +676,7 @@ Append to %land-actions:
 
 <a name='83'/>
 
-## #83
+## #83 — Failed
 
 Append to %land-actions:
 A player may do no more than 400 land actions per 24 hours.
