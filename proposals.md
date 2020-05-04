@@ -741,7 +741,7 @@ RRRRR¶¶¶¶¶
 
 <a name='93'/>
 
-## #93
+## #93 — Failed
 
 Append to %land-actions:
 A player may do no more actions per duck.
