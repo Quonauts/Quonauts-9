@@ -755,7 +755,7 @@ Add a new rule, %ambiguous-wording
 
 <a name='95'/>
 
-## #95
+## #95 — Failed
 
 Add a new rule 8.1 (%%iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf-1):
 > Yes (I would like to play Minecraft).
