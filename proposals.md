@@ -784,7 +784,7 @@ every UTC day, every member *may* ping <@!160279332454006795> in <#7000358945389
 
 <a name='99'/>
 
-## #99
+## #99 — Failed
 
 add a new rule %zfc.
 add a new rule, %extensionality, under %zfc:
