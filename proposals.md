@@ -873,3 +873,10 @@ the game is only failing because youre doing things like this
 
 I agree
 
+<a name='110'/>
+
+## #110
+
+Add a new rule under %<#700035956522090596> called %no-conversation:
+> the <#700035956522090596> channel is not to be used for conversation.
+
