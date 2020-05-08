@@ -889,7 +889,7 @@ Remove rule %no-conversation, if it exists.
 
 <a name='112'/>
 
-## #112
+## #112 — Failed
 
 I disagree with #111.
 Retroactively revert #111, if it passed
