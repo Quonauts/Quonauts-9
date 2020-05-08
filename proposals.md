@@ -843,3 +843,9 @@ No rules named %hot may be proposed or added to the rules. Any rules by that nam
 
 Pass or fail all the things in this channel already
 
+<a name='105'/>
+
+## #105
+
+Officially declare this game as dead already.
+
