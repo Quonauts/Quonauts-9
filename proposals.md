@@ -768,7 +768,7 @@ For every request made not vital to the game, you lose a point.
 
 <a name='97'/>
 
-## #97
+## #97 — Failed
 
 quonauts is dead, long live quonauts
 Add a new rule named %spicy:
