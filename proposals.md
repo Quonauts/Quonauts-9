@@ -849,3 +849,9 @@ Pass or fail all the things in this channel already
 
 Officially declare this game as dead already.
 
+<a name='106'/>
+
+## #106
+
+Sinthorion wins the game. The game ends.
+
