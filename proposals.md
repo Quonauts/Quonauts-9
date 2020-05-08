@@ -855,3 +855,9 @@ Officially declare this game as dead already.
 
 Sinthorion wins the game. The game ends.
 
+<a name='107'/>
+
+## #107
+
+All people who voted for this, and sinthorion, win the game. The game ends.
+
