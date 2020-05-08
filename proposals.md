@@ -776,7 +776,7 @@ Every UTC day, <@!160279332454006795> must ping every member in the server in <#
 
 <a name='98'/>
 
-## #98
+## #98 — Failed
 
 quonauts is alive, long die quonauts
 add a new rule named %minty:
