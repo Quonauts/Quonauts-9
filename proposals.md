@@ -818,7 +818,7 @@ Every UTC day, @g must ping every member in the server in <#700035894538928229>.
 
 <a name='101'/>
 
-## #101
+## #101 — Failed
 
 Add a new rule, %mints:
 No rules named %spicy may be proposed or added to the rules. Any rules by that name in the rules are retroactively deleted.
