@@ -867,3 +867,9 @@ All people who voted for this, and sinthorion, win the game. The game ends.
 
 the game is only failing because youre doing things like this
 
+<a name='109'/>
+
+## #109
+
+I agree
+
