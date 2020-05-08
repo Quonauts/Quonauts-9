@@ -825,7 +825,7 @@ No rules named %spicy may be proposed or added to the rules. Any rules by that n
 
 <a name='102'/>
 
-## #102
+## #102 — Failed
 
 Add a new rule, %hot:
 No rules named %mints may be proposed or added to the rules. Any rules by that name in the rules are retroactively deleted.
