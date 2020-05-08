@@ -810,7 +810,7 @@ add a new rule, %choice, under %zfc:
 
 <a name='100'/>
 
-## #100
+## #100 — Failed
 
 quonauts is dead, long live quonauts
 Add a new rule named %spicy:
