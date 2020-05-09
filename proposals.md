@@ -901,3 +901,9 @@ Retroactively revert #111, if it passed
 I disagree with #111.
 Retroactively revert #111, if it passed; otherwise fail it
 
+<a name='114'/>
+
+## #114
+
+Treat all currently open proposals as though they are two days old and pass or fail them accordingly. This is a wildcard proposal if there ever was one
+
