@@ -845,7 +845,7 @@ Pass or fail all the things in this channel already
 
 <a name='105'/>
 
-## #105
+## #105 — Failed
 
 Officially declare this game as dead already.
 
