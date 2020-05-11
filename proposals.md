@@ -920,3 +920,9 @@ Remove rule %no-conversation, if it exists.
 
 Retroactively pass #114
 
+<a name='117'/>
+
+## #117
+
+This proposal applies retroactively, i.e simulate the entire game and the players' descisions again, but with this proposal always being passed.
+
