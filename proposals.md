@@ -938,3 +938,12 @@ Iff proposal #117 passes but #116 does not, Moooosey gains one land (seee %quant
 
 If there is no quantity named "passes (119)" in %quantites, add a new quantity called "passes (119)", starting at 0.
 
+<a name='120'/>
+
+## #120
+
+If there is no quantity named "passes (120)" in %quantities, add a new quantity called "passes (120)", starting at zero. If there is no rule named %proposal-120, add a new rule called %proposal-120, under %quantities, with the following content:
+> the quantity "passes (120)" can only be changed by action via the 120th proposal
+
+Increment the quantity passes (120), for the player <@!421060058009305088>. Unless passes(120) exceeds 5 for any player, reopen proposal #120./
+
