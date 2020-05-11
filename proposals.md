@@ -947,3 +947,14 @@ If there is no quantity named "passes (120)" in %quantities, add a new quantity 
 
 Increment the quantity passes (120), for the player <@!421060058009305088>. Unless passes(120) exceeds 5 for any player, reopen proposal #120./
 
+<a name='121'/>
+
+## #121
+
+Create a rule (%tap-to-edit) under %land-movement:
+> All "ajskkfhjkkkkkkkkk8799999999998797898533243524333333333333333333332rrrrrrrrrrrrfv frv frv fr vfrv frv"s must roll a d6 before performing any land action. The value rolled is their speed for their next movement action.
+> 
+> Choose a bottom caption
+
+This is why I don't propose anymore
+
