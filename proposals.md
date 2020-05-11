@@ -934,7 +934,7 @@ Iff proposal #117 passes but #116 does not, Moooosey gains one land (seee %quant
 
 <a name='119'/>
 
-## #119
+## #119 — Failed
 
 If there is no quantity named "passes (119)" in %quantites, add a new quantity called "passes (119)", starting at 0.
 
