@@ -958,3 +958,9 @@ Create a rule (%tap-to-edit) under %land-movement:
 
 This is why I don't propose anymore
 
+<a name='122'/>
+
+## #122
+
+Pass a random proposal. Reopen proposal #122.
+
