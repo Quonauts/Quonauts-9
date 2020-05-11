@@ -863,7 +863,7 @@ All people who voted for this, and sinthorion, win the game. The game ends.
 
 <a name='108'/>
 
-## #108
+## #108 — Failed
 
 the game is only failing because youre doing things like this
 
