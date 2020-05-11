@@ -896,7 +896,7 @@ Retroactively revert #111, if it passed
 
 <a name='113'/>
 
-## #113
+## #113 — Failed
 
 I disagree with #111.
 Retroactively revert #111, if it passed; otherwise fail it
