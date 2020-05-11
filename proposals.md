@@ -851,7 +851,7 @@ Officially declare this game as dead already.
 
 <a name='106'/>
 
-## #106
+## #106 — Failed
 
 Sinthorion wins the game. The game ends.
 
