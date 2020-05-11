@@ -907,3 +907,10 @@ Retroactively revert #111, if it passed; otherwise fail it
 
 Treat all currently open proposals as though they are two days old and pass or fail them accordingly. This is a wildcard proposal if there ever was one
 
+<a name='115'/>
+
+## #115
+
+I disagree with #110.
+Remove rule %no-conversation, if it exists.
+
