@@ -875,7 +875,7 @@ I agree
 
 <a name='110'/>
 
-## #110
+## #110 — Failed
 
 Add a new rule under %<#700035956522090596> called %no-conversation:
 > the <#700035956522090596> channel is not to be used for conversation.
