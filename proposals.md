@@ -926,3 +926,9 @@ Retroactively pass #114
 
 This proposal applies retroactively, i.e simulate the entire game and the players' descisions again, but with this proposal always being passed.
 
+<a name='118'/>
+
+## #118
+
+Iff proposal #117 passes but #116 does not, Moooosey gains one land (seee %quantities). Iff proposals #117 and #116 both pass, everyone who abstained on this proposal get one land. Else, all active players get two land
+
