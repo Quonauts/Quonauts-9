@@ -857,7 +857,7 @@ Sinthorion wins the game. The game ends.
 
 <a name='107'/>
 
-## #107
+## #107 — Failed
 
 All people who voted for this, and sinthorion, win the game. The game ends.
 
