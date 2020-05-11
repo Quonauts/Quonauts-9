@@ -839,7 +839,7 @@ No rules named %hot may be proposed or added to the rules. Any rules by that nam
 
 <a name='104'/>
 
-## #104
+## #104 — Failed
 
 Pass or fail all the things in this channel already
 
