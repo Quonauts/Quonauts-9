@@ -1003,3 +1003,9 @@ Create a new quantity goods, which can be traded.
 Create a new rule "Producing goods" (%producing-goods) in %land-actions:
 > As a land action, a player may gain a number of goods equal to the number of land they have claimed.
 
+<a name='129'/>
+
+## #129
+
+anyone who votes against this proposal loses all their points
+
