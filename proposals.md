@@ -982,3 +982,9 @@ Reopen Proposal #124
 
 If more than 100 proposals in a row fail, the first person to pass a new proposal gains 5 points
 
+<a name='126'/>
+
+## #126
+
+give sarp 5 points for such a good idea
+
