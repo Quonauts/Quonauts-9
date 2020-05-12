@@ -1049,3 +1049,10 @@ Anyone who votes against #129 or #132 gains one point. That's plus two points fo
 
 Pass proposal #135.
 
+<a name='135'/>
+
+## #135
+
+Add a new rule %haha-you-should-have-been-more-careful, under %passing-proposals:
+Any rule proposed by <@!421060058009305088> is automatically passed.
+
