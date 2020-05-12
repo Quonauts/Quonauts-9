@@ -995,3 +995,11 @@ give sarp 5 points for such a good idea
 Create a new rule "Winning" (%winning) in %root:
 > When one or more players have reached 100 points, they win and the game ends.
 
+<a name='128'/>
+
+## #128
+
+Create a new quantity goods, which can be traded.
+Create a new rule "Producing goods" (%producing-goods) in %land-actions:
+> As a land action, a player may gain a number of goods equal to the number of land they have claimed.
+
