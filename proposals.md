@@ -1031,3 +1031,9 @@ Create a new rule "Feeding ducks" (%feeding-ducks) in %land-actions:
 
 give sarp -5 points for failing to follow the proper rule addition format
 
+<a name='132'/>
+
+## #132
+
+Anyone who voted against Proposal #129 loses all their points
+
