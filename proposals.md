@@ -976,3 +976,9 @@ Fail a random open proposal.
 
 Reopen Proposal #124
 
+<a name='125'/>
+
+## #125
+
+If more than 100 proposals in a row fail, the first person to pass a new proposal gains 5 points
+
