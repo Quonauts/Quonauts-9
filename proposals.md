@@ -964,3 +964,9 @@ This is why I don't propose anymore
 
 Pass a random proposal. Reopen proposal #122.
 
+<a name='123'/>
+
+## #123
+
+Fail a random open proposal.
+
