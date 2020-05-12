@@ -1065,3 +1065,12 @@ Replace the following in %passing-and-failing-proposals:
 With:
 > When a proposal is closed, it fails.
 
+<a name='137'/>
+
+## #137
+
+Replace the following in %passing-and-failing-proposals:
+> When a proposal is closed, it passes if it has more votes in favor than against; otherwise, it fails
+With:
+> When a Proposal is closed, it passes if it has more votes in favor than against; otherwise, <@!160279332454006795> chooses whether it passes or fails.
+
