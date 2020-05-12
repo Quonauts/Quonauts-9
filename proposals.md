@@ -1056,3 +1056,12 @@ Pass proposal #135.
 Add a new rule %haha-you-should-have-been-more-careful, under %passing-proposals:
 Any rule proposed by <@!421060058009305088> is automatically passed.
 
+<a name='136'/>
+
+## #136
+
+Replace the following in %passing-and-failing-proposals:
+> When a proposal is closed, it passes if it has more votes in favour than against; otherwise, it fails.
+With:
+> When a proposal is closed, it fails.
+
