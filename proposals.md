@@ -1025,3 +1025,9 @@ Create a new quantity bread. Thirty goods may be traded for one bread.
 Create a new rule "Feeding ducks" (%feeding-ducks) in %land-actions:
 > A player residing in a land tile with land-x equal to double land-y may spend 1 bread to gain one duck. Each player may only do this once per applicable tile.
 
+<a name='131'/>
+
+## #131
+
+give sarp -5 points for failing to follow the proper rule addition format
+
