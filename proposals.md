@@ -970,3 +970,9 @@ Pass a random proposal. Reopen proposal #122.
 
 Fail a random open proposal.
 
+<a name='124'/>
+
+## #124
+
+Reopen Proposal #124
+
