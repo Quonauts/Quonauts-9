@@ -988,3 +988,10 @@ If more than 100 proposals in a row fail, the first person to pass a new proposa
 
 give sarp 5 points for such a good idea
 
+<a name='127'/>
+
+## #127
+
+Create a new rule "Winning" (%winning) in %root:
+> When one or more players have reached 100 points, they win and the game ends.
+
