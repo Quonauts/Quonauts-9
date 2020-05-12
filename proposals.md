@@ -1009,3 +1009,19 @@ Create a new rule "Producing goods" (%producing-goods) in %land-actions:
 
 anyone who votes against this proposal loses all their points
 
+<a name='130'/>
+
+## #130
+
+This proposal depends on #128.
+
+Create a new quantity ducks.
+
+Replace the text of %obtaining-points with:
+> When a proposal is passed, its author obtains 2+n points and the person who enacted it obtains 1+n, if this is applicable, where n is the number of ducks both players have (combined).
+
+Create a new quantity bread. Thirty goods may be traded for one bread.
+
+Create a new rule "Feeding ducks" (%feeding-ducks) in %land-actions:
+> A player residing in a land tile with land-x equal to double land-y may spend 1 bread to gain one duck. Each player may only do this once per applicable tile.
+
