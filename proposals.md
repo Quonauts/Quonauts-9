@@ -972,7 +972,7 @@ Fail a random open proposal.
 
 <a name='124'/>
 
-## #124
+## #124 — Failed
 
 Reopen Proposal #124
 
