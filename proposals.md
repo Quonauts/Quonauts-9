@@ -1082,3 +1082,10 @@ This proposal depends on #130:
 Add a new rule %reversibility:
 > A player residing in a land tile with land-x equal to double land-y may spend 1 duck to gain one bread, resetting the amount of times they may trade bread for ducks on that tile.
 
+<a name='139'/>
+
+## #139
+
+Add a new rule %ignore:
+> Anybody who violates this rule in a turn gains 1 point.
+
