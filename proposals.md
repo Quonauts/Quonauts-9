@@ -1074,3 +1074,11 @@ Replace the following in %passing-and-failing-proposals:
 With:
 > When a Proposal is closed, it passes if it has more votes in favor than against; otherwise, <@!160279332454006795> chooses whether it passes or fails.
 
+<a name='138'/>
+
+## #138
+
+This proposal depends on #130:
+Add a new rule %reversibility:
+> A player residing in a land tile with land-x equal to double land-y may spend 1 duck to gain one bread, resetting the amount of times they may trade bread for ducks on that tile.
+
