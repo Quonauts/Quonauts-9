@@ -1089,3 +1089,9 @@ Add a new rule %reversibility:
 Add a new rule %ignore:
 > Anybody who violates this rule in a turn gains 1 point.
 
+<a name='140'/>
+
+## #140
+
+Reopen and pass proposal #140
+
