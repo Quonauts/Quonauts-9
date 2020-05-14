@@ -966,7 +966,7 @@ Pass a random proposal. Reopen proposal #122.
 
 <a name='123'/>
 
-## #123
+## #123 — Failed
 
 Fail a random open proposal.
 
