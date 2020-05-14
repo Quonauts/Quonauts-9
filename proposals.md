@@ -928,7 +928,7 @@ This proposal applies retroactively, i.e simulate the entire game and the player
 
 <a name='118'/>
 
-## #118
+## #118 — Failed
 
 Iff proposal #117 passes but #116 does not, Moooosey gains one land (seee %quantities). Iff proposals #117 and #116 both pass, everyone who abstained on this proposal get one land. Else, all active players get two land
 
