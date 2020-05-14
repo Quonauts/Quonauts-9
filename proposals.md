@@ -1095,3 +1095,9 @@ Add a new rule %ignore:
 
 Reopen and pass proposal #140
 
+<a name='141'/>
+
+## #141
+
+Fail proposal #141.
+
