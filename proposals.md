@@ -960,7 +960,7 @@ This is why I don't propose anymore
 
 <a name='122'/>
 
-## #122
+## #122 — Failed
 
 Pass a random proposal. Reopen proposal #122.
 
