@@ -949,7 +949,7 @@ Increment the quantity passes (120), for the player <@!421060058009305088>. Unle
 
 <a name='121'/>
 
-## #121
+## #121 — Failed
 
 Create a rule (%tap-to-edit) under %land-movement:
 > All "ajskkfhjkkkkkkkkk8799999999998797898533243524333333333333333333332rrrrrrrrrrrrfv frv frv fr vfrv frv"s must roll a d6 before performing any land action. The value rolled is their speed for their next movement action.
