@@ -909,7 +909,7 @@ Treat all currently open proposals as though they are two days old and pass or f
 
 <a name='115'/>
 
-## #115
+## #115 — Failed
 
 I disagree with #110.
 Remove rule %no-conversation, if it exists.
