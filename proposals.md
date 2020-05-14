@@ -940,7 +940,7 @@ If there is no quantity named "passes (119)" in %quantites, add a new quantity c
 
 <a name='120'/>
 
-## #120
+## #120 — Failed
 
 If there is no quantity named "passes (120)" in %quantities, add a new quantity called "passes (120)", starting at zero. If there is no rule named %proposal-120, add a new rule called %proposal-120, under %quantities, with the following content:
 > the quantity "passes (120)" can only be changed by action via the 120th proposal
