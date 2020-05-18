@@ -1107,3 +1107,11 @@ Fail proposal #141.
 
 æ?
 
+<a name='143'/>
+
+## #143
+
+Create a new rule "Winning" (%winning) in %root:
+
+> When one or more players have reached 50 points, they win and the game ends.
+
