@@ -1076,7 +1076,7 @@ With:
 
 <a name='138'/>
 
-## #138
+## #138 — Failed
 
 This proposal depends on #130:
 Add a new rule %reversibility:
