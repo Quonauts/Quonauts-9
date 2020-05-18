@@ -1097,7 +1097,7 @@ Reopen and pass proposal #140
 
 <a name='141'/>
 
-## #141
+## #141 — Failed
 
 Fail proposal #141.
 
