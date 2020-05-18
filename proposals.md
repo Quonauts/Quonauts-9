@@ -1045,7 +1045,7 @@ Anyone who votes against #129 or #132 gains one point. That's plus two points fo
 
 <a name='134'/>
 
-## #134
+## #134 — Failed
 
 Pass proposal #135.
 
