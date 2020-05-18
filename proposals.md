@@ -1033,7 +1033,7 @@ give sarp -5 points for failing to follow the proper rule addition format
 
 <a name='132'/>
 
-## #132
+## #132 — Failed
 
 Anyone who voted against Proposal #129 loses all their points
 
