@@ -1027,7 +1027,7 @@ Create a new rule "Feeding ducks" (%feeding-ducks) in %land-actions:
 
 <a name='131'/>
 
-## #131
+## #131 — Failed
 
 give sarp -5 points for failing to follow the proper rule addition format
 
