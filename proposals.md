@@ -997,7 +997,7 @@ Create a new rule "Winning" (%winning) in %root:
 
 <a name='128'/>
 
-## #128
+## #128 — Passed
 
 Create a new quantity goods, which can be traded.
 Create a new rule "Producing goods" (%producing-goods) in %land-actions:
