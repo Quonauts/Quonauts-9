@@ -1121,3 +1121,9 @@ Create a new rule "Winning" (%winning) in %root:
 
 add a new quantity, cookies. Three goods may be exchanged for a cookie.
 
+<a name='145'/>
+
+## #145
+
+Sinthorion's movement from (-1,-1) to (999,999) is retroactively legalised as unique special case.
+
