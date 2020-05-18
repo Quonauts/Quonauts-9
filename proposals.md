@@ -990,7 +990,7 @@ give sarp 5 points for such a good idea
 
 <a name='127'/>
 
-## #127
+## #127 — Failed
 
 Create a new rule "Winning" (%winning) in %root:
 > When one or more players have reached 100 points, they win and the game ends.
