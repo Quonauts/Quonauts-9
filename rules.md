@@ -40,6 +40,7 @@
         * [**6.1.1. Land movement**](#land-movement)
         * [**6.1.2. Trade**](#trade)
         * [**6.1.3. Claiming land**](#claiming-land)
+        * [**6.1.4. Producing goods**](#producing-goods)
 * [**7. Proposal #9**](#proposal-9)
 * [**8. iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf**](#iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf)
 
@@ -332,6 +333,10 @@ After both players announce the trade in <#701462982042976297> (they must both s
 #### <a name='claiming-land'/> Claiming land
 
 As a land action, a player who resides in a land tile that has not been claimed may claim that land tile. When a player claims a land tile, they gain 1 land.
+
+#### <a name='producing-goods'/> Producing goods
+
+As a land action, a player may gain a number of goods equal to the number of land they have claimed.
 
 ## <a name='proposal-9'/> Proposal #9
 
