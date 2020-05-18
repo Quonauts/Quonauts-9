@@ -1091,7 +1091,7 @@ Add a new rule %ignore:
 
 <a name='140'/>
 
-## #140
+## #140 — Failed
 
 Reopen and pass proposal #140
 
