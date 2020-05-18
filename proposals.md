@@ -1127,3 +1127,9 @@ add a new quantity, cookies. Three goods may be exchanged for a cookie.
 
 Sinthorion's movement from (-1,-1) to (999,999) is retroactively legalised as unique special case.
 
+<a name='146'/>
+
+## #146
+
+Add a new rule, %speakingofspecialcases: Moooosey can legally pass any proposal. This overrides content in %passing-proposals.
+
