@@ -1005,7 +1005,7 @@ Create a new rule "Producing goods" (%producing-goods) in %land-actions:
 
 <a name='129'/>
 
-## #129
+## #129 — Failed
 
 anyone who votes against this proposal loses all their points
 
