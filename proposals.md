@@ -1011,7 +1011,7 @@ anyone who votes against this proposal loses all their points
 
 <a name='130'/>
 
-## #130
+## #130 — Failed
 
 This proposal depends on #128.
 
