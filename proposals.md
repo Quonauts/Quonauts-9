@@ -1058,7 +1058,7 @@ Any rule proposed by <@!421060058009305088> is automatically passed.
 
 <a name='136'/>
 
-## #136
+## #136 — Failed
 
 Replace the following in %passing-and-failing-proposals:
 > When a proposal is closed, it passes if it has more votes in favour than against; otherwise, it fails.
