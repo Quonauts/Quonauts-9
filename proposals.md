@@ -984,7 +984,7 @@ If more than 100 proposals in a row fail, the first person to pass a new proposa
 
 <a name='126'/>
 
-## #126
+## #126 — Failed
 
 give sarp 5 points for such a good idea
 
