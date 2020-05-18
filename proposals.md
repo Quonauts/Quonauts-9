@@ -1133,3 +1133,11 @@ Sinthorion's movement from (-1,-1) to (999,999) is retroactively legalised as un
 
 Add a new rule, %speakingofspecialcases: Moooosey can legally pass any proposal. This overrides content in %passing-proposals.
 
+<a name='147'/>
+
+## #147
+
+Add this clause to rule %land-movement:
+
+> In case of illegal movement which is caught after the fact, the person who illegally moved should be rolled back to their playing state before they made their movement. All land the person claimed after the movement is automatically unclaimed and the person is transported to their coordinates before the illegal movement. This punishment overrides any other rules about land.
+
