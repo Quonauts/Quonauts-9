@@ -1067,7 +1067,7 @@ With:
 
 <a name='137'/>
 
-## #137
+## #137 — Failed
 
 Replace the following in %passing-and-failing-proposals:
 > When a proposal is closed, it passes if it has more votes in favor than against; otherwise, it fails
