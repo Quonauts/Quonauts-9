@@ -1115,3 +1115,9 @@ Create a new rule "Winning" (%winning) in %root:
 
 > When one or more players have reached 50 points, they win and the game ends.
 
+<a name='144'/>
+
+## #144
+
+add a new quantity, cookies. Three goods may be exchanged for a cookie.
+
