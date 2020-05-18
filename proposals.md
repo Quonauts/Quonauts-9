@@ -1084,7 +1084,7 @@ Add a new rule %reversibility:
 
 <a name='139'/>
 
-## #139
+## #139 — Failed
 
 Add a new rule %ignore:
 > Anybody who violates this rule in a turn gains 1 point.
