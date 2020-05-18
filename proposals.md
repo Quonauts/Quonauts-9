@@ -1039,7 +1039,7 @@ Anyone who voted against Proposal #129 loses all their points
 
 <a name='133'/>
 
-## #133
+## #133 — Failed
 
 Anyone who votes against #129 or #132 gains one point. That's plus two points for voting against both.
 
