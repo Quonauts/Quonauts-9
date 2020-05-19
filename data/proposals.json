@@ -2326,7 +2326,10 @@
 			"status": "voting",
 			"message_id": 712408824866275390,
 			"votes": {
-				"151149148639330304": 1
+				"151149148639330304": 1,
+				"309787486278909952": 1,
+				"421060058009305088": 1,
+				"91269654017748992": 0
 			},
 			"timestamp": 1589918300
 		},
@@ -2338,9 +2341,24 @@
 			"message_id": 712421735156416675,
 			"votes": {
 				"151149148639330304": 1,
-				"543131534685765673": 1
+				"309787486278909952": 0,
+				"421060058009305088": -1,
+				"543131534685765673": 1,
+				"91269654017748992": -1
 			},
 			"timestamp": 1589921378
+		},
+		{
+			"n": 154,
+			"author": 151149148639330304,
+			"content": "This proposal depends on Proposal #152.\nIn %polls, %proposals, and %conflict-resolution, replace all occurences of `if and only if` with `if`.\nIn %rule-violation-polls, replace the last two occurences of `if and only if` with `if`.",
+			"status": "voting",
+			"message_id": 712432384028442705,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": 1
+			},
+			"timestamp": 1589923917
 		}
 	]
 }
