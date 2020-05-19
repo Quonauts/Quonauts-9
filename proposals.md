@@ -1172,7 +1172,7 @@ If this proposal is prime, the submitter of the next prime proposal wins the gam
 
 ## #152
 
-Remove the following statement from %glossary:
+Remove the following clause from %glossary:
 > Whenever the word "if" is used in the rules, it is to be interpreted as "if and only if".
 
 At the time of this proposal's passing, replace all occurences of the word "if" in the rules with the words "if and only if".
