@@ -2329,6 +2329,18 @@
 				"151149148639330304": 1
 			},
 			"timestamp": 1589918300
+		},
+		{
+			"n": 153,
+			"author": 151149148639330304,
+			"content": "Replace the contents of %polls (https://discordapp.com/channels/547529950404542476/700035968467599442/703303637165801553) with:\n> A poll is a means of gathering the opinions of players on an issue. A poll is created by sending a message in the <#700035979792089208> channel, provided a rule permits the poll's creation.\n> \n> Players may vote on a poll by reacting to it with a certain reaction (except for \ud83d\udd10), as specified in the rule permitting the poll's creation. No unspecified reactions are permitted. The reaction \ud83d\udd10 does not represent a vote.\n> \n> The player that posted a poll may edit it freely, as long as such edits do not change the meaning/intent of any existing reactions to the poll.\n> \n> In the event of a conflict, the following parts of this section never take precedence over a rule that allows a poll to be created.\n> \n> Each player may cast only one vote on a given poll, all votes by a player who voted for multiple options are ignored.\n> \n> A player may close a poll when one or more of the following conditions is met:\n> \n> \u2022 The poll is at least 24 hours old.\n> \u2022 All active players have voted on the poll, and there are more than two active players.\n> \u2022 A majority of active players have voted in favour of or against the poll, and there are more than two active players.\n> \n> Whenever a player closes a poll, that player must react to the poll with \ud83d\udd10, signifying that it is closed.\n> \n> When a poll is closed, no more votes may be cast on it, and it may not be edited. If more active players have voted in favour of the poll than against, the poll passes, otherwise, it fails.\n\nFor all polls that have been closed previous to the enacting of this proposal, the player who enacted this proposal will react to those polls with \ud83d\udd10 to signify that they are closed.",
+			"status": "voting",
+			"message_id": 712421735156416675,
+			"votes": {
+				"151149148639330304": 1,
+				"543131534685765673": 1
+			},
+			"timestamp": 1589921378
 		}
 	]
 }
