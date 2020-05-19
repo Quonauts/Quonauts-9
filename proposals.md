@@ -1177,5 +1177,5 @@ Remove the following clause from %glossary:
 
 At the time of this proposal's passing, replace all occurences of the word "if" in the rules with the words "if and only if".
 
-`//We might want to use "if" by it's normal definition instead of as "if and only if"`
+```//We might want to use "if" by it's normal definition instead of as "if and only if"```
 
