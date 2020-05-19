@@ -167,7 +167,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				705778835303563356
+				711926267301199882
 			]
 		},
 		"land": {
@@ -190,7 +190,8 @@
 			"child_tags": [
 				"land-movement",
 				"trade",
-				"claiming-land"
+				"claiming-land",
+				"producing-goods"
 			],
 			"message_ids": [
 				705778525227057153
@@ -307,6 +308,16 @@
 				703303530894852149
 			]
 		},
+		"producing-goods": {
+			"tag": "producing-goods",
+			"title": "Producing goods",
+			"content": "As a land action, a player may gain a number of goods equal to the number of land they have claimed.",
+			"parent_tag": "land-actions",
+			"child_tags": [],
+			"message_ids": [
+				711926265468420177
+			]
+		},
 		"proposal-9": {
 			"tag": "proposal-9",
 			"title": "Proposal #9",
@@ -314,7 +325,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				705778545732878427
+				711926266273464333
 			]
 		},
 		"proposal-content": {
@@ -374,9 +385,9 @@
 				"iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf"
 			],
 			"message_ids": [
-				705778836683358218,
-				705778837660762173,
-				705778838323462197
+				711926268249112586,
+				711926268962275339,
+				711926287446311023
 			]
 		},
 		"rule-violation-polls": {
