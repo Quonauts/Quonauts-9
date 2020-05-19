@@ -1179,3 +1179,30 @@ At the time of this proposal's passing, replace all occurences of the word "if" 
 
 ```//We might want to use "if" by it's normal definition instead of as "if and only if"```
 
+<a name='153'/>
+
+## #153
+
+Replace the contents of %polls (https://discordapp.com/channels/547529950404542476/700035968467599442/703303637165801553) with:
+> A poll is a means of gathering the opinions of players on an issue. A poll is created by sending a message in the <#700035979792089208> channel, provided a rule permits the poll's creation.
+> 
+> Players may vote on a poll by reacting to it with a certain reaction (except for 🔐), as specified in the rule permitting the poll's creation. No unspecified reactions are permitted. The reaction 🔐 does not represent a vote.
+> 
+> The player that posted a poll may edit it freely, as long as such edits do not change the meaning/intent of any existing reactions to the poll.
+> 
+> In the event of a conflict, the following parts of this section never take precedence over a rule that allows a poll to be created.
+> 
+> Each player may cast only one vote on a given poll, all votes by a player who voted for multiple options are ignored.
+> 
+> A player may close a poll when one or more of the following conditions is met:
+> 
+> • The poll is at least 24 hours old.
+> • All active players have voted on the poll, and there are more than two active players.
+> • A majority of active players have voted in favour of or against the poll, and there are more than two active players.
+> 
+> Whenever a player closes a poll, that player must react to the poll with 🔐, signifying that it is closed.
+> 
+> When a poll is closed, no more votes may be cast on it, and it may not be edited. If more active players have voted in favour of the poll than against, the poll passes, otherwise, it fails.
+
+For all polls that have been closed previous to the enacting of this proposal, the player who enacted this proposal will react to those polls with 🔐 to signify that they are closed.
+
