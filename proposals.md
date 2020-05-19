@@ -1141,3 +1141,9 @@ Add this clause to rule %land-movement:
 
 > In case of illegal movement which is caught after the fact, the person who illegally moved should be rolled back to their playing state before they made their movement. All land the person claimed after the movement is automatically unclaimed and the person is transported to their coordinates before the illegal movement. This punishment overrides any other rules about land.
 
+<a name='148'/>
+
+## #148
+
+Add a new rule, %decree: By decree of the holy 148th proposal, Sinthorion wins the game.
+
