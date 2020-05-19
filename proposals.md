@@ -1206,3 +1206,11 @@ Replace the contents of %polls (https://discordapp.com/channels/5475299504045424
 
 For all polls that have been closed previous to the enacting of this proposal, the player who enacted this proposal will react to those polls with 🔐 to signify that they are closed.
 
+<a name='154'/>
+
+## #154
+
+This proposal depends on Proposal #152.
+In %polls, %proposals, and %conflict-resolution, replace all occurences of `if and only if` with `if`.
+In %rule-violation-polls, replace the last two occurences of `if and only if` with `if`.
+
