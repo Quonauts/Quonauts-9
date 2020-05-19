@@ -1168,3 +1168,14 @@ Add a new rule %everyonewins:
 
 If this proposal is prime, the submitter of the next prime proposal wins the game.
 
+<a name='152'/>
+
+## #152
+
+Remove the following statement from %glossary:
+> Whenever the word "if" is used in the rules, it is to be interpreted as "if and only if".
+
+At the time of this proposal's passing, replace all occurences of the word "if" in the rules with the words "if and only if".
+
+`//We might want to use "if" by it's normal definition instead of as "if and only if"`
+
