@@ -1162,3 +1162,9 @@ This proposal depends on #149.
 Add a new rule %everyonewins:
 > Sinthorin wins until everyone else does.
 
+<a name='151'/>
+
+## #151
+
+If this proposal is prime, the submitter of the next prime proposal wins the game.
+
