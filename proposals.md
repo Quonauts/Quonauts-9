@@ -1221,3 +1221,14 @@ In %rule-violation-polls, replace the last two occurences of `if and only if` wi
 Add a new rule, %stop-pinging-us-man:
 > <@151149148639330304> is disallowed from pinging other players in <#700035979792089208>
 
+<a name='156'/>
+
+## #156
+
+If Proposal #155 has not passed, replace its contents with the following:
+> Add a new rule, %stop-pinging-us-mans:
+> > @everyone is disallowed from pinging other players in <#700035979792089208>.
+> 
+Otherwise, rename rule %stop-pinging-us-man to %stop-pinging-us-mans and replace its contents with the following:
+> @everyone is disallowed from pinging other players in <#700035979792089208>.
+
