@@ -1246,3 +1246,10 @@ Add a new rule %joint-dictatorship:
 Add a new rule, %poll-reform:
 The author of a rule violation poll cannot vote on the poll until at least one other person has voted on it
 
+<a name='159'/>
+
+## #159
+
+Add a new rule, %minor-infraction-revival-protection:
+The author of a rule violation poll regarding an action at least 120 hours (five days) old cannot vote on the poll until at least one other person has voted on it.
+
