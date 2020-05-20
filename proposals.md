@@ -1290,3 +1290,9 @@ Replace thet contents of %producing-goods with the following:
 //Players cannot claim "land", the infinite square lattice.
 ```
 
+<a name='165'/>
+
+## #165
+
+Add a new rule, %soundofspoutingspamprotection: <@151149148639330304> cannot post in <#700035979792089208> more than once every two minutes.
+
