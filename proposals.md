@@ -1279,3 +1279,14 @@ Delete rule %proposal-9 and close and fail Proposal #9.
 Remove the following from %land-actions:
 > After a player makes an action, they must wait 2 hours before performing another action.
 
+<a name='164'/>
+
+## #164
+
+Replace thet contents of %producing-goods with the following:
+> As a land action, a player must gain a number of goods equal to the number of land tiles they have claimed.
+> 
+```javascript
+//Players cannot claim "land", the infinite square lattice.
+```
+
