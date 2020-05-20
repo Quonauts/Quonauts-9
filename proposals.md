@@ -1283,9 +1283,9 @@ Remove the following from %land-actions:
 
 ## #164
 
-Replace thet contents of %producing-goods with the following:
+Replace the contents of %producing-goods with the following:
 > As a land action, a player must gain a number of goods equal to the number of land tiles they have claimed.
-> 
+>
 ```javascript
 //Players cannot claim "land", the infinite square lattice.
 ```
