@@ -1260,3 +1260,9 @@ The author of a rule violation poll regarding an action at least 120 hours (five
 Append to %proposals:
 > When a proposal passes or fails, it closes.
 
+<a name='161'/>
+
+## #161
+
+Move %odd-perfects to be a subsection of %perfects.
+
