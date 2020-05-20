@@ -1266,3 +1266,9 @@ Append to %proposals:
 
 Move %odd-perfects to be a subsection of %perfects.
 
+<a name='162'/>
+
+## #162
+
+Delete rule %proposal-9 and close and fail Proposal #9.
+
