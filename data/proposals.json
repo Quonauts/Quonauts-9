@@ -2361,6 +2361,44 @@
 				"91269654017748992": 1
 			},
 			"timestamp": 1589923917
+		},
+		{
+			"n": 155,
+			"author": 421060058009305088,
+			"content": "Add a new rule, %stop-pinging-us-man:\n> <@151149148639330304> is disallowed from pinging other players in <#700035979792089208>",
+			"status": "voting",
+			"message_id": 712455045442174986,
+			"votes": {
+				"151149148639330304": -1,
+				"309787486278909952": 1,
+				"421060058009305088": 1
+			},
+			"timestamp": 1589929319
+		},
+		{
+			"n": 156,
+			"author": 151149148639330304,
+			"content": "If Proposal #155 has not passed, replace its contents with the following:\n> Add a new rule, %stop-pinging-us-mans:\n> > @everyone is disallowed from pinging other players in <#700035979792089208>.\n> \nOtherwise, rename rule %stop-pinging-us-man to %stop-pinging-us-mans and replace its contents with the following:\n> @everyone is disallowed from pinging other players in <#700035979792089208>.",
+			"status": "voting",
+			"message_id": 712457946449051678,
+			"votes": {
+				"151149148639330304": 1,
+				"309787486278909952": -1
+			},
+			"timestamp": 1589930011
+		},
+		{
+			"n": 157,
+			"author": 151149148639330304,
+			"content": "Add a new rule %joint-dictatorship:\n> <@!160279332454006795>, <@!309787486278909952>, and <@!216295379895844865> are not allowed to make game actions, as they can make any rule edit they want by editting <#556288440740741177>, which controls Quonauts game rules.",
+			"status": "voting",
+			"message_id": 712462028798689300,
+			"votes": {
+				"151149148639330304": 1,
+				"216295379895844865": -1,
+				"309787486278909952": -1
+			},
+			"timestamp": 1589930984
 		}
 	]
 }
