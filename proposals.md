@@ -1117,7 +1117,7 @@ Create a new rule "Winning" (%winning) in %root:
 
 <a name='144'/>
 
-## #144
+## #144 — Failed
 
 add a new quantity, cookies. Three goods may be exchanged for a cookie.
 
