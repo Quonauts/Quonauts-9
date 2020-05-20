@@ -1296,3 +1296,11 @@ Replace thet contents of %producing-goods with the following:
 
 Add a new rule, %soundofspoutingspamprotection: <@151149148639330304> cannot post in <#700035979792089208> more than once every two minutes.
 
+<a name='166'/>
+
+## #166
+
+Add the following phrase to %rule-violation-polls:
+> In a rule violation poll, the author cannot vote.
+(This is so that spamming an excessive amount of bogus RVPs and voting yes strike on all of them doesn't cause problems for the wrongly accused player)
+
