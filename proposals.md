@@ -1304,3 +1304,9 @@ Add the following phrase to %rule-violation-polls:
 > In a rule violation poll, the author cannot vote.
 (This is so that spamming an excessive amount of bogus RVPs and voting yes strike on all of them doesn't cause problems for the wrongly accused player)
 
+<a name='167'/>
+
+## #167
+
+Reopen proposal #99
+
