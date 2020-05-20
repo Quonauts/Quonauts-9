@@ -1135,7 +1135,7 @@ Add a new rule, %speakingofspecialcases: Moooosey can legally pass any proposal.
 
 <a name='147'/>
 
-## #147
+## #147 — Failed
 
 Add this clause to rule %land-movement:
 
