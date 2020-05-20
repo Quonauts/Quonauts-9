@@ -33,6 +33,7 @@
     * [**2.6. #the-land**](#the-land)
 * [**3. Quantities**](#quantities)
     * [**3.1. Obtaining points**](#obtaining-points)
+    * [**3.2. Tree**](#tree)
 * [**4. Perfects**](#perfects)
 * [**5. Odd perfects**](#odd-perfects)
 * [**6. Land**](#land)
@@ -295,6 +296,10 @@ When a new quantity is created, it must be added to the above list, along with a
 ### <a name='obtaining-points'/> Obtaining points
 
 When a proposal is passed, its author obtains 2 points and the person who enacted it obtains 1, if this is applicable.
+
+### <a name='tree'/> Tree
+
+Upon the legal passing of a proposal of number TREE(n) for any n, the author gets points equal to the number of the proposal
 
 ## <a name='perfects'/> Perfects
 
