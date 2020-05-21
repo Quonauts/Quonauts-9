@@ -1164,7 +1164,7 @@ Add a new rule %everyonewins:
 
 <a name='151'/>
 
-## #151
+## #151 — Failed
 
 If this proposal is prime, the submitter of the next prime proposal wins the game.
 
