@@ -1156,7 +1156,7 @@ Add a rule %never-another-sinthorion
 
 <a name='150'/>
 
-## #150
+## #150 — Failed
 
 This proposal depends on #149.
 Add a new rule %everyonewins:
