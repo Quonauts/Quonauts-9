@@ -35,17 +35,17 @@
     * [**3.1. Obtaining points**](#obtaining-points)
     * [**3.2. Tree**](#tree)
 * [**4. Perfects**](#perfects)
-* [**5. Odd perfects**](#odd-perfects)
-* [**6. Land**](#land)
-    * [**6.1. Land actions**](#land-actions)
-        * [**6.1.1. Land movement**](#land-movement)
-        * [**6.1.2. Trade**](#trade)
-        * [**6.1.3. Claiming land**](#claiming-land)
-        * [**6.1.4. Producing goods**](#producing-goods)
-* [**7. Proposal #9**](#proposal-9)
-* [**8. iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf**](#iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf)
-* [**9. Winning**](#winning)
-* [**10. Never another sinthorion**](#never-another-sinthorion)
+    * [**4.1. Odd perfects**](#odd-perfects)
+* [**5. Land**](#land)
+    * [**5.1. Land actions**](#land-actions)
+        * [**5.1.1. Land movement**](#land-movement)
+        * [**5.1.2. Trade**](#trade)
+        * [**5.1.3. Claiming land**](#claiming-land)
+        * [**5.1.4. Producing goods**](#producing-goods)
+* [**6. Proposal #9**](#proposal-9)
+* [**7. iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf**](#iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf)
+* [**8. Winning**](#winning)
+* [**9. Never another sinthorion**](#never-another-sinthorion)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -310,7 +310,7 @@ Upon the legal passing of a proposal of number TREE(n) for any n, the author get
 
 Upon the legal passing of a perfect numbered proposal, the author gets an additional point.
 
-## <a name='odd-perfects'/> Odd perfects
+### <a name='odd-perfects'/> Odd perfects
 
 Upon the legal passing of an odd perfect numbered proposal, the author wins and the game ends. This overrides everything where applicable.
 
