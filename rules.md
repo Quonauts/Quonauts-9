@@ -200,7 +200,7 @@ If multiple proposals describe the modification or addition of sections, paragra
 
 ##### <a name='dependency-resolution'/> Dependency resolution
 
-A proposal may state that it depends on other proposals, meaning that proposal will fail if any proposal it depends on passes.
+A proposal may state that it depends on other proposals, meaning that proposal will fail if any proposal it depends on fails.
 
 A proposal may also state it is incompatible with other proposals, in which case that proposal will fail if any proposal it is incompatible with passes.
 
