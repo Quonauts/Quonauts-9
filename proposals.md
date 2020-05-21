@@ -1149,7 +1149,7 @@ Add a new rule, %decree: By decree of the holy 148th proposal, Sinthorion wins t
 
 <a name='149'/>
 
-## #149
+## #149 — Passed
 
 Add a rule %never-another-sinthorion
 > As Sinthorion has already won many games undeservedly, whenever Sinthorion would win in this game, another player randomly chosen from the active players with the least previous Quonauts victories wins instead.
