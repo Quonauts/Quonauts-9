@@ -1312,7 +1312,7 @@ Reopen proposal #99
 
 <a name='168'/>
 
-## #168
+## #168 — Passed
 
 Replace the following in %dependency-resolution:
 > A proposal may state that it depends on other proposals, meaning that proposal will fail if any proposal it depends on passes.
