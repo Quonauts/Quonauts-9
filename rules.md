@@ -291,6 +291,7 @@ The following quantities exist:
 * **Points**: An arbritrary value which should generally be used as a reward/currency.
 * **land-x**: A player's x position in the land. May not be traded.
 * **land-y**: A player's y position in the land. May not be traded.
+* **goods**: A resource produced by claiming land.
 
 When a new quantity is created, it must be added to the above list, along with an optional short description. The description, if present, has no relevance to the game.
 
