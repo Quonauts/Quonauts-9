@@ -180,6 +180,8 @@ A proposal is either open or closed. When it is first submitted a proposal is op
 
 If a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since they created their most recent currently open proposal, it may be failed at any time if it is open.
 
+When a proposal passes or fails, it closes.
+
 #### <a name='proposal-content'/> Proposal content
 
 A proposal must describe one or more actions that make changes to the game rules or otherwise alter the game state.
