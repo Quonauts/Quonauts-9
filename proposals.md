@@ -1319,3 +1319,9 @@ Replace the following in %dependency-resolution:
 with:
 > A proposal may state that it depends on other proposals, meaning that proposal will fail if any proposal it depends on fails.
 
+<a name='169'/>
+
+## #169
+
+Replace all occurrences of "50" in %winning with "100".
+
