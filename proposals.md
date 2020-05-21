@@ -1143,7 +1143,7 @@ Add this clause to rule %land-movement:
 
 <a name='148'/>
 
-## #148
+## #148 — Failed
 
 Add a new rule, %decree: By decree of the holy 148th proposal, Sinthorion wins the game.
 
