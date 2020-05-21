@@ -1262,7 +1262,7 @@ Append to %proposals:
 
 <a name='161'/>
 
-## #161
+## #161 — Passed
 
 Move %odd-perfects to be a subsection of %perfects.
 
