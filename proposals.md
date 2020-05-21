@@ -1109,7 +1109,7 @@ Fail proposal #141.
 
 <a name='143'/>
 
-## #143
+## #143 — Passed
 
 Create a new rule "Winning" (%winning) in %root:
 
