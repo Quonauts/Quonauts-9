@@ -45,7 +45,7 @@
 * [**6. Proposal #9**](#proposal-9)
 * [**7. iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf**](#iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf)
 * [**8. Winning**](#winning)
-* [**9. Never another sinthorion**](#never-another-sinthorion)
+* [**9. Never another Sinthorion**](#never-another-sinthorion)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -368,7 +368,7 @@ anyone want to play minecraft lol
 
 When one or more players have reached 50 points, they win and the game ends.
 
-## <a name='never-another-sinthorion'/> Never another sinthorion
+## <a name='never-another-sinthorion'/> Never another Sinthorion
 
 As Sinthorion has already won many games undeservedly, whenever Sinthorion would win in this game, another player randomly chosen from the active players with the least previous Quonauts victories wins instead.
 
