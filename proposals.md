@@ -1255,7 +1255,7 @@ The author of a rule violation poll regarding an action at least 120 hours (five
 
 <a name='160'/>
 
-## #160
+## #160 — Failed
 
 Append to %proposals:
 > When a proposal passes or fails, it closes.
