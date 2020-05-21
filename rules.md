@@ -44,6 +44,7 @@
         * [**6.1.4. Producing goods**](#producing-goods)
 * [**7. Proposal #9**](#proposal-9)
 * [**8. iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf**](#iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf)
+* [**9. Winning**](#winning)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -358,4 +359,8 @@ aaaa
 
 bored
 anyone want to play minecraft lol
+
+## <a name='winning'/> Winning
+
+When one or more players have reached 50 points, they win and the game ends.
 
