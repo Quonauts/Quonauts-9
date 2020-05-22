@@ -1357,5 +1357,7 @@ Gibson is to undergo immediate cardiac arrest, along with regular arrest.
 
 ## #172
 
-stop spamming surrealist proposals, heav, those are bad and do nothing to the game except make it a hundred times deader than it was before
+Add this to %passing-and-failing proposals:
+
+> All proposals with no content which is legible in English and affects the game state should be failed.
 
