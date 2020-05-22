@@ -1361,3 +1361,9 @@ Add this to %passing-and-failing proposals:
 
 > All proposals with no content which is legible in English and affects the game state should be failed.
 
+<a name='173'/>
+
+## #173
+
+[REDACTED]
+
