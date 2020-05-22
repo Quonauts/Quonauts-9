@@ -1334,3 +1334,22 @@ Change %winning from
 to
 > When one or more players have reached 50 points, the player(s) with the second most points win and the game ends.
 
+<a name='171'/>
+
+## #171
+
+thiSß PROPOALS ÐEÞENÐS ON proposal 1711111111111111111111111111111!!!!!!!!!!!!!!!!!!!!!¡!!!!!!!!!!!¡!!!!¡!!¡!!!!!!!!!!!!¡!!¡!!!!!!!¡!!111
+Create a new rule named ðß&ÆN&ŁÐĦđ³]¶}ÆŁ°E®Ł£°®±£°¼±⅛£¿°§ªÐNª§&ÐN>ª&>Nª©&©™±ΩN⅛±NªN&Æ§ÐN§&NN ©&<>©N£±E®N¡±:
+All g are to be considered ðæßæđð. aæaaaaaaaææaaaaaaææaaaæaaaæaaæaaææaaæaaææææææææææææææææææææææææææææææææææææææææææææææææææææææææææææææææææææææææææææææææ
+BOREDOM¡!!!¡!!!!!You wouldn't pass a spam proposal TWICE, would you..?
+You wouldn't pass a spam proposal TWICE, would you..?
+You wouldn't pass a spam proposal TWICE, would you..?
+You wouldn't pass a spam proposal TWICE, would you..?
+You wouldn't pass a spam proposal TWICE, would you..?
+You wouldn't pass a spam proposal TWICE, would you..?
+You wouldn't pass a spam proposal TWICE, would you..?
+You wouldn't pass a spam proposal TWICE, would you..?
+You wouldn't pass a spam proposal TWICE, would you..?
+You wouldn't pass a spam proposal TWICE, would you..?
+Gibson is to undergo immediate cardiac arrest, along with regular arrest.
+
