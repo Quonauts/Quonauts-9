@@ -1353,3 +1353,9 @@ You wouldn't pass a spam proposal TWICE, would you..?
 You wouldn't pass a spam proposal TWICE, would you..?
 Gibson is to undergo immediate cardiac arrest, along with regular arrest.
 
+<a name='172'/>
+
+## #172
+
+stop spamming surrealist proposals, heav, those are bad and do nothing to the game except make it a hundred times deader than it was before
+
