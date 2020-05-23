@@ -1208,7 +1208,7 @@ For all polls that have been closed previous to the enacting of this proposal, t
 
 <a name='154'/>
 
-## #154
+## #154 — Passed
 
 This proposal depends on Proposal #152.
 In %polls, %proposals, and %conflict-resolution, replace all occurences of `if and only if` with `if`.
