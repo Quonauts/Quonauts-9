@@ -1181,7 +1181,7 @@ At the time of this proposal's passing, replace all occurences of the word "if" 
 
 <a name='153'/>
 
-## #153
+## #153 — Passed
 
 Replace the contents of %polls (https://discordapp.com/channels/547529950404542476/700035968467599442/703303637165801553) with:
 > A poll is a means of gathering the opinions of players on an issue. A poll is created by sending a message in the <#700035979792089208> channel, provided a rule permits the poll's creation.
