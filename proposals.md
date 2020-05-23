@@ -1170,7 +1170,7 @@ If this proposal is prime, the submitter of the next prime proposal wins the gam
 
 <a name='152'/>
 
-## #152
+## #152 — Passed
 
 Remove the following clause from %glossary:
 > Whenever the word "if" is used in the rules, it is to be interpreted as "if and only if".
