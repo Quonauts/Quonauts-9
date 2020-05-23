@@ -1298,7 +1298,7 @@ Add a new rule, %soundofspoutingspamprotection: <@151149148639330304> cannot pos
 
 <a name='166'/>
 
-## #166
+## #166 — Passed
 
 Add the following phrase to %rule-violation-polls:
 > In a rule violation poll, the author cannot vote.
