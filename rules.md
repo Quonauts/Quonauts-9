@@ -302,7 +302,7 @@ When a new quantity is created, it must be added to the above list, along with a
 
 ### <a name='obtaining-points'/> Obtaining points
 
-When a proposal is passed, its author obtains 2 points and the person who enacted it obtains 1, if this is applicable.
+When a proposal is passed, its author obtains 2 points and the person who enacted it obtains 1, if and only if this is applicable.
 
 ### <a name='tree'/> Tree
 
