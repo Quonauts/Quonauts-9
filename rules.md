@@ -46,6 +46,7 @@
 * [**7. iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf**](#iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf)
 * [**8. Winning**](#winning)
 * [**9. Never another Sinthorion**](#never-another-sinthorion)
+* [**10. Stop pinging us man**](#stop-pinging-us-man)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -373,4 +374,8 @@ When one or more players have reached 50 points, they win and the game ends.
 ## <a name='never-another-sinthorion'/> Never another Sinthorion
 
 As Sinthorion has already won many games undeservedly, whenever Sinthorion would win in this game, another player randomly chosen from the active players with the least previous Quonauts victories wins instead.
+
+## <a name='stop-pinging-us-man'/> Stop pinging us man
+
+<@!151149148639330304> is disallowed from pinging other players in <#700035979792089208>
 
