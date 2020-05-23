@@ -237,7 +237,7 @@ The author of an open proposal may delete it at any time.
 
 #### <a name='editing-proposals'/> Editing proposals
 
-A player may freely edit a proposal they have submitted if that proposal is open for voting and has no votes cast by players other than its author.
+A player may freely edit a proposal they have submitted if and only if that proposal is open for voting and has no votes cast by players other than its author.
 
 The author of a proposal or the player passing a proposal may choose to add or remove whitespace and fix typos or grammar mistakes, provided the meaning of the proposal and any dependent proposals remains unchanged. Clarifications or additional details must always be added by a new proposal.
 
