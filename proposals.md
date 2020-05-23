@@ -1241,7 +1241,7 @@ Add a new rule %joint-dictatorship:
 
 <a name='158'/>
 
-## #158
+## #158 — Failed
 
 Add a new rule, %poll-reform:
 The author of a rule violation poll cannot vote on the poll until at least one other person has voted on it
