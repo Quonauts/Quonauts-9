@@ -1216,7 +1216,7 @@ In %rule-violation-polls, replace the last two occurences of `if and only if` wi
 
 <a name='155'/>
 
-## #155
+## #155 — Passed
 
 Add a new rule, %stop-pinging-us-man:
 > <@151149148639330304> is disallowed from pinging other players in <#700035979792089208>
