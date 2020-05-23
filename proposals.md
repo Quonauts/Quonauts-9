@@ -1306,7 +1306,7 @@ Add the following phrase to %rule-violation-polls:
 
 <a name='167'/>
 
-## #167
+## #167 — Failed
 
 Reopen proposal #99
 
