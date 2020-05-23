@@ -86,7 +86,7 @@ Any game action that is forbidden (a "rule violation") is considered void and do
 
 ### <a name='rule-violation-polls'/> Rule violation polls
 
-If a player ("the accusing player") believes that another player ("the accused player") has violated the rules, the accusing player may conduct a poll, called a "rule violation poll" or "RVP", to determine whether a forbidden action was performed. The poll must clearly state it is a rule violation poll, and must specify the accused player and what sections of the rules they allegedly violated.
+If and only if a player ("the accusing player") believes that another player ("the accused player") has violated the rules, the accusing player may conduct a poll, called a "rule violation poll" or "RVP", to determine whether a forbidden action was performed. The poll must clearly state it is a rule violation poll, and must specify the accused player and what sections of the rules they allegedly violated.
 
 In a rule violation poll, the following reactions are permitted:
 
@@ -96,9 +96,9 @@ In a rule violation poll, the following reactions are permitted:
 
 In a rule violation poll, any votes cast by the accused player are ignored.
 
-If the poll passes, the rule violation and its consequences must be reverted.
+If and only if the poll passes, the rule violation and its consequences must be reverted.
 
-If the poll passes and more players are in favour of a strike (👍 reactions) than against (🤷 and 👎 reactions), the accused player may not perform any game actions for the next 24 hours.
+If and only if the poll passes and more players are in favour of a strike (👍 reactions) than against (🤷 and 👎 reactions), the accused player may not perform any game actions for the next 24 hours.
 
 In a rule violation poll, the author cannot vote.
 
