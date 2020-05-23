@@ -75,7 +75,7 @@ This document is not guaranteed to always be up-to-date as the game rules are mo
 
 In the case of a contradiction between clauses, the following criteria are to be considered in turn until a clear determination can be made as to which clause takes precedence:
 
-* If precedence is specified in the relevant rules and is non-contradictory, follow the instructed precedence.
+* If and only if precedence is specified in the relevant rules and is non-contradictory, follow the instructed precedence.
 * The clause which appears last in the rules takes precedence.
 
 ### <a name='forbidden-actions'/> Forbidden actions
