@@ -1380,3 +1380,12 @@ Replace the following in %polls:
 with:
 > When a poll is closed, no more votes may be cast on it, and it may not be edited. If more players have voted in favour of the poll than against, the poll passes, otherwise, it fails.
 
+<a name='176'/>
+
+## #176
+
+Replace the following in %passing-and-failing-proposals:
+> The player that authored a proposal may fail it at any time.
+with:
+> The player that authored a proposal may fail it at any time if it is open.
+
