@@ -1396,3 +1396,11 @@ with:
 Append the following to %obtaining-points:
 > When a player fails a proposal, if that player is not the author of that proposal, that player obtains 1 point.
 
+<a name='178'/>
+
+## #178
+
+If proposal #176 has passed, retroactively revert it. 
+Add the following to %passing-and-failing-proposals:
+No passed proposal may be failed and no failed proposal may be passed.
+
