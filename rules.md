@@ -223,7 +223,7 @@ Any player may close an open proposal if and only if one or more of the followin
 
 ##### <a name='passing-and-failing-proposals'/> Passing and failing proposals
 
-When a proposal is closed, it passes if it has more votes in favour than against; otherwise, it fails.
+When a proposal is closed, it passes if and only if it has more votes in favour than against; otherwise, it fails.
 
 The player that authored a proposal may fail it at any time.
 
