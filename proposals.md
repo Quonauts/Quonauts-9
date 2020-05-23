@@ -1248,7 +1248,7 @@ The author of a rule violation poll cannot vote on the poll until at least one o
 
 <a name='159'/>
 
-## #159
+## #159 — Failed
 
 Add a new rule, %minor-infraction-revival-protection:
 The author of a rule violation poll regarding an action at least 120 hours (five days) old cannot vote on the poll until at least one other person has voted on it.
