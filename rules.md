@@ -265,7 +265,7 @@ A player may close a poll when one or more of the following conditions is met:
 
 Whenever a player closes a poll, that player must react to the poll with 🔐, signifying that it is closed.
 
-When a poll is closed, no more votes may be cast on it, and it may not be edited. If and only if more active players have voted in favour of the poll than against, the poll passes, otherwise, it fails.
+When a poll is closed, no more votes may be cast on it, and it may not be edited. If more active players have voted in favour of the poll than against, the poll passes, otherwise, it fails.
 
 #### <a name='opinion-polls'/> Opinion polls
 
