@@ -200,9 +200,9 @@ If and only if multiple proposals describe the modification or addition of secti
 
 ##### <a name='dependency-resolution'/> Dependency resolution
 
-A proposal may state that it depends on other proposals, meaning that proposal will fail if any proposal it depends on fails.
+A proposal may state that it depends on other proposals, meaning that proposal will fail if and only if any proposal it depends on fails.
 
-A proposal may also state it is incompatible with other proposals, in which case that proposal will fail if any proposal it is incompatible with passes.
+A proposal may also state it is incompatible with other proposals, in which case that proposal will fail if and only if any proposal it is incompatible with passes.
 
 #### <a name='voting-on-proposals'/> Voting on proposals
 
