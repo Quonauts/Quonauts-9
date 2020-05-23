@@ -1404,3 +1404,10 @@ If proposal #176 has passed, retroactively revert it.
 Add the following to %passing-and-failing-proposals:
 > The state of a proposal may not be directly changed from passed to failed, or directly from failed to passed.
 
+<a name='179'/>
+
+## #179
+
+Add a new rule named æß:
+The proposals channel may not be posted in. This overrides all other rules
+
