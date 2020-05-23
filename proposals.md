@@ -1371,3 +1371,12 @@ Add this to %passing-and-failing proposals:
 
 ## #174 — Deleted
 
+<a name='175'/>
+
+## #175
+
+Replace the following in %polls:
+> When a poll is closed, no more votes may be cast on it, and it may not be edited. If more active players have voted in favour of the poll than against, the poll passes, otherwise, it fails.
+with:
+> When a poll is closed, no more votes may be cast on it, and it may not be edited. If more players have voted in favour of the poll than against, the poll passes, otherwise, it fails.
+
