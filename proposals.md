@@ -1402,5 +1402,5 @@ Append the following to %obtaining-points:
 
 If proposal #176 has passed, retroactively revert it. 
 Add the following to %passing-and-failing-proposals:
-No passed proposal may be failed and no failed proposal may be passed.
+> The state of a proposal may not be directly changed from passed to failed, or directly from failed to passed.
 
