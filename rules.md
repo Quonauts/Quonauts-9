@@ -271,7 +271,7 @@ When a poll is closed, no more votes may be cast on it, and it may not be edited
 
 Players may conduct polls to informally gather opinions about any game relevant topic, called "opinion polls".
 
-An opinion poll may only be created if no other opinion poll by that player is currently open. By default, the allowed reactions of an opinion poll are 👍 and 👎, but the opinion poll may specify different allowed reactions for itself.
+An opinion poll may only be created if and only if no other opinion poll by that player is currently open. By default, the allowed reactions of an opinion poll are 👍 and 👎, but the opinion poll may specify different allowed reactions for itself.
 
 ### <a name='transactions'/> #transactions
 
