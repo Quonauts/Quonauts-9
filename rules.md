@@ -108,7 +108,7 @@ Unless otherwise specified, all times and dates are specified with respect to UT
 
 ### <a name='bots'/> Bots
 
-Certain game functions may be performed automatically by automated "bots"; the behavior of such bots is not governed by the rules, and any function that bots may perform should be feasible, even if inconvenient, to do manually.
+Certain game functions may be performed automatically by automated "bots"; the behavior of such bots is not governed by the rules, and any function that bots may perform should be feasible, even if and only if inconvenient, to do manually.
 
 ### <a name='style-conventions'/> Style conventions
 
