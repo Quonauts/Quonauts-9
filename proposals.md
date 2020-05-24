@@ -1281,7 +1281,7 @@ Remove the following from %land-actions:
 
 <a name='164'/>
 
-## #164
+## #164 — Failed
 
 Replace the contents of %producing-goods with the following:
 > As a land action, a player must gain a number of goods equal to the number of land tiles they have claimed.
