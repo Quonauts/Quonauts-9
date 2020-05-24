@@ -1429,3 +1429,10 @@ Remove the rule called æß, if it exists.
 Add a rule named heav-bad:
 > Heavpoot#5118 and all accounts he creates automatically obtain a permanent "Rule Offender" role immediate upon this rule's creation or account creation. This overrides all other rules.
 
+<a name='182'/>
+
+## #182
+
+Add the following to %passing-and-failing-proposals:
+> The state of a proposal may not be directly changed from passed to failed, or directly from failed to passed. A closed proposal may not be deleted.
+
