@@ -1403,7 +1403,7 @@ Append the following to %obtaining-points:
 
 <a name='178'/>
 
-## #178
+## #178 — Failed
 
 If proposal #176 has passed, retroactively revert it. 
 Add the following to %passing-and-failing-proposals:
