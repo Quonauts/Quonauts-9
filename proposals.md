@@ -1355,7 +1355,7 @@ Gibson is to undergo immediate cardiac arrest, along with regular arrest.
 
 <a name='172'/>
 
-## #172
+## #172 — Failed
 
 Add this to %passing-and-failing proposals:
 
