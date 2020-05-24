@@ -1327,7 +1327,7 @@ Replace all occurrences of "50" in %winning with "100".
 
 <a name='170'/>
 
-## #170
+## #170 — Failed
 
 Change %winning from
 > When one or more players have reached 50 points, they win and the game ends.
