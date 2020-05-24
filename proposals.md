@@ -1274,7 +1274,7 @@ Delete rule %proposal-9 and close and fail Proposal #9.
 
 <a name='163'/>
 
-## #163
+## #163 — Failed
 
 Remove the following from %land-actions:
 > After a player makes an action, they must wait 2 hours before performing another action.
