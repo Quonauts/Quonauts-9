@@ -1223,7 +1223,7 @@ Add a new rule, %stop-pinging-us-man:
 
 <a name='156'/>
 
-## #156
+## #156 — Failed
 
 If Proposal #155 has not passed, replace its contents with the following:
 > Add a new rule, %stop-pinging-us-mans:
