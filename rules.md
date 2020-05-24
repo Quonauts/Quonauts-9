@@ -47,6 +47,7 @@
 * [**8. Winning**](#winning)
 * [**9. Never another Sinthorion**](#never-another-sinthorion)
 * [**10. Stop pinging us man**](#stop-pinging-us-man)
+* [**11. SoundOfSpouting spam protection**](#soundofspoutingspamprotection)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -378,4 +379,8 @@ As Sinthorion has already won many games undeservedly, whenever Sinthorion would
 ## <a name='stop-pinging-us-man'/> Stop pinging us man
 
 <@!151149148639330304> is disallowed from pinging other players in <#700035979792089208>
+
+## <a name='soundofspoutingspamprotection'/> SoundOfSpouting spam protection
+
+<@!151149148639330304> cannot post in <#700035979792089208> more than once every two minutes.
 
