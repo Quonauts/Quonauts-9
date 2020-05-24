@@ -48,6 +48,7 @@
 * [**9. Never another Sinthorion**](#never-another-sinthorion)
 * [**10. Stop pinging us man**](#stop-pinging-us-man)
 * [**11. SoundOfSpouting spam protection**](#soundofspoutingspamprotection)
+* [**12. ðß&ÆN&ŁÐĦđ³]¶}ÆŁ°E®Ł£°®±£°¼±⅛£¿°§ªÐNª§&ÐN>ª&>Nª©&©™±ΩN⅛±NªN&Æ§ÐN§&NN ©&<>©N£±E®N¡±**](#proposal-171)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -383,4 +384,19 @@ As Sinthorion has already won many games undeservedly, whenever Sinthorion would
 ## <a name='soundofspoutingspamprotection'/> SoundOfSpouting spam protection
 
 <@!151149148639330304> cannot post in <#700035979792089208> more than once every two minutes.
+
+## <a name='proposal-171'/> ðß&ÆN&ŁÐĦđ³]¶}ÆŁ°E®Ł£°®±£°¼±⅛£¿°§ªÐNª§&ÐN>ª&>Nª©&©™±ΩN⅛±NªN&Æ§ÐN§&NN ©&<>©N£±E®N¡±
+
+All g are to be considered ðæßæđð. aæaaaaaaaææaaaaaaææaaaæaaaæaaæaaææaaæaaææææææææææææææææææææææææææææææææææææææææææææææææææææææææææææææææææææææææææææææææ
+BOREDOM¡!!!¡!!!!!You wouldn't pass a spam proposal TWICE, would you..?
+You wouldn't pass a spam proposal TWICE, would you..?
+You wouldn't pass a spam proposal TWICE, would you..?
+You wouldn't pass a spam proposal TWICE, would you..?
+You wouldn't pass a spam proposal TWICE, would you..?
+You wouldn't pass a spam proposal TWICE, would you..?
+You wouldn't pass a spam proposal TWICE, would you..?
+You wouldn't pass a spam proposal TWICE, would you..?
+You wouldn't pass a spam proposal TWICE, would you..?
+You wouldn't pass a spam proposal TWICE, would you..?
+Gibson is to undergo immediate cardiac arrest, along with regular arrest.
 
