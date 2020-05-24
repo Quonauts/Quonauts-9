@@ -1234,7 +1234,7 @@ Otherwise, rename rule %stop-pinging-us-man to %stop-pinging-us-mans and replace
 
 <a name='157'/>
 
-## #157
+## #157 — Failed
 
 Add a new rule %joint-dictatorship:
 > <@!160279332454006795>, <@!309787486278909952>, and <@!216295379895844865> are not allowed to make game actions, as they can make any rule edit they want by editting <#556288440740741177>, which controls Quonauts game rules.
