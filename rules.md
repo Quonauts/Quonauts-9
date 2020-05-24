@@ -369,7 +369,7 @@ anyone want to play minecraft lol
 
 ## <a name='winning'/> Winning
 
-When one or more players have reached 50 points, they win and the game ends.
+When one or more players have reached 100 points, they win and the game ends.
 
 ## <a name='never-another-sinthorion'/> Never another Sinthorion
 
