@@ -1321,7 +1321,7 @@ with:
 
 <a name='169'/>
 
-## #169
+## #169 — Passed
 
 Replace all occurrences of "50" in %winning with "100".
 
