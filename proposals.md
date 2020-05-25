@@ -1484,3 +1484,9 @@ Add the following to %passing-and-failing-proposals:
 
 vote for proposal 2¹³
 
+<a name='191'/>
+
+## #191
+
+Delete proposals #183 through #190
+
