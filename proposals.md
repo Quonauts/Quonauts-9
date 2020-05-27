@@ -1411,7 +1411,7 @@ Add the following to %passing-and-failing-proposals:
 
 <a name='179'/>
 
-## #179
+## #179 — Failed
 
 Add a new rule named æß:
 The proposals channel may not be posted in. This overrides all other rules
