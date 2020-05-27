@@ -1378,7 +1378,7 @@ with:
 
 <a name='175'/>
 
-## #175
+## #175 — Passed
 
 Replace the following in %polls:
 > When a poll is closed, no more votes may be cast on it, and it may not be edited. If more active players have voted in favour of the poll than against, the poll passes, otherwise, it fails.
