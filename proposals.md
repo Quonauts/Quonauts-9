@@ -1396,7 +1396,7 @@ with:
 
 <a name='177'/>
 
-## #177
+## #177 — Passed
 
 Append the following to %obtaining-points:
 > When a player fails a proposal, if that player is not the author of that proposal, that player obtains 1 point.
