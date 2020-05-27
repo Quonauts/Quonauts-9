@@ -1387,7 +1387,7 @@ with:
 
 <a name='176'/>
 
-## #176
+## #176 — Passed
 
 Replace the following in %passing-and-failing-proposals:
 > The player that authored a proposal may fail it at any time.
