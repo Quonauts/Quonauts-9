@@ -1424,7 +1424,7 @@ Remove the rule called æß, if it exists.
 
 <a name='181'/>
 
-## #181
+## #181 — Failed
 
 Add a rule named heav-bad:
 > Heavpoot#5118 and all accounts he creates automatically obtain a permanent "Rule Offender" role immediate upon this rule's creation or account creation. This overrides all other rules.
