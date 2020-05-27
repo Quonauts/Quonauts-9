@@ -234,6 +234,8 @@ After a proposal passes, the game state and game rules change are modified accor
 
 The rules may only change as the result of a proposal passing, legally.
 
+The state of a proposal may not be directly changed from passed to failed, or directly from failed to passed. A closed proposal may not be deleted.
+
 #### <a name='deleting-proposals'/> Deleting proposals
 
 The author of an open proposal may delete it at any time.
