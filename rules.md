@@ -307,6 +307,8 @@ When a new quantity is created, it must be added to the above list, along with a
 
 When a proposal is passed, its author obtains 2 points and the person who enacted it obtains 1, if and only if this is applicable.
 
+When a player fails a proposal, if that player is not the author of that proposal, that player obtains 1 point.
+
 ### <a name='tree'/> Tree
 
 Upon the legal passing of a proposal of number TREE(n) for any n, the author gets points equal to the number of the proposal
