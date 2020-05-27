@@ -1363,7 +1363,7 @@ Add this to %passing-and-failing proposals:
 
 <a name='173'/>
 
-## #173
+## #173 — Passed
 
 [REDACTED]
 
