@@ -1480,7 +1480,7 @@ Add the following to %passing-and-failing-proposals:
 
 <a name='190'/>
 
-## #190
+## #190 — Passed
 
 vote for proposal 2¹³
 
