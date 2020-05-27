@@ -1418,7 +1418,7 @@ The proposals channel may not be posted in. This overrides all other rules
 
 <a name='180'/>
 
-## #180
+## #180 — Failed
 
 Remove the rule called æß, if it exists.
 
