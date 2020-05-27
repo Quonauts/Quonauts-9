@@ -1431,7 +1431,7 @@ Add a rule named heav-bad:
 
 <a name='182'/>
 
-## #182
+## #182 — Passed
 
 Add the following to %passing-and-failing-proposals:
 > The state of a proposal may not be directly changed from passed to failed, or directly from failed to passed. A closed proposal may not be deleted.
