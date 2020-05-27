@@ -1456,7 +1456,7 @@ Add the following to %passing-and-failing-proposals:
 
 <a name='186'/>
 
-## #186
+## #186 — Failed
 
 <@!421060058009305088> bad
 
