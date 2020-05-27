@@ -228,7 +228,7 @@ Any player may close an open proposal if and only if one or more of the followin
 
 When a proposal is closed, it passes if and only if it has more votes in favour than against; otherwise, it fails.
 
-The player that authored a proposal may fail it at any time.
+The player that authored a proposal may fail it at any time if it is open.
 
 After a proposal passes, the game state and game rules change are modified according to it. The player who passed it must carry out the effects of its passing to the best of their ability.
 
