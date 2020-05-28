@@ -1498,7 +1498,7 @@ If it exists and is open when this proposal passes, pass proposal #242
 
 <a name='193'/>
 
-## #193
+## #193 — Failed
 
 if this proposal is passed, give all active players one point.
 
