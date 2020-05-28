@@ -1502,3 +1502,9 @@ If it exists and is open when this proposal passes, pass proposal #242
 
 if this proposal is passed, give all active players one point.
 
+<a name='194'/>
+
+## #194
+
+if this proposal is passed, give all active players one point. However, there are no points awarded for being the author of, passing, or enacting this proposal.
+
