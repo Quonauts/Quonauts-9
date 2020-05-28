@@ -1486,7 +1486,7 @@ vote for proposal 2¹³
 
 <a name='191'/>
 
-## #191
+## #191 — Failed
 
 Delete proposals #183 through #190
 
