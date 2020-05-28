@@ -1496,3 +1496,9 @@ Delete proposals #183 through #190
 
 If it exists and is open when this proposal passes, pass proposal #242
 
+<a name='193'/>
+
+## #193
+
+if this proposal is passed, give all active players one point.
+
