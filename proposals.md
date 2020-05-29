@@ -1508,3 +1508,10 @@ if this proposal is passed, give all active players one point.
 
 if this proposal is passed, give all active players one point. However, there are no points awarded for being the author of, passing, or enacting this proposal.
 
+<a name='195'/>
+
+## #195
+
+As Gibson has undergone cardiac arrest (per proposal #171) and has not received any treatment, he is now dead. Create a rule (%gibson-is-dead): 
+> <@!309787486278909952> has died of cardiac arrest and subsequent incarceration. press f to pay respects
+
