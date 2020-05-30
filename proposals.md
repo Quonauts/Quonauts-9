@@ -1587,3 +1587,10 @@ Re-open (but do not pass/fail until 48 hours have passed) every closed proposal.
 
 one cannot be Heavpoot
 
+<a name='199'/>
+
+## #199
+
+add a new rule: %ban-haha
+One cannot be heavpoot
+
