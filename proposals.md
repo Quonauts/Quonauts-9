@@ -1575,3 +1575,9 @@ Abstain (1)
 
 Submitted by cognaso#9108•Yesterday at 02:23
 
+<a name='197'/>
+
+## #197
+
+Re-open (but do not pass/fail until 48 hours have passed) every closed proposal.
+
