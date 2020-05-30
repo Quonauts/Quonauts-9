@@ -1515,3 +1515,63 @@ if this proposal is passed, give all active players one point. However, there ar
 As Gibson has undergone cardiac arrest (per proposal #171) and has not received any treatment, he is now dead. Create a rule (%gibson-is-dead): 
 > <@!309787486278909952> has died of cardiac arrest and subsequent incarceration. press f to pay respects
 
+<a name='196'/>
+
+## #196
+
+Submitted by Moooosey#7155•25/05/2020
+[21:55] 
+BOT
+ Quobot: 
+Proposal #192
+If it exists and is open when this proposal passes, pass proposal #242
+For
+(none)
+Against (1)
+@g
+Abstain (2)
+<@!151149148639330304>
+<@!421060058009305088>
+
+Submitted by Moooosey#7155•27/05/2020
+[18:39] 
+BOT
+ Quobot: 
+Proposal #193   —   Failed
+if this proposal is passed, give all active players one point.
+For (1)
+<@!421060058009305088>
+Against (2)
+<@!151149148639330304>
+@g
+
+Submitted by Moooosey#7155•28/05/2020
+[18:53] 
+BOT
+ Quobot: 
+Proposal #194
+if this proposal is passed, give all active players one point. However, there are no points awarded for being the author of, passing, or enacting this proposal.
+For (3)
+<@!421060058009305088>
+<@!151149148639330304>
+@aaaaAa
+Against (1)
+@g
+
+Submitted by Moooosey#7155•28/05/2020
+[02:23] 
+BOT
+ Quobot: 
+Proposal #195
+As Gibson has undergone cardiac arrest (per proposal #171) and has not received any treatment, he is now dead. Create a rule (%gibson-is-dead):
+@g has died of cardiac arrest and subsequent incarceration. press f to pay respects
+For (1)
+@g
+Against (2)
+<@!421060058009305088>
+<@!151149148639330304>
+Abstain (1)
+@g
+
+Submitted by cognaso#9108•Yesterday at 02:23
+
