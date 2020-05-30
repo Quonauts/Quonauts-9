@@ -1581,3 +1581,9 @@ Submitted by cognaso#9108•Yesterday at 02:23
 
 Re-open (but do not pass/fail until 48 hours have passed) every closed proposal.
 
+<a name='198'/>
+
+## #198
+
+one cannot be Heavpoot
+
