@@ -1583,7 +1583,7 @@ Re-open (but do not pass/fail until 48 hours have passed) every closed proposal.
 
 <a name='198'/>
 
-## #198
+## #198 — Failed
 
 one cannot be Heavpoot
 
