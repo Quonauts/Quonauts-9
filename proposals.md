@@ -1609,3 +1609,9 @@ Remove from %obtaining-points:
 
 Whichever player/s has/have the most points, at the time of this proposal's passing, win. When 1 or more players have won, the game ends.
 
+<a name='202'/>
+
+## #202
+
+All rules that apply to Proposal #9 apply to Proposal #194.
+
