@@ -1600,3 +1600,12 @@ One cannot be heavpoot
 
 æ
 
+<a name='201'/>
+
+## #201
+
+Remove from %obtaining-points:
+> When a player fails a proposal, if that player is not the author of that proposal, that player obtains 1 point.
+
+Whichever player/s has/have the most points, at the time of this proposal's passing, win. When 1 or more players have won, the game ends.
+
