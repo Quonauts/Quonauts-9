@@ -1589,7 +1589,7 @@ one cannot be Heavpoot
 
 <a name='199'/>
 
-## #199
+## #199 — Failed
 
 add a new rule: %ban-haha
 One cannot be heavpoot
