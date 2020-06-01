@@ -1492,7 +1492,7 @@ Delete proposals #183 through #190
 
 <a name='192'/>
 
-## #192
+## #192 — Failed
 
 If it exists and is open when this proposal passes, pass proposal #242
 
