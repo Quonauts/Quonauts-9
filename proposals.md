@@ -1611,7 +1611,7 @@ Whichever player/s has/have the most points, at the time of this proposal's pass
 
 <a name='202'/>
 
-## #202
+## #202 — Failed
 
 All rules that apply to Proposal #9 apply to Proposal #194.
 
