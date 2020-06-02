@@ -1615,3 +1615,10 @@ Whichever player/s has/have the most points, at the time of this proposal's pass
 
 All rules that apply to Proposal #9 apply to Proposal #194.
 
+<a name='203'/>
+
+## #203
+
+Add the following to %rule-violation-polls:
+> This rule takes precedence over %polls.
+
