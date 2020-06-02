@@ -1629,3 +1629,15 @@ Change
 to
 > In a rule violation poll, any votes cast by the author are ignored.
 
+<a name='205'/>
+
+## #205
+
+Replace the following in %rule-violation-polls:
+> In a rule violation poll, any votes cast by the accused player are ignored.
+with:
+> In a rule violation poll, any votes cast by the accused player or the author are ignored.
+
+Remove the following from %rule-violation-polls:
+> In a rule violation poll, the author cannot vote.
+
