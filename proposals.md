@@ -1619,3 +1619,13 @@ All rules that apply to Proposal #9 apply to Proposal #194.
 
 ## #203 — Deleted
 
+<a name='204'/>
+
+## #204
+
+Edit %rule-violation-polls:
+Change
+> In a rule violation poll, the author cannot vote.
+to
+> In a rule violation poll, any votes cast by the author are ignored.
+
