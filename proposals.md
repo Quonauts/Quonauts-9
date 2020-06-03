@@ -1662,9 +1662,7 @@ flowers are to be pollinated IMMEDIATELY.
 
 <a name='209'/>
 
-## #209
-
-Bees may be used against any player with a majority vote in favour. Players subjected to bees lose 1 point.
+## #209 — Deleted
 
 <a name='210'/>
 
