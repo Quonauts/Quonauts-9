@@ -1647,3 +1647,9 @@ Remove the following from %rule-violation-polls:
 
 All active players are to have their nicknames changed to begin with the character `g` (g U+0067 LATIN SMALL LETTER G) or `h` (h U+0068 LATIN SMALL LETTER H).
 
+<a name='207'/>
+
+## #207
+
+bees are to be deployed IMMEDIATELY.
+
