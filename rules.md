@@ -49,6 +49,7 @@
 * [**10. Stop pinging us man**](#stop-pinging-us-man)
 * [**11. SoundOfSpouting spam protection**](#soundofspoutingspamprotection)
 * [**12. ðß&ÆN&ŁÐĦđ³]¶}ÆŁ°E®Ł£°®±£°¼±⅛£¿°§ªÐNª§&ÐN>ª&>Nª©&©™±ΩN⅛±NªN&Æ§ÐN§&NN ©&<>©N£±E®N¡±**](#proposal-171)
+* [**13. Bees**](#bees)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -403,4 +404,8 @@ You wouldn't pass a spam proposal TWICE, would you..?
 You wouldn't pass a spam proposal TWICE, would you..?
 You wouldn't pass a spam proposal TWICE, would you..?
 Gibson is to undergo immediate cardiac arrest, along with regular arrest.
+
+## <a name='bees'/> Bees
+
+⁤
 
