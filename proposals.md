@@ -1678,3 +1678,12 @@ Add a new rule: %wait-a-minute:
 > if heavpoot wins and it would cause the game to end, as a special case, the game does not end until another player wins.
 This proposal depends on #210
 
+<a name='212'/>
+
+## #212
+
+Replace the following in %opinion-polls:
+> Players may conduct polls to informally gather opinions about any game relevant topic, called "opinion polls".
+with:
+> Players may conduct polls to informally gather opinions about any game relevant topic, called "opinion polls". An opinion poll must be clearly labeled as such.
+
