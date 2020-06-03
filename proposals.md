@@ -1666,3 +1666,9 @@ flowers are to be pollinated IMMEDIATELY.
 
 Bees may be used against any player with a majority vote in favour. Players subjected to bees lose 1 point.
 
+<a name='210'/>
+
+## #210
+
+Give all of SoundOfSpouting and Gibson's points to Heavpoot. SoundOfSpouting and Gibson are immune to bees.
+
