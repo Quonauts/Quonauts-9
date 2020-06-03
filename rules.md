@@ -29,6 +29,7 @@
     * [**2.3. #rules**](#rules)
     * [**2.4. #polls**](#polls)
         * [**2.4.1. Opinion polls**](#opinion-polls)
+        * [**2.4.2. Bee Poll**](#bee-poll)
     * [**2.5. #transactions**](#transactions)
     * [**2.6. #the-land**](#the-land)
 * [**3. Quantities**](#quantities)
@@ -279,6 +280,10 @@ When a poll is closed, no more votes may be cast on it, and it may not be edited
 Players may conduct polls to informally gather opinions about any game relevant topic, called "opinion polls".
 
 An opinion poll may only be created if and only if no other opinion poll by that player is currently open. By default, the allowed reactions of an opinion poll are 👍 and 👎, but the opinion poll may specify different allowed reactions for itself.
+
+#### <a name='bee-poll'/> Bee Poll
+
+A Bee Poll is required to authorize bees to perform actions, as described in %bees. The default allowed reactions for a Bee Poll are 👍 (representing a vote for) and 👎 (representing a vote against). Bee Polls may be closed if they have existed for 12 hours or more, rather than the usual 24. If a Bee Poll is passed, the action it describes is taken. Players are permitted to use multiple reactions on a Bee Poll. A Bee Poll must clearly indicate that it is a Bee Poll.
 
 ### <a name='transactions'/> #transactions
 
