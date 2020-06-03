@@ -1602,7 +1602,7 @@ One cannot be heavpoot
 
 <a name='201'/>
 
-## #201
+## #201 — Failed
 
 Remove from %obtaining-points:
 > When a player fails a proposal, if that player is not the author of that proposal, that player obtains 1 point.
