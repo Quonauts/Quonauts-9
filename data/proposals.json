@@ -3084,7 +3084,8 @@
 			"votes": {
 				"151149148639330304": 1,
 				"258639553357676545": 1,
-				"309787486278909952": 0
+				"309787486278909952": 0,
+				"421060058009305088": 1
 			},
 			"timestamp": 1591208517
 		},
@@ -3092,7 +3093,7 @@
 			"n": 213,
 			"author": 258639553357676545,
 			"content": "Create a new section \"Bees\" %bees.\nCreate a rule \"Bee utilization part 1\" (%bees-1) in %bees:\n> The deployment status of bees is considered part of the Game State. No bee action (except for bee deployment) may be taken unless bees are currently deployed. Bee actions include deployment of bees, which makes bees become deployed, cessation of bees, which makes bees not be deployed, and use of bees against a player. The player bees are to be used against must be indicated in the Bee Poll authorizing this action. Use of bees against players causes their Points quantity to be reduced by 1, unless it is already 0, in which case there is no effect.\nCreate a rule \"Bee Poll\" (%bee-poll) in %polls:\n> A Bee Poll is required to authorize bees to perform actions, as described in %bees. The default allowed reactions for a Bee Poll are \ud83d\udc4d (representing a vote for) and \ud83d\udc4e (representing a vote against). Bee Polls may be closed if they have existed for 12 hours or more, rather than the usual 24. If a Bee Poll is passed, the action it describes is taken. Players are permitted to use multiple reactions on a Bee Poll. A Bee Poll must clearly indicate that it is a Bee Poll.\n\nDue to the passage of proposal #207, bees are to be considered \"deployed\" initially.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 717821347493052447,
 			"votes": {
 				"151149148639330304": 1,
@@ -3114,6 +3115,7 @@
 				"151149148639330304": -1,
 				"160279332454006795": -1,
 				"309787486278909952": -1,
+				"421060058009305088": -1,
 				"543131534685765673": -1
 			},
 			"timestamp": 1591210658

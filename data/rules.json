@@ -11,6 +11,38 @@
 				714060019208814632
 			]
 		},
+		"bee-poll": {
+			"tag": "bee-poll",
+			"title": "Bee Poll",
+			"content": "A Bee Poll is required to authorize bees to perform actions, as described in %bees. The default allowed reactions for a Bee Poll are \ud83d\udc4d (representing a vote for) and \ud83d\udc4e (representing a vote against). Bee Polls may be closed if they have existed for 12 hours or more, rather than the usual 24. If a Bee Poll is passed, the action it describes is taken. Players are permitted to use multiple reactions on a Bee Poll. A Bee Poll must clearly indicate that it is a Bee Poll.",
+			"parent_tag": "polls",
+			"child_tags": [],
+			"message_ids": [
+				717866067782926346
+			]
+		},
+		"bees": {
+			"tag": "bees",
+			"title": "Bees",
+			"content": "\u2064",
+			"parent_tag": "root",
+			"child_tags": [
+				"bees-1"
+			],
+			"message_ids": [
+				717866155489886270
+			]
+		},
+		"bees-1": {
+			"tag": "bees-1",
+			"title": "Bee utilization part 1",
+			"content": "The deployment status of bees is considered part of the Game State. No bee action (except for bee deployment) may be taken unless bees are currently deployed. Bee actions include deployment of bees, which makes bees become deployed, cessation of bees, which makes bees not be deployed, and use of bees against a player. The player bees are to be used against must be indicated in the Bee Poll authorizing this action. Use of bees against players causes their Points quantity to be reduced by 1, unless it is already 0, in which case there is no effect.",
+			"parent_tag": "bees",
+			"child_tags": [],
+			"message_ids": [
+				717866156538462309
+			]
+		},
 		"bots": {
 			"tag": "bots",
 			"title": "Bots",
@@ -45,7 +77,7 @@
 			"parent_tag": "land-actions",
 			"child_tags": [],
 			"message_ids": [
-				714060175169814589
+				717866112959774808
 			]
 		},
 		"closing-proposals": {
@@ -167,7 +199,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				714060193800912936
+				717866133222326392
 			]
 		},
 		"land": {
@@ -179,7 +211,7 @@
 				"land-actions"
 			],
 			"message_ids": [
-				714060153057443870
+				717866092743098511
 			]
 		},
 		"land-actions": {
@@ -194,7 +226,7 @@
 				"producing-goods"
 			],
 			"message_ids": [
-				714060171046944808
+				717866093703594034
 			]
 		},
 		"land-movement": {
@@ -204,7 +236,7 @@
 			"parent_tag": "land-actions",
 			"child_tags": [],
 			"message_ids": [
-				714060172045320253
+				717866111298699335
 			]
 		},
 		"lists": {
@@ -243,7 +275,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				714060195306930256
+				717866134728212531
 			]
 		},
 		"obtaining-points": {
@@ -253,7 +285,7 @@
 			"parent_tag": "quantities",
 			"child_tags": [],
 			"message_ids": [
-				714060148175405067
+				717866071591223356
 			]
 		},
 		"odd-perfects": {
@@ -263,7 +295,7 @@
 			"parent_tag": "perfects",
 			"child_tags": [],
 			"message_ids": [
-				714060151950409799
+				717866091761893449
 			]
 		},
 		"opinion-polls": {
@@ -295,7 +327,7 @@
 				"odd-perfects"
 			],
 			"message_ids": [
-				714060150130081794
+				717866090679500880
 			]
 		},
 		"polls": {
@@ -304,7 +336,8 @@
 			"content": "A poll is a means of gathering the opinions of players on an issue. A poll is created by sending a message in the <#700035979792089208> channel, provided a rule permits the poll's creation.\n\nPlayers may vote on a poll by reacting to it with a certain reaction (except for \ud83d\udd10), as specified in the rule permitting the poll's creation. No unspecified reactions are permitted. The reaction \ud83d\udd10 does not represent a vote.\n\nThe player that posted a poll may edit it freely, as long as such edits do not change the meaning/intent of any existing reactions to the poll.\n\nIn the event of a conflict, the following parts of this section never take precedence over a rule that allows a poll to be created.\n\nEach player may cast only one vote on a given poll, all votes by a player who voted for multiple options are ignored.\n\nA player may close a poll when one or more of the following conditions is met:\n\n\u2022 The poll is at least 24 hours old.\n\u2022 All active players have voted on the poll, and there are more than two active players.\n\u2022 A majority of active players have voted in favour of or against the poll, and there are more than two active players.\n\nWhenever a player closes a poll, that player must react to the poll with \ud83d\udd10, signifying that it is closed.\n\nWhen a poll is closed, no more votes may be cast on it, and it may not be edited. If more players have voted in favour of the poll than against, the poll passes, otherwise, it fails.",
 			"parent_tag": "channels",
 			"child_tags": [
-				"opinion-polls"
+				"opinion-polls",
+				"bee-poll"
 			],
 			"message_ids": [
 				714060126658756648
@@ -327,7 +360,7 @@
 			"parent_tag": "land-actions",
 			"child_tags": [],
 			"message_ids": [
-				714060176172515338
+				717866113559691415
 			]
 		},
 		"proposal-171": {
@@ -337,7 +370,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				714124752607903794
+				717866154919461086
 			]
 		},
 		"proposal-9": {
@@ -347,7 +380,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				714060193029160980
+				717866114624782377
 			]
 		},
 		"proposal-content": {
@@ -389,7 +422,7 @@
 				"tree"
 			],
 			"message_ids": [
-				714060130781495316
+				717866070114959482
 			]
 		},
 		"root": {
@@ -409,12 +442,14 @@
 				"never-another-sinthorion",
 				"stop-pinging-us-man",
 				"soundofspoutingspamprotection",
-				"proposal-171"
+				"proposal-171",
+				"bees"
 			],
 			"message_ids": [
-				714124753576788018,
-				714124754206064681,
-				714124754969165846
+				717866157000097904,
+				717866158254194751,
+				717866176822247515,
+				717866178432729128
 			]
 		},
 		"rule-violation-polls": {
@@ -444,7 +479,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				714060275229261874
+				717866137555304459
 			]
 		},
 		"stop-pinging-us-man": {
@@ -454,7 +489,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				714060196162568213
+				717866136427036703
 			]
 		},
 		"style-conventions": {
@@ -479,7 +514,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				714060129644838933
+				717866069154463796
 			]
 		},
 		"timezones": {
@@ -499,7 +534,7 @@
 			"parent_tag": "land-actions",
 			"child_tags": [],
 			"message_ids": [
-				714060174423359508
+				717866111764267200
 			]
 		},
 		"transactions": {
@@ -509,7 +544,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				714060128671760436
+				717866068538032168
 			]
 		},
 		"tree": {
@@ -519,7 +554,7 @@
 			"parent_tag": "quantities",
 			"child_tags": [],
 			"message_ids": [
-				714060149400010832
+				717866089786245128
 			]
 		},
 		"voting-on-proposals": {
@@ -539,7 +574,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				714060194220474449
+				717866133964849244
 			]
 		}
 	}
