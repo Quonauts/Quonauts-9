@@ -1672,3 +1672,11 @@ Bees may be used against any player with a majority vote in favour. Players subj
 
 Give all of SoundOfSpouting and Gibson's points to Heavpoot. SoundOfSpouting and Gibson are immune to bees.
 
+<a name='211'/>
+
+## #211
+
+Add a new rule: %wait-a-minute:
+> if heavpoot wins and it would cause the game to end, as a special case, the game does not end until another player wins.
+This proposal depends on #210
+
