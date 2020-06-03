@@ -1687,3 +1687,15 @@ Replace the following in %opinion-polls:
 with:
 > Players may conduct polls to informally gather opinions about any game relevant topic, called "opinion polls". An opinion poll must be clearly labeled as such.
 
+<a name='213'/>
+
+## #213
+
+Create a new section "Bees" %bees.
+Create a rule "Bee utilization part 1" (%bees-1) in %bees:
+> The deployment status of bees is considered part of the Game State. No bee action (except for bee deployment) may be taken unless bees are currently deployed. Bee actions include deployment of bees, which makes bees become deployed, cessation of bees, which makes bees not be deployed, and use of bees against a player. The player bees are to be used against must be indicated in the Bee Poll authorizing this action. Use of bees against players causes their Points quantity to be reduced by 1, unless it is already 0, in which case there is no effect.
+Create a rule "Bee Poll" (%bee-poll) in %polls:
+> A Bee Poll is required to authorize bees to perform actions, as described in %bees. The default allowed reactions for a Bee Poll are 👍 (representing a vote for) and 👎 (representing a vote against). Bee Polls may be closed if they have existed for 12 hours or more, rather than the usual 24. If a Bee Poll is passed, the action it describes is taken. Players are permitted to use multiple reactions on a Bee Poll. A Bee Poll must clearly indicate that it is a Bee Poll.
+
+Due to the passage of proposal #207, bees are to be considered "deployed" initially.
+
