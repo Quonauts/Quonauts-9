@@ -8,17 +8,17 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				703303530076831814
+				714060019208814632
 			]
 		},
 		"bots": {
 			"tag": "bots",
 			"title": "Bots",
-			"content": "Certain game functions may be performed automatically by automated \"bots\"; the behavior of such bots is not governed by the rules, and any function that bots may perform should be feasible, even if inconvenient, to do manually.",
+			"content": "Certain game functions may be performed automatically by automated \"bots\"; the behavior of such bots is not governed by the rules, and any function that bots may perform should be feasible, even if and only if inconvenient, to do manually.",
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				703303551283363947
+				714060040834908211
 			]
 		},
 		"channels": {
@@ -35,7 +35,7 @@
 				"the-land"
 			],
 			"message_ids": [
-				703303576620892321
+				714060063245074472
 			]
 		},
 		"claiming-land": {
@@ -45,19 +45,19 @@
 			"parent_tag": "land-actions",
 			"child_tags": [],
 			"message_ids": [
-				705778545066115252
+				714060175169814589
 			]
 		},
 		"closing-proposals": {
 			"tag": "closing-proposals",
 			"title": "Closing proposals",
-			"content": "Any player may close an open proposal if one or more of the following conditions is met:\n\n* The proposal is at least 48 hours (2 days) old.\n* All active players have cast a vote or abstained from voting on the proposal, and there are more than 2 active players.\n* A majority of active players have voted in favour of the proposal, and there are more than 2 active players.\n* A majority of active players have voted against the proposal, and there are more than 2 active players.",
+			"content": "Any player may close an open proposal if and only if one or more of the following conditions is met:\n\n* The proposal is at least 48 hours (2 days) old.\n* All active players have cast a vote or abstained from voting on the proposal, and there are more than 2 active players.\n* A majority of active players have voted in favour of the proposal, and there are more than 2 active players.\n* A majority of active players have voted against the proposal, and there are more than 2 active players.",
 			"parent_tag": "proposals",
 			"child_tags": [
 				"passing-and-failing-proposals"
 			],
 			"message_ids": [
-				703303615300894842
+				714060104529477704
 			]
 		},
 		"conflict-resolution": {
@@ -67,7 +67,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				703303595092738199
+				714060084547682356
 			]
 		},
 		"content": {
@@ -77,7 +77,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				703303552512163942
+				714060043510874132
 			]
 		},
 		"deleting-proposals": {
@@ -87,27 +87,27 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				703303617297514677
+				714060106542743552
 			]
 		},
 		"dependency-resolution": {
 			"tag": "dependency-resolution",
 			"title": "Dependency resolution",
-			"content": "A proposal may state that it depends on other proposals, meaning that proposal will fail if any proposal it depends on passes.\n\nA proposal may also state it is incompatible with other proposals, in which case that proposal will fail if any proposal it is incompatible with passes.",
+			"content": "A proposal may state that it depends on other proposals, meaning that proposal will fail if and only if any proposal it depends on fails.\n\nA proposal may also state it is incompatible with other proposals, in which case that proposal will fail if and only if any proposal it is incompatible with passes.",
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				703303595910627338
+				714060085537538059
 			]
 		},
 		"editing-proposals": {
 			"tag": "editing-proposals",
 			"title": "Editing proposals",
-			"content": "A player may freely edit a proposal they have submitted if that proposal is open for voting and has no votes cast by players other than its author.\n\nThe author of a proposal or the player passing a proposal may choose to add or remove whitespace and fix typos or grammar mistakes, provided the meaning of the proposal and any dependent proposals remains unchanged. Clarifications or additional details must always be added by a new proposal.",
+			"content": "A player may freely edit a proposal they have submitted if and only if that proposal is open for voting and has no votes cast by players other than its author.\n\nThe author of a proposal or the player passing a proposal may choose to add or remove whitespace and fix typos or grammar mistakes, provided the meaning of the proposal and any dependent proposals remains unchanged. Clarifications or additional details must always be added by a new proposal.",
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				703303618195095573
+				714060107494719488
 			]
 		},
 		"forbidden-actions": {
@@ -117,7 +117,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				703303531976720384
+				714060020739735572
 			]
 		},
 		"formatting": {
@@ -127,7 +127,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				703303576130158722
+				714060062569660416
 			]
 		},
 		"general": {
@@ -137,17 +137,17 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				703303578038566932
+				714060063664504863
 			]
 		},
 		"glossary": {
 			"tag": "glossary",
 			"title": "Glossary",
-			"content": "The definitions for terms listed here take precedence over their normal English meanings, however any terms defined in a specific section of the rules override these in the section in which they are defined and its subsections. A section may also define terms for use in the whole document.\n\n* **The Game**: The instance of Nomic governed by these rules.\n* **Game Channel**: Any text or voice channel listed under the \"Game Channels\" category of the Discord server.\n* **Game Action**: Any modification of the game state.\n* **Game State**: Every current rule; every non-deleted proposal and any votes on it; every poll and any votes on it; every quantity and each player's amount of that quantity; and every message or reaction in any game channel.\n* **The Rules**: The rules of the game, which are described by this document.\n* **Section**: A part of the rules contained under one header. Unless otherwise specified, this does not include its subsections.\n* **Subsection**: A section contained within another another section.\n* **Clause**: A single statement in the rules.\n* **Player**: Any participant of the game.\n* **Active Player**: Any player who has performed a game action in the preceding 72 hours, and is a member of the Discord server.\n* **Inactive Player**: Any player who is not an active player.\n\nWhenever the word \"if\" is used in the rules, it is to be interpreted as \"if and only if\".",
+			"content": "The definitions for terms listed here take precedence over their normal English meanings, however any terms defined in a specific section of the rules override these in the section in which they are defined and its subsections. A section may also define terms for use in the whole document.\n\n\u2022 The Game: The instance of Nomic governed by these rules.\n\u2022 Game Channel: Any text or voice channel listed under the \"Game Channels\" category of the Discord server.\n\u2022 Game Action: Any modification of the game state.\n\u2022 Game State: Every current rule; every non-deleted proposal and any votes on it; every poll and any votes on it; every quantity and each player's amount of that quantity; and every message or reaction in any game channel.\n\u2022 The Rules: The rules of the game, which are described by this document.\n\u2022 Section: A part of the rules contained under one header. Unless otherwise specified, this does not include its subsections.\n\u2022 Subsection: A section contained within another another section.\n\u2022 Clause: A single statement in the rules.\n\u2022 Player: Any participant of the game.\n\u2022 Active Player: Any player who has performed a game action in the preceding 72 hours, and is a member of the Discord server.\n\u2022 Inactive Player: Any player who is not an active player.",
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				703303528873066556
+				714060018349244486
 			]
 		},
 		"headers-and-tags": {
@@ -157,7 +157,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				703303571575144469
+				714060060950659102
 			]
 		},
 		"iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf": {
@@ -167,7 +167,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				711926267301199882
+				714060193800912936
 			]
 		},
 		"land": {
@@ -179,7 +179,7 @@
 				"land-actions"
 			],
 			"message_ids": [
-				705778523947925506
+				714060153057443870
 			]
 		},
 		"land-actions": {
@@ -194,7 +194,7 @@
 				"producing-goods"
 			],
 			"message_ids": [
-				705778525227057153
+				714060171046944808
 			]
 		},
 		"land-movement": {
@@ -204,7 +204,7 @@
 			"parent_tag": "land-actions",
 			"child_tags": [],
 			"message_ids": [
-				705778527005311007
+				714060172045320253
 			]
 		},
 		"lists": {
@@ -214,7 +214,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				703303575358406827
+				714060061453975624
 			]
 		},
 		"meta-rules": {
@@ -233,47 +233,57 @@
 				"style-conventions"
 			],
 			"message_ids": [
-				703303527296139317
+				714060017468309524
+			]
+		},
+		"never-another-sinthorion": {
+			"tag": "never-another-sinthorion",
+			"title": "Never another Sinthorion",
+			"content": "As Sinthorion has already won many games undeservedly, whenever Sinthorion would win in this game, another player randomly chosen from the active players with the least previous Quonauts victories wins instead.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				714060195306930256
 			]
 		},
 		"obtaining-points": {
 			"tag": "obtaining-points",
 			"title": "Obtaining points",
-			"content": "When a proposal is passed, its author obtains 2 points and the person who enacted it obtains 1, if this is applicable.",
+			"content": "When a proposal is passed, its author obtains 2 points and the person who enacted it obtains 1, if and only if this is applicable.\n\nWhen a player fails a proposal, if that player is not the author of that proposal, that player obtains 1 point.",
 			"parent_tag": "quantities",
 			"child_tags": [],
 			"message_ids": [
-				704748378130612314
+				714060148175405067
 			]
 		},
 		"odd-perfects": {
 			"tag": "odd-perfects",
 			"title": "Odd perfects",
 			"content": "Upon the legal passing of an odd perfect numbered proposal, the author wins and the game ends. This overrides everything where applicable.",
-			"parent_tag": "root",
+			"parent_tag": "perfects",
 			"child_tags": [],
 			"message_ids": [
-				705778523545010216
+				714060151950409799
 			]
 		},
 		"opinion-polls": {
 			"tag": "opinion-polls",
 			"title": "Opinion polls",
-			"content": "Players may conduct polls to informally gather opinions about any game relevant topic, called \"opinion polls\".\n\nAn opinion poll may only be created if no other opinion poll by that player is currently open. By default, the allowed reactions of an opinion poll are \ud83d\udc4d and \ud83d\udc4e, but the opinion poll may specify different allowed reactions for itself.",
+			"content": "Players may conduct polls to informally gather opinions about any game relevant topic, called \"opinion polls\".\n\nAn opinion poll may only be created if and only if no other opinion poll by that player is currently open. By default, the allowed reactions of an opinion poll are \ud83d\udc4d and \ud83d\udc4e, but the opinion poll may specify different allowed reactions for itself.",
 			"parent_tag": "polls",
 			"child_tags": [],
 			"message_ids": [
-				704748374578036786
+				714060127409274931
 			]
 		},
 		"passing-and-failing-proposals": {
 			"tag": "passing-and-failing-proposals",
 			"title": "Passing and failing proposals",
-			"content": "When a proposal is closed, it passes if it has more votes in favour than against; otherwise, it fails.\n\nThe player that authored a proposal may fail it at any time.\n\nAfter a proposal passes, the game state and game rules change are modified according to it. The player who passed it must carry out the effects of its passing to the best of their ability.\n\nThe rules may only change as the result of a proposal passing, legally.",
+			"content": "When a proposal is closed, it passes if and only if it has more votes in favour than against; otherwise, it fails.\n\nThe player that authored a proposal may fail it at any time if it is open.\n\nAfter a proposal passes, the game state and game rules change are modified according to it. The player who passed it must carry out the effects of its passing to the best of their ability.\n\nThe rules may only change as the result of a proposal passing, legally.\n\nThe state of a proposal may not be directly changed from passed to failed, or directly from failed to passed. A closed proposal may not be deleted.",
 			"parent_tag": "closing-proposals",
 			"child_tags": [],
 			"message_ids": [
-				703303616244744413
+				714060105586311259
 			]
 		},
 		"perfects": {
@@ -281,31 +291,33 @@
 			"title": "Perfects",
 			"content": "Upon the legal passing of a perfect numbered proposal, the author gets an additional point.",
 			"parent_tag": "root",
-			"child_tags": [],
+			"child_tags": [
+				"odd-perfects"
+			],
 			"message_ids": [
-				705778522249101364
+				714060150130081794
 			]
 		},
 		"polls": {
 			"tag": "polls",
 			"title": "#polls",
-			"content": "A poll is a means of gathering the opinions of players on an issue. A poll is created by sending a message in the <#700035979792089208> channel, provided a rule permits the poll's creation.\n\nPlayers may vote on a poll by reacting to it with a certain reaction, as specified in the rule permitting the poll's creation. No unspecified reactions are permitted.\n\nThe player that posted a poll may edit it freely, as long as such edits do not change the meaning/intent of any existing reactions to the poll.\n\nIn the event of a conflict, the following parts of this section never take precedence over a rule that allows a poll to be created.\n\nEach player may cast only one vote on a given poll, all votes by a player who voted for multiple options are ignored.\n\nA poll closes when one or more of the following conditions is met:\n\n* The poll is at least 24 hours old.\n* All active players have voted on the poll, and there are more than two active players.\n* A majority of active players have voted in favour of or against the poll, and there are more than two active players.\n\nWhen a poll is closed, no more votes may be cast on it, and it may not be edited. If more active players have voted in favour of the poll than against, the poll passes, otherwise, it fails.",
+			"content": "A poll is a means of gathering the opinions of players on an issue. A poll is created by sending a message in the <#700035979792089208> channel, provided a rule permits the poll's creation.\n\nPlayers may vote on a poll by reacting to it with a certain reaction (except for \ud83d\udd10), as specified in the rule permitting the poll's creation. No unspecified reactions are permitted. The reaction \ud83d\udd10 does not represent a vote.\n\nThe player that posted a poll may edit it freely, as long as such edits do not change the meaning/intent of any existing reactions to the poll.\n\nIn the event of a conflict, the following parts of this section never take precedence over a rule that allows a poll to be created.\n\nEach player may cast only one vote on a given poll, all votes by a player who voted for multiple options are ignored.\n\nA player may close a poll when one or more of the following conditions is met:\n\n\u2022 The poll is at least 24 hours old.\n\u2022 All active players have voted on the poll, and there are more than two active players.\n\u2022 A majority of active players have voted in favour of or against the poll, and there are more than two active players.\n\nWhenever a player closes a poll, that player must react to the poll with \ud83d\udd10, signifying that it is closed.\n\nWhen a poll is closed, no more votes may be cast on it, and it may not be edited. If more players have voted in favour of the poll than against, the poll passes, otherwise, it fails.",
 			"parent_tag": "channels",
 			"child_tags": [
 				"opinion-polls"
 			],
 			"message_ids": [
-				703303637165801553
+				714060126658756648
 			]
 		},
 		"precedence": {
 			"tag": "precedence",
 			"title": "Precedence",
-			"content": "In the case of a contradiction between clauses, the following criteria are to be considered in turn until a clear determination can be made as to which clause takes precedence:\n\n* If precedence is specified in the relevant rules and is non-contradictory, follow the instructed precedence.\n* The clause which appears last in the rules takes precedence.",
+			"content": "In the case of a contradiction between clauses, the following criteria are to be considered in turn until a clear determination can be made as to which clause takes precedence:\n\n* If and only if precedence is specified in the relevant rules and is non-contradictory, follow the instructed precedence.\n* The clause which appears last in the rules takes precedence.",
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				703303530894852149
+				714060019926302730
 			]
 		},
 		"producing-goods": {
@@ -315,7 +327,17 @@
 			"parent_tag": "land-actions",
 			"child_tags": [],
 			"message_ids": [
-				711926265468420177
+				714060176172515338
+			]
+		},
+		"proposal-171": {
+			"tag": "proposal-171",
+			"title": "\u00f0\u00df&\u00c6N&\u0141\u00d0\u0126\u0111\u00b3]\u00b6}\u00c6\u0141\u00b0E\u00ae\u0141\u00a3\u00b0\u00ae\u00b1\u00a3\u00b0\u00bc\u00b1\u215b\u00a3\u00bf\u00b0\u00a7\u00aa\u00d0N\u00aa\u00a7&\u00d0N>\u00aa&>N\u00aa\u00a9&\u00a9\u2122\u00b1\u03a9N\u215b\u00b1N\u00aaN&\u00c6\u00a7\u00d0N\u00a7&NN \u00a9&<>\u00a9N\u00a3\u00b1E\u00aeN\u00a1\u00b1",
+			"content": "All g are to be considered \u00f0\u00e6\u00df\u00e6\u0111\u00f0. a\u00e6aaaaaaa\u00e6\u00e6aaaaaa\u00e6\u00e6aaa\u00e6aaa\u00e6aa\u00e6aa\u00e6\u00e6aa\u00e6aa\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\u00e6\nBOREDOM\u00a1!!!\u00a1!!!!!You wouldn't pass a spam proposal TWICE, would you..?\nYou wouldn't pass a spam proposal TWICE, would you..?\nYou wouldn't pass a spam proposal TWICE, would you..?\nYou wouldn't pass a spam proposal TWICE, would you..?\nYou wouldn't pass a spam proposal TWICE, would you..?\nYou wouldn't pass a spam proposal TWICE, would you..?\nYou wouldn't pass a spam proposal TWICE, would you..?\nYou wouldn't pass a spam proposal TWICE, would you..?\nYou wouldn't pass a spam proposal TWICE, would you..?\nYou wouldn't pass a spam proposal TWICE, would you..?\nGibson is to undergo immediate cardiac arrest, along with regular arrest.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				714124752607903794
 			]
 		},
 		"proposal-9": {
@@ -325,26 +347,26 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				711926266273464333
+				714060193029160980
 			]
 		},
 		"proposal-content": {
 			"tag": "proposal-content",
 			"title": "Proposal content",
-			"content": "A proposal must describe one or more actions that make changes to the game rules or otherwise alter the game state.\n\nA proposal must not reference information outside of the game state, or propose a rule that does so.\n\nIf a proposal describes a modification to the rules, it must unambiguously specify the rule section(s) to be modified and how they will be modified.\n\nIf a proposal describes the creation of a new rule section, it must specify its title, its content, and should specify its location in relation to an existing rule; if it does not specify a location, then it will be assumed that its location is below all other currently existing rules (this does not apply after the proposal has been enacted).\n\nAny open proposal that does not comply to these rules may be closed as failed at any time.",
+			"content": "A proposal must describe one or more actions that make changes to the game rules or otherwise alter the game state.\n\nA proposal must not reference information outside of the game state, or propose a rule that does so.\n\nIf and only if a proposal describes a modification to the rules, it must unambiguously specify the rule section(s) to be modified and how they will be modified.\n\nIf and only if a proposal describes the creation of a new rule section, it must specify its title, its content, and should specify its location in relation to an existing rule; if and only if it does not specify a location, then it will be assumed that its location is below all other currently existing rules (this does not apply after the proposal has been enacted).\n\nAny open proposal that does not comply to these rules may be closed as failed at any time.",
 			"parent_tag": "proposals",
 			"child_tags": [
 				"conflict-resolution",
 				"dependency-resolution"
 			],
 			"message_ids": [
-				703303594195157213
+				714060083415220255
 			]
 		},
 		"proposals": {
 			"tag": "proposals",
 			"title": "#proposals",
-			"content": "Proposals can be made by posting them to the <#700035956522090596> game channel.\n\nThe first proposal is numbered #1 and each subsequent proposal's number is increased by 1. Deleted proposals retain their number.\n\nA proposal is either open or closed. When it is first submitted a proposal is open. A non-deleted, closed proposal is either passed or failed. When a player closes a proposal, they must either pass it or fail it. A deleted proposal is closed, but does not pass or fail.\n\nIf a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since they created their most recent currently open proposal, it may be failed at any time if it is open.",
+			"content": "Proposals can be made by posting them to the <#700035956522090596> game channel.\n\nThe first proposal is numbered #1 and each subsequent proposal's number is increased by 1. Deleted proposals retain their number.\n\nA proposal is either open or closed. When it is first submitted a proposal is open. A non-deleted, closed proposal is either passed or failed. When a player closes a proposal, they must either pass it or fail it. A deleted proposal is closed, but does not pass or fail.\n\nIf a player creates a proposal when they are the author of 10 currently open proposals, or when less than 10 minutes has passed since they created their most recent currently open proposal, it may be failed at any time if it is open.\n\nWhen a proposal passes or fails, it closes.",
 			"parent_tag": "channels",
 			"child_tags": [
 				"proposal-content",
@@ -354,19 +376,20 @@
 				"editing-proposals"
 			],
 			"message_ids": [
-				703303593444376656
+				714060082551324675
 			]
 		},
 		"quantities": {
 			"tag": "quantities",
 			"title": "Quantities",
-			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n* applies to all players.\n* is instantiated at zero.\n* must be an integer.\n* must never have a negative value.\n* may be traded.\n\nThe following quantities exist:\n* **Points**: An arbritrary value which should generally be used as a reward/currency.\n* **land-x**: A player's x position in the land. May not be traded.\n* **land-y**: A player's y position in the land. May not be traded.\n\nWhen a new quantity is created, it must be added to the above list, along with an optional short description. The description, if present, has no relevance to the game.",
+			"content": "A quantity is a named property with a numerical value for each player.\n\nBy default any unique quantity added to the game:\n\u2022 applies to all players.\n\u2022 is instantiated at zero.\n\u2022 must be an integer.\n\u2022 must never have a negative value.\n\u2022 may be traded.\n\nThe following quantities exist:\n\u2022 Points: An arbritrary value which should generally be used as a reward/currency.\n\u2022 land-x: A player's x position in the land. May not be traded.\n\u2022 land-y: A player's y position in the land. May not be traded.\n\u2022 goods: A resource produced by claiming land.\n\nWhen a new quantity is created, it must be added to the above list, along with an optional short description. The description, if and only if present, has no relevance to the game.",
 			"parent_tag": "root",
 			"child_tags": [
-				"obtaining-points"
+				"obtaining-points",
+				"tree"
 			],
 			"message_ids": [
-				704748377333825536
+				714060130781495316
 			]
 		},
 		"root": {
@@ -379,25 +402,29 @@
 				"channels",
 				"quantities",
 				"perfects",
-				"odd-perfects",
 				"land",
 				"proposal-9",
-				"iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf"
+				"iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf",
+				"winning",
+				"never-another-sinthorion",
+				"stop-pinging-us-man",
+				"soundofspoutingspamprotection",
+				"proposal-171"
 			],
 			"message_ids": [
-				711926268249112586,
-				711926268962275339,
-				711926287446311023
+				714124753576788018,
+				714124754206064681,
+				714124754969165846
 			]
 		},
 		"rule-violation-polls": {
 			"tag": "rule-violation-polls",
 			"title": "Rule violation polls",
-			"content": "If a player (\"the accusing player\") believes that another player (\"the accused player\") has violated the rules, the accusing player may conduct a poll, called a \"rule violation poll\" or \"RVP\", to determine whether a forbidden action was performed. The poll must clearly state it is a rule violation poll, and must specify the accused player and what sections of the rules they allegedly violated.\n\nIn a rule violation poll, the following reactions are permitted:\n\n\u2022 \ud83d\udc4d: In favour of the poll, and in favour of a strike.\n\u2022 \ud83e\udd37: In favour of the poll, but against of a strike.\n\u2022 \ud83d\udc4e: Against the poll, and against a strike.\n\nIn a rule violation poll, any votes cast by the accused player are ignored.\n\nIf the poll passes, the rule violation and its consequences must be reverted.\n\nIf the poll passes and more players are in favour of a strike (\ud83d\udc4d reactions) than against (\ud83e\udd37 and \ud83d\udc4e reactions), the accused player may not perform any game actions for the next 24 hours.",
+			"content": "If and only if a player (\"the accusing player\") believes that another player (\"the accused player\") has violated the rules, the accusing player may conduct a poll, called a \"rule violation poll\" or \"RVP\", to determine whether a forbidden action was performed. The poll must clearly state it is a rule violation poll, and must specify the accused player and what sections of the rules they allegedly violated.\n\nIn a rule violation poll, the following reactions are permitted:\n\n\u2022 \ud83d\udc4d: In favour of the poll, and in favour of a strike.\n\u2022 \ud83e\udd37: In favour of the poll, but against of a strike.\n\u2022 \ud83d\udc4e: Against the poll, and against a strike.\n\nIn a rule violation poll, any votes cast by the accused player are ignored.\n\nIf the poll passes, the rule violation and its consequences must be reverted.\n\nIf the poll passes and more players are in favour of a strike (\ud83d\udc4d reactions) than against (\ud83e\udd37 and \ud83d\udc4e reactions), the accused player may not perform any game actions for the next 24 hours.\n\nIn a rule violation poll, the author cannot vote.",
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				703303549349527573
+				714060039203061830
 			]
 		},
 		"rules": {
@@ -407,7 +434,27 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				703303618962653341
+				714060108434374686
+			]
+		},
+		"soundofspoutingspamprotection": {
+			"tag": "soundofspoutingspamprotection",
+			"title": "SoundOfSpouting spam protection",
+			"content": "<@!151149148639330304> cannot post in <#700035979792089208> more than once every two minutes.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				714060275229261874
+			]
+		},
+		"stop-pinging-us-man": {
+			"tag": "stop-pinging-us-man",
+			"title": "Stop pinging us man",
+			"content": "<@!151149148639330304> is disallowed from pinging other players in <#700035979792089208>",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				714060196162568213
 			]
 		},
 		"style-conventions": {
@@ -422,7 +469,7 @@
 				"formatting"
 			],
 			"message_ids": [
-				703303552097058967
+				714060041807855637
 			]
 		},
 		"the-land": {
@@ -432,7 +479,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				704748376578850976
+				714060129644838933
 			]
 		},
 		"timezones": {
@@ -442,7 +489,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				703303550347771960
+				714060040021213265
 			]
 		},
 		"trade": {
@@ -452,7 +499,7 @@
 			"parent_tag": "land-actions",
 			"child_tags": [],
 			"message_ids": [
-				705778543833120830
+				714060174423359508
 			]
 		},
 		"transactions": {
@@ -462,7 +509,17 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				704748375530143794
+				714060128671760436
+			]
+		},
+		"tree": {
+			"tag": "tree",
+			"title": "Tree",
+			"content": "Upon the legal passing of a proposal of number TREE(n) for any n, the author gets points equal to the number of the proposal",
+			"parent_tag": "quantities",
+			"child_tags": [],
+			"message_ids": [
+				714060149400010832
 			]
 		},
 		"voting-on-proposals": {
@@ -472,7 +529,17 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				703303596812271787
+				714060086380855338
+			]
+		},
+		"winning": {
+			"tag": "winning",
+			"title": "Winning",
+			"content": "When one or more players have reached 100 points, they win and the game ends.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				714060194220474449
 			]
 		}
 	}
