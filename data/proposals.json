@@ -2905,7 +2905,7 @@
 			"n": 200,
 			"author": 160279332454006795,
 			"content": "\u00e6",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 716922469616844805,
 			"votes": {
 				"151149148639330304": 1,
@@ -2919,7 +2919,7 @@
 			"n": 201,
 			"author": 309787486278909952,
 			"content": "Remove from %obtaining-points:\n> When a player fails a proposal, if that player is not the author of that proposal, that player obtains 1 point.\n\nWhichever player/s has/have the most points, at the time of this proposal's passing, win. When 1 or more players have won, the game ends.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 716926381476413450,
 			"votes": {
 				"151149148639330304": -1,
@@ -2989,7 +2989,8 @@
 			"votes": {
 				"151149148639330304": -1,
 				"258639553357676545": 1,
-				"309787486278909952": 0
+				"309787486278909952": 0,
+				"311467257643532288": -1
 			},
 			"timestamp": 1591191209
 		}
