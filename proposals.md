@@ -1713,3 +1713,10 @@ Create a rule %bee-ca in %bees:
 
 i propose to ban the bot called g
 
+<a name='216'/>
+
+## #216
+
+Replace the contents of %bees with:
+> buzz buzz bz buzz, bz, buzz.
+
