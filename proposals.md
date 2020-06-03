@@ -1707,3 +1707,9 @@ Create a rule %bee-ca in %bees:
 
 > Bees exist on a square lattice called the "Bee Grid". The Bee Grid is static while bees are not deployed. The Bee Grid runs a cellular automaton called The Bee Automaton, which moves by one generation per Bee Poll submitted. The Bee Automaton contains two states: "bee" and "???". Bees neighboring other bees behave exactly as in the Game of Life. "???" neighboring bees or other "???" are contingent on ZFC's consistency.
 
+<a name='215'/>
+
+## #215
+
+i propose to ban the bot called g
+
