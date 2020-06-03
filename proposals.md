@@ -1699,3 +1699,9 @@ Create a rule "Bee Poll" (%bee-poll) in %polls:
 
 Due to the passage of proposal #207, bees are to be considered "deployed" initially.
 
+<a name='214'/>
+
+## #214
+
+Bee behavior when deployed while no bee poll is active is a model of a CA which is exactly like Conway's Game of Life, except for the addition of a second state whose behavior will be defined in future proposals, which makes the automaton uncomputable.
+
