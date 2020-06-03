@@ -3095,9 +3095,19 @@
 			"message_id": 717821347493052447,
 			"votes": {
 				"151149148639330304": 1,
-				"258639553357676545": 1
+				"258639553357676545": 1,
+				"543131534685765673": 1
 			},
 			"timestamp": 1591208745
+		},
+		{
+			"n": 214,
+			"author": 543131534685765673,
+			"content": "Bee behavior when deployed while no bee poll is active is a model of a CA which is exactly like Conway's Game of Life, except for the addition of a second state whose behavior will be defined in future proposals, which makes the automaton uncomputable.",
+			"status": "voting",
+			"message_id": 717829369426477066,
+			"votes": {},
+			"timestamp": 1591210658
 		}
 	]
 }
