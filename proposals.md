@@ -1731,3 +1731,34 @@ Replace the contents of %bees with:
 This proposal depends on Proposal #9.
 <@!151149148639330304> wins the game, and the game ends.
 
+<a name='219'/>
+
+## #219
+
+Append the following to %bees:
+The deployment status of bees (deployed or not deployed) is considered part of the Game State.
+
+Rename %bees-1 ("Bee utilization part 1") to "Bee Actions" and move it to %bee-actions.
+Replace the contents of %bee-actions with:
+> Bee actions are actions triggered when a bee poll passes (see [%bee-polls]).
+> 
+> Bee actions are one of two types: "active" or "inactive". When triggered, active bee actions will have no effect if bees are not deployed, and inactive bee actions will have no effect if bees are deployed.
+> 
+> Arguments are values supplied to bee actions when required to customize their effects. A bee action can require any types of arguments in any order. Arguments can be of type Player (a Quonauts player), String (a piece of text), or Number (a numeric value). If a bee actions specifies a default value for an argument, the default value can be supplied by omitting the argument.
+> 
+> Inactive bee actions:
+> * Bee Deployment : bees become deployed.
+> Active bee actions:
+> 
+> * Bee Cessation: bees become un-deployed (not deployed).
+> * Bee Sting (Player) : `Player` loses 1 of quantity points if they have more than 0 points.
+
+Replace the contents of %bee-polls with:
+> Bee polls are used to trigger bee actions (see [%bee-actions]) when passed. A bee poll must state that it is a bee poll, must describe a bee action, and must list the arguments (in order) to be supplied to it.
+> 
+> Permitted reactions for a bee poll are 👍 (representing a vote for the poll) and 👎 (representing a vote against it). Players may make multiple, distinct votes on a bee poll.
+> 
+> A player may close a bee poll if it is at least 12 hours old.
+> 
+> When a bee poll passes, the bee action it describes is triggered using the bee arguments it lists.
+
