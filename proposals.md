@@ -1722,9 +1722,7 @@ Replace the contents of %bees with:
 
 <a name='217'/>
 
-## #217
-
-Replace all occurrences of "if and only if" in %dependency-resolution with "if".
+## #217 — Deleted
 
 <a name='218'/>
 
