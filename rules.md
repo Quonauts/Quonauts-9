@@ -100,13 +100,11 @@ In a rule violation poll, the following reactions are permitted:
 • 🤷: In favour of the poll, but against of a strike.
 • 👎: Against the poll, and against a strike.
 
-In a rule violation poll, any votes cast by the accused player are ignored.
+In a rule violation poll, any votes cast by the accused player or the author are ignored.
 
 If the poll passes, the rule violation and its consequences must be reverted.
 
 If the poll passes and more players are in favour of a strike (👍 reactions) than against (🤷 and 👎 reactions), the accused player may not perform any game actions for the next 24 hours.
-
-In a rule violation poll, the author cannot vote.
 
 ### <a name='timezones'/> Timezones
 
