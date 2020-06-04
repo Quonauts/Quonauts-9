@@ -1726,3 +1726,10 @@ Replace the contents of %bees with:
 
 Replace all occurrences of "if and only if" in %dependency-resolution with "if".
 
+<a name='218'/>
+
+## #218
+
+This proposal depends on Proposal #9.
+<@!151149148639330304> wins the game, and the game ends.
+
