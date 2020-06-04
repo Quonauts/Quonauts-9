@@ -1720,3 +1720,9 @@ i propose to ban the bot called g
 Replace the contents of %bees with:
 > buzz buzz bz buzz, bz, buzz.
 
+<a name='217'/>
+
+## #217
+
+Replace all occurrences of "if and only if" in %dependency-resolution with "if".
+
