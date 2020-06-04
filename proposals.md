@@ -1631,7 +1631,7 @@ to
 
 <a name='205'/>
 
-## #205
+## #205 — Passed
 
 Replace the following in %rule-violation-polls:
 > In a rule violation poll, any votes cast by the accused player are ignored.
