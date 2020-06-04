@@ -1762,3 +1762,9 @@ Replace the contents of %bee-polls with:
 > 
 > When a bee poll passes, the bee action it describes is triggered using the bee arguments it lists.
 
+<a name='220'/>
+
+## #220
+
+This proposal depends on the next failed proposal. Heav wins.
+
