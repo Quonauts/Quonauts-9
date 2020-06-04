@@ -3153,7 +3153,7 @@
 			"n": 217,
 			"author": 151149148639330304,
 			"content": "Replace all occurrences of \"if and only if\" in %dependency-resolution with \"if\".",
-			"status": "voting",
+			"status": "deleted",
 			"message_id": 717903895673700382,
 			"votes": {
 				"151149148639330304": 1
@@ -3167,7 +3167,8 @@
 			"status": "voting",
 			"message_id": 717904141879345665,
 			"votes": {
-				"151149148639330304": 1
+				"151149148639330304": 1,
+				"331320482047721472": 0
 			},
 			"timestamp": 1591228486
 		}
