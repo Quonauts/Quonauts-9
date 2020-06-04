@@ -1621,7 +1621,7 @@ All rules that apply to Proposal #9 apply to Proposal #194.
 
 <a name='204'/>
 
-## #204
+## #204 — Failed
 
 Edit %rule-violation-polls:
 Change
