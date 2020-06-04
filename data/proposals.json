@@ -2956,7 +2956,7 @@
 			"n": 204,
 			"author": 309787486278909952,
 			"content": "Edit %rule-violation-polls:\nChange\n> In a rule violation poll, the author cannot vote.\nto\n> In a rule violation poll, any votes cast by the author are ignored.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 717404789151105058,
 			"votes": {
 				"151149148639330304": -1,
@@ -2971,7 +2971,7 @@
 			"n": 205,
 			"author": 151149148639330304,
 			"content": "Replace the following in %rule-violation-polls:\n> In a rule violation poll, any votes cast by the accused player are ignored.\nwith:\n> In a rule violation poll, any votes cast by the accused player or the author are ignored.\n\nRemove the following from %rule-violation-polls:\n> In a rule violation poll, the author cannot vote.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 717405046400352347,
 			"votes": {
 				"151149148639330304": 1,
@@ -3175,6 +3175,8 @@
 				"160279332454006795": -1,
 				"172341537789837312": -1,
 				"258639553357676545": -1,
+				"274720069395808268": 1,
+				"311467257643532288": 1,
 				"331320482047721472": 0,
 				"421060058009305088": -1
 			},
@@ -3191,6 +3193,8 @@
 				"160279332454006795": -1,
 				"172341537789837312": 0,
 				"258639553357676545": -1,
+				"274720069395808268": 1,
+				"311467257643532288": 1,
 				"421060058009305088": 1
 			},
 			"timestamp": 1591231133
@@ -3205,6 +3209,7 @@
 				"151149148639330304": -1,
 				"160279332454006795": 1,
 				"258639553357676545": -1,
+				"311467257643532288": 1,
 				"421060058009305088": -1
 			},
 			"timestamp": 1591261548
