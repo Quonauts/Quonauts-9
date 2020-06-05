@@ -1643,7 +1643,7 @@ Remove the following from %rule-violation-polls:
 
 <a name='206'/>
 
-## #206
+## #206 — Failed
 
 All active players are to have their nicknames changed to begin with the character `g` (g U+0067 LATIN SMALL LETTER G) or `h` (h U+0068 LATIN SMALL LETTER H).
 
