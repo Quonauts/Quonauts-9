@@ -2985,7 +2985,7 @@
 			"n": 206,
 			"author": 258639553357676545,
 			"content": "All active players are to have their nicknames changed to begin with the character `g` (g U+0067 LATIN SMALL LETTER G) or `h` (h U+0068 LATIN SMALL LETTER H).",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 717747763902676993,
 			"votes": {
 				"151149148639330304": -1,
@@ -3231,6 +3231,7 @@
 			"status": "voting",
 			"message_id": 718389805574258729,
 			"votes": {
+				"151149148639330304": 0,
 				"160279332454006795": 0,
 				"258639553357676545": -1,
 				"309787486278909952": 0,
