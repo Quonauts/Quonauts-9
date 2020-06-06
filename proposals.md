@@ -1733,7 +1733,7 @@ This proposal depends on Proposal #9.
 
 <a name='219'/>
 
-## #219
+## #219 — Passed
 
 Append the following to %bees:
 The deployment status of bees (deployed or not deployed) is considered part of the Game State.
