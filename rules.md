@@ -417,5 +417,16 @@ The deployment status of bees (deployed or not deployed) is considered part of t
 
 ### <a name='bee-actions'/> Bee Actions
 
-The deployment status of bees is considered part of the Game State. No bee action (except for bee deployment) may be taken unless bees are currently deployed. Bee actions include deployment of bees, which makes bees become deployed, cessation of bees, which makes bees not be deployed, and use of bees against a player. The player bees are to be used against must be indicated in the Bee Poll authorizing this action. Use of bees against players causes their Points quantity to be reduced by 1, unless it is already 0, in which case there is no effect.
+Bee actions are actions triggered when a bee poll passes (see [%bee-polls]).
+
+Bee actions are one of two types: "active" or "inactive". When triggered, active bee actions will have no effect if bees are not deployed, and inactive bee actions will have no effect if bees are deployed.
+
+Arguments are values supplied to bee actions when required to customize their effects. A bee action can require any types of arguments in any order. Arguments can be of type Player (a Quonauts player), String (a piece of text), or Number (a numeric value). If a bee actions specifies a default value for an argument, the default value can be supplied by omitting the argument.
+
+Inactive bee actions:
+* Bee Deployment : bees become deployed.
+Active bee actions:
+
+* Bee Cessation: bees become un-deployed (not deployed).
+* Bee Sting (Player) : Player loses 1 of quantity points if they have more than 0 points.
 
