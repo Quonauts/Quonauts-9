@@ -431,8 +431,8 @@ Arguments are values supplied to bee actions when required to customize their ef
 
 Inactive bee actions:
 * Bee Deployment : bees become deployed.
-Active bee actions:
 
+Active bee actions:
 * Bee Cessation: bees become un-deployed (not deployed).
 * Bee Sting (Player) : Player loses 1 of quantity points if they have more than 0 points.
 
