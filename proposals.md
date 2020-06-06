@@ -1672,7 +1672,7 @@ Give all of SoundOfSpouting and Gibson's points to Heavpoot. SoundOfSpouting and
 
 <a name='211'/>
 
-## #211
+## #211 — Failed
 
 Add a new rule: %wait-a-minute:
 > if heavpoot wins and it would cause the game to end, as a special case, the game does not end until another player wins.
