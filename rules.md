@@ -417,7 +417,7 @@ The deployment status of bees (deployed or not deployed) is considered part of t
 
 ### <a name='bee-actions'/> Bee Actions
 
-Bee actions are actions triggered when a bee poll passes (see [%bee-polls]).
+Bee actions are actions triggered when a bee poll passes (see [**2.4.2. Bee Poll**](#bee-poll)).
 
 Bee actions are one of two types: "active" or "inactive". When triggered, active bee actions will have no effect if bees are not deployed, and inactive bee actions will have no effect if bees are deployed.
 
