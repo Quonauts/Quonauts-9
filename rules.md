@@ -281,7 +281,13 @@ An opinion poll may only be created if and only if no other opinion poll by that
 
 #### <a name='bee-poll'/> Bee Poll
 
-A Bee Poll is required to authorize bees to perform actions, as described in %bees. The default allowed reactions for a Bee Poll are 👍 (representing a vote for) and 👎 (representing a vote against). Bee Polls may be closed if they have existed for 12 hours or more, rather than the usual 24. If a Bee Poll is passed, the action it describes is taken. Players are permitted to use multiple reactions on a Bee Poll. A Bee Poll must clearly indicate that it is a Bee Poll.
+Bee polls are used to trigger bee actions (see [**13.1. Bee Actions**](#bee-actions)) when passed. A bee poll must state that it is a bee poll, must describe a bee action, and must list the arguments (in order) to be supplied to it.
+
+Permitted reactions for a bee poll are 👍 (representing a vote for the poll) and 👎 (representing a vote against it). Players may make multiple, distinct votes on a bee poll.
+
+A player may close a bee poll if it is at least 12 hours old.
+
+When a bee poll passes, the bee action it describes is triggered using the bee arguments it lists.
 
 ### <a name='transactions'/> #transactions
 
