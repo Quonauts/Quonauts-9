@@ -1764,7 +1764,7 @@ Replace the contents of %bee-polls with:
 
 <a name='220'/>
 
-## #220
+## #220 — Failed
 
 This proposal depends on the next failed proposal. Heav wins.
 
