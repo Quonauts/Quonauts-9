@@ -1666,7 +1666,7 @@ flowers are to be pollinated IMMEDIATELY.
 
 <a name='210'/>
 
-## #210
+## #210 — Failed
 
 Give all of SoundOfSpouting and Gibson's points to Heavpoot. SoundOfSpouting and Gibson are immune to bees.
 
