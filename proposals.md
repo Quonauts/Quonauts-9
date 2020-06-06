@@ -1715,7 +1715,7 @@ i propose to ban the bot called g
 
 <a name='216'/>
 
-## #216
+## #216 — Passed
 
 Replace the contents of %bees with:
 > buzz buzz bz buzz, bz, buzz.
