@@ -1680,7 +1680,7 @@ This proposal depends on #210
 
 <a name='212'/>
 
-## #212
+## #212 — Passed
 
 Replace the following in %opinion-polls:
 > Players may conduct polls to informally gather opinions about any game relevant topic, called "opinion polls".
