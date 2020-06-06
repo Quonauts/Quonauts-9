@@ -51,7 +51,7 @@
 * [**11. SoundOfSpouting spam protection**](#soundofspoutingspamprotection)
 * [**12. ðß&ÆN&ŁÐĦđ³]¶}ÆŁ°E®Ł£°®±£°¼±⅛£¿°§ªÐNª§&ÐN>ª&>Nª©&©™±ΩN⅛±NªN&Æ§ÐN§&NN ©&<>©N£±E®N¡±**](#proposal-171)
 * [**13. Bees**](#bees)
-    * [**13.1. Bee utilization part 1**](#bees-1)
+    * [**13.1. Bee Actions**](#bees-1)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -415,7 +415,7 @@ buzz buzz bz buzz, bz, buzz.
 
 The deployment status of bees (deployed or not deployed) is considered part of the Game State.
 
-### <a name='bees-1'/> Bee utilization part 1
+### <a name='bees-1'/> Bee Actions
 
 The deployment status of bees is considered part of the Game State. No bee action (except for bee deployment) may be taken unless bees are currently deployed. Bee actions include deployment of bees, which makes bees become deployed, cessation of bees, which makes bees not be deployed, and use of bees against a player. The player bees are to be used against must be indicated in the Bee Poll authorizing this action. Use of bees against players causes their Points quantity to be reduced by 1, unless it is already 0, in which case there is no effect.
 
