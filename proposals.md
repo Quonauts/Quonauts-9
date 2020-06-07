@@ -1792,3 +1792,12 @@ Heav becomes a Bee Attractor: every bee poll which would involve a bee sting aga
 
 mash some bananas
 
+<a name='225'/>
+
+## #225
+
+Add a new rule named "Birth":
+> If an empty space has exactly 3 neighbors, it becomes a cell.
+Add a new rule named "Survival":
+> If a cell has 2 or 3 neighbors, it stays a cell, otherwise becomes an empty space.
+
