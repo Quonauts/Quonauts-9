@@ -1780,3 +1780,9 @@ poop
 
 Each player gains an amount of points equal to the sixth digit (from the left) of their Discord User ID.
 
+<a name='223'/>
+
+## #223
+
+Heav becomes a Bee Attractor: every bee poll which would involve a bee sting against Heav automatically succeeds\
+
