@@ -1774,3 +1774,9 @@ This proposal depends on the next failed proposal. Heav wins.
 
 poop
 
+<a name='222'/>
+
+## #222
+
+Each player gains an amount of points equal to the sixth digit (from the left) of their Discord User ID.
+
