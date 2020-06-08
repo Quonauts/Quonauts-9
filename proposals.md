@@ -1801,3 +1801,9 @@ Add a new rule named "Birth":
 Add a new rule named "Survival":
 > If a cell has 2 or 3 neighbors, it stays a cell, otherwise becomes an empty space.
 
+<a name='226'/>
+
+## #226
+
+This proposal depends on the next proposal to be passed since this proposal's creation. Heav wins.
+
