@@ -1709,7 +1709,7 @@ Create a rule %bee-ca in %bees:
 
 <a name='215'/>
 
-## #215
+## #215 — Passed
 
 i propose to ban the bot called g
 
