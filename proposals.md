@@ -1770,7 +1770,7 @@ This proposal depends on the next failed proposal. Heav wins.
 
 <a name='221'/>
 
-## #221
+## #221 — Failed
 
 poop
 
