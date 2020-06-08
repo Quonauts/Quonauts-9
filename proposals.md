@@ -1815,3 +1815,10 @@ leaf wins, for banning quobot lol
 
 replace SoundOfSpouting with the rules to the card game UNO
 
+<a name='228'/>
+
+## #228
+
+change every instance of "quantity" in the rules to "quality"
+the author of this proposal gets no points if it is passed
+
