@@ -1828,3 +1828,10 @@ the author of this proposal gets no points if it is passed
 
 The passing of Proposal #230 was legal
 
+<a name='230'/>
+
+## #230
+
+The passing of Proposal #229 was legal
+Would this be a heav-style loophole (if it were implemented correctly)?
+
