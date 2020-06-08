@@ -1807,3 +1807,11 @@ Add a new rule named "Survival":
 
 This proposal depends on the next proposal to be passed since this proposal's creation. Heav wins.
 
+<a name='227'/>
+
+## #227
+
+leaf wins, for banning quobot lol
+
+replace SoundOfSpouting with the rules to the card game UNO
+
