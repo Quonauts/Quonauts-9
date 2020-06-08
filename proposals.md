@@ -1822,3 +1822,9 @@ replace SoundOfSpouting with the rules to the card game UNO
 change every instance of "quantity" in the rules to "quality"
 the author of this proposal gets no points if it is passed
 
+<a name='229'/>
+
+## #229
+
+The passing of Proposal #230 was legal
+
