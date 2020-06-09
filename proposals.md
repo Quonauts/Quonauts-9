@@ -1875,3 +1875,25 @@ Replace section %forbidden-actions with
 
 they don't think it be like it is but it do
 
+<a name='236'/>
+
+## #236
+
+Change the contents of %voting-on-proposals to:
+> Each player may cast one vote on each open proposal.
+> 
+> Players may vote in favour of (vote "for") a proposal by reacting to the proposal with 👍, vote against by reacting with 👎, or abstain from voting by reacting with 🤷. They may also "twist" the voting by reacting with ♋.
+> 
+> A player may change their vote on an open proposal at any time.
+Change the contents of %passing-and-failing-proposals to:
+> If a proposal has exactly as many people who voted to twist as people who abstained, and the amount who voted to twist is nonzero, votes "for" are counted as votes "contrary" and votes against are counted as votes "in favor". Otherwise votes "for" are counted as votes "in favor" and votes "against" are counted as votes "contrary".
+> When a proposal is closed, it passes if and only if it has more votes in favour than contrary; otherwise, it fails.
+> 
+> The player that authored a proposal may fail it at any time if it is open.
+> 
+> After a proposal passes, the game state and game rules change are modified according to it. The player who passed it must carry out the effects of its passing to the best of their ability.
+> 
+> The rules may only change as the result of a proposal passing, legally.
+> 
+> The state of a proposal may not be directly changed from passed to failed, or directly from failed to passed. A closed proposal may not be deleted.
+
