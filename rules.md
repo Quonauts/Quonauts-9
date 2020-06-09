@@ -52,6 +52,7 @@
 * [**12. ðß&ÆN&ŁÐĦđ³]¶}ÆŁ°E®Ł£°®±£°¼±⅛£¿°§ªÐNª§&ÐN>ª&>Nª©&©™±ΩN⅛±NªN&Æ§ÐN§&NN ©&<>©N£±E®N¡±**](#proposal-171)
 * [**13. Bees**](#bees)
     * [**13.1. Bee Actions**](#bee-actions)
+* [**14. Birth**](#birth)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -435,4 +436,8 @@ Inactive bee actions:
 Active bee actions:
 * Bee Cessation: bees become un-deployed (not deployed).
 * Bee Sting (Player) : Player loses 1 of quantity points if they have more than 0 points.
+
+## <a name='birth'/> Birth
+
+If an empty space has exactly 3 neighbors, it becomes a cell.
 
