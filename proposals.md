@@ -1853,3 +1853,12 @@ Edit %opinion-polls, changing
 to
 > By default, the allowed reactions of an opinion poll are 👍, 👎, 🌵 and 🦀, but the opinion poll may specify different allowed reactions for itself.
 
+<a name='233'/>
+
+## #233
+
+Edit %winning, changing
+> When one or more players have reached 100 points, they win and the game ends.
+to
+> When two or more players have reached 128 points, they win and the game ends.
+
