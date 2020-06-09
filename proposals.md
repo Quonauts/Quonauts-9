@@ -2013,7 +2013,7 @@ Change the contents of %passing-and-failing-proposals to:
 
 <a name='256'/>
 
-## #256
+## #256 — Failed
 
 .
 
