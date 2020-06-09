@@ -1794,7 +1794,7 @@ mash some bananas
 
 <a name='225'/>
 
-## #225
+## #225 — Passed
 
 Add a new rule named "Birth":
 > If an empty space has exactly 3 neighbors, it becomes a cell.
