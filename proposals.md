@@ -1844,3 +1844,12 @@ Edit %winning, changing
 to
 > When one or more players have reached 80 points, they win and the game ends.
 
+<a name='232'/>
+
+## #232
+
+Edit %opinion-polls, changing
+> By default, the allowed reactions of an opinion poll are 👍 and 👎, but the opinion poll may specify different allowed reactions for itself.
+to
+> By default, the allowed reactions of an opinion poll are 👍, 👎, 🌵 and 🦀, but the opinion poll may specify different allowed reactions for itself.
+
