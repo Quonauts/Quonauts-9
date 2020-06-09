@@ -1726,7 +1726,7 @@ Replace the contents of %bees with:
 
 <a name='218'/>
 
-## #218 — Passed
+## #218 — Failed
 
 This proposal depends on Proposal #9.
 <@!151149148639330304> wins the game, and the game ends.
