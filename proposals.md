@@ -1862,3 +1862,10 @@ Edit %winning, changing
 to
 > When two or more players have reached 128 points, they win and the game ends.
 
+<a name='234'/>
+
+## #234
+
+Replace section %forbidden-actions with
+> Unless explicitly stated in the rules, all game actions are permitted. This applies retroactively.
+
