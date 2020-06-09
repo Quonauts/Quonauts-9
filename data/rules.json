@@ -8,39 +8,49 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				714060019208814632
+				719520032413188136
+			]
+		},
+		"bee-actions": {
+			"tag": "bee-actions",
+			"title": "Bee Actions",
+			"content": "Bee actions are actions triggered when a bee poll passes (see [%bee-poll]).\n\nBee actions are one of two types: \"active\" or \"inactive\". When triggered, active bee actions will have no effect if bees are not deployed, and inactive bee actions will have no effect if bees are deployed.\n\nArguments are values supplied to bee actions when required to customize their effects. A bee action can require any types of arguments in any order. Arguments can be of type Player (a Quonauts player), String (a piece of text), or Number (a numeric value). If a bee actions specifies a default value for an argument, the default value can be supplied by omitting the argument.\n\nInactive bee actions:\n* Bee Deployment : bees become deployed.\n\nActive bee actions:\n* Bee Cessation: bees become un-deployed (not deployed).\n* Bee Sting (Player) : Player loses 1 of quantity points if they have more than 0 points.",
+			"parent_tag": "bees",
+			"child_tags": [],
+			"message_ids": [
+				719520233177481318
 			]
 		},
 		"bee-poll": {
 			"tag": "bee-poll",
 			"title": "Bee Poll",
-			"content": "A Bee Poll is required to authorize bees to perform actions, as described in %bees. The default allowed reactions for a Bee Poll are \ud83d\udc4d (representing a vote for) and \ud83d\udc4e (representing a vote against). Bee Polls may be closed if they have existed for 12 hours or more, rather than the usual 24. If a Bee Poll is passed, the action it describes is taken. Players are permitted to use multiple reactions on a Bee Poll. A Bee Poll must clearly indicate that it is a Bee Poll.",
+			"content": "Bee polls are used to trigger bee actions (see [%bee-actions]) when passed. A bee poll must state that it is a bee poll, must describe a bee action, and must list the arguments (in order) to be supplied to it.\n\nPermitted reactions for a bee poll are \ud83d\udc4d (representing a vote for the poll) and \ud83d\udc4e (representing a vote against it). Players may make multiple, distinct votes on a bee poll.\n\nA player may close a bee poll if it is at least 12 hours old.\n\nWhen a bee poll passes, the bee action it describes is triggered using the bee arguments it lists.",
 			"parent_tag": "polls",
 			"child_tags": [],
 			"message_ids": [
-				717866067782926346
+				719520141385400421
 			]
 		},
 		"bees": {
 			"tag": "bees",
 			"title": "Bees",
-			"content": "\u2064",
+			"content": "buzz buzz bz buzz, bz, buzz.\n\nThe deployment status of bees (deployed or not deployed) is considered part of the Game State.",
 			"parent_tag": "root",
 			"child_tags": [
-				"bees-1"
+				"bee-actions"
 			],
 			"message_ids": [
-				717866155489886270
+				719520232368242778
 			]
 		},
-		"bees-1": {
-			"tag": "bees-1",
-			"title": "Bee utilization part 1",
-			"content": "The deployment status of bees is considered part of the Game State. No bee action (except for bee deployment) may be taken unless bees are currently deployed. Bee actions include deployment of bees, which makes bees become deployed, cessation of bees, which makes bees not be deployed, and use of bees against a player. The player bees are to be used against must be indicated in the Bee Poll authorizing this action. Use of bees against players causes their Points quantity to be reduced by 1, unless it is already 0, in which case there is no effect.",
-			"parent_tag": "bees",
+		"birth": {
+			"tag": "birth",
+			"title": "Birth",
+			"content": "If an empty space has exactly 3 neighbors, it becomes a cell.",
+			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				717866156538462309
+				719969707746132019
 			]
 		},
 		"bots": {
@@ -50,7 +60,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				714060040834908211
+				719520055322476665
 			]
 		},
 		"channels": {
@@ -67,7 +77,7 @@
 				"the-land"
 			],
 			"message_ids": [
-				714060063245074472
+				719520076629278791
 			]
 		},
 		"claiming-land": {
@@ -77,7 +87,7 @@
 			"parent_tag": "land-actions",
 			"child_tags": [],
 			"message_ids": [
-				717866112959774808
+				719520188936093706
 			]
 		},
 		"closing-proposals": {
@@ -89,7 +99,7 @@
 				"passing-and-failing-proposals"
 			],
 			"message_ids": [
-				714060104529477704
+				719520117381398549
 			]
 		},
 		"conflict-resolution": {
@@ -99,7 +109,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				714060084547682356
+				719520098553036800
 			]
 		},
 		"content": {
@@ -109,7 +119,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				714060043510874132
+				719520056886820914
 			]
 		},
 		"deleting-proposals": {
@@ -119,7 +129,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				714060106542743552
+				719520119830872104
 			]
 		},
 		"dependency-resolution": {
@@ -129,7 +139,7 @@
 			"parent_tag": "proposal-content",
 			"child_tags": [],
 			"message_ids": [
-				714060085537538059
+				719520098896969731
 			]
 		},
 		"editing-proposals": {
@@ -139,7 +149,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				714060107494719488
+				719520120451367013
 			]
 		},
 		"forbidden-actions": {
@@ -149,7 +159,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				714060020739735572
+				719520034149630084
 			]
 		},
 		"formatting": {
@@ -159,7 +169,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				714060062569660416
+				719520075564056597
 			]
 		},
 		"general": {
@@ -169,7 +179,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				714060063664504863
+				719520077396967464
 			]
 		},
 		"glossary": {
@@ -179,7 +189,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				714060018349244486
+				719520030995251331
 			]
 		},
 		"headers-and-tags": {
@@ -189,7 +199,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				714060060950659102
+				719520074091986986
 			]
 		},
 		"iuashipg8f796765ugtjjjjjjfttttttttttttttttttttttttttttttytftyighf": {
@@ -199,7 +209,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				717866133222326392
+				719520210213797928
 			]
 		},
 		"land": {
@@ -211,7 +221,7 @@
 				"land-actions"
 			],
 			"message_ids": [
-				717866092743098511
+				719520185962201146
 			]
 		},
 		"land-actions": {
@@ -226,7 +236,7 @@
 				"producing-goods"
 			],
 			"message_ids": [
-				717866093703594034
+				719520186717306921
 			]
 		},
 		"land-movement": {
@@ -236,7 +246,7 @@
 			"parent_tag": "land-actions",
 			"child_tags": [],
 			"message_ids": [
-				717866111298699335
+				719520187191132171
 			]
 		},
 		"lists": {
@@ -246,7 +256,7 @@
 			"parent_tag": "style-conventions",
 			"child_tags": [],
 			"message_ids": [
-				714060061453975624
+				719520075018928248
 			]
 		},
 		"meta-rules": {
@@ -265,7 +275,7 @@
 				"style-conventions"
 			],
 			"message_ids": [
-				714060017468309524
+				719520030445797486
 			]
 		},
 		"never-another-sinthorion": {
@@ -275,7 +285,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				717866134728212531
+				719520211874611261
 			]
 		},
 		"obtaining-points": {
@@ -285,7 +295,7 @@
 			"parent_tag": "quantities",
 			"child_tags": [],
 			"message_ids": [
-				717866071591223356
+				719520164982554657
 			]
 		},
 		"odd-perfects": {
@@ -295,17 +305,17 @@
 			"parent_tag": "perfects",
 			"child_tags": [],
 			"message_ids": [
-				717866091761893449
+				719520167738212373
 			]
 		},
 		"opinion-polls": {
 			"tag": "opinion-polls",
 			"title": "Opinion polls",
-			"content": "Players may conduct polls to informally gather opinions about any game relevant topic, called \"opinion polls\".\n\nAn opinion poll may only be created if and only if no other opinion poll by that player is currently open. By default, the allowed reactions of an opinion poll are \ud83d\udc4d and \ud83d\udc4e, but the opinion poll may specify different allowed reactions for itself.",
+			"content": "Players may conduct polls to informally gather opinions about any game relevant topic, called \"opinion polls\". An opinion poll must be clearly labeled as such.\n\nAn opinion poll may only be created if and only if no other opinion poll by that player is currently open. By default, the allowed reactions of an opinion poll are \ud83d\udc4d and \ud83d\udc4e, but the opinion poll may specify different allowed reactions for itself.",
 			"parent_tag": "polls",
 			"child_tags": [],
 			"message_ids": [
-				714060127409274931
+				719520140500402177
 			]
 		},
 		"passing-and-failing-proposals": {
@@ -315,7 +325,7 @@
 			"parent_tag": "closing-proposals",
 			"child_tags": [],
 			"message_ids": [
-				714060105586311259
+				719520118769451039
 			]
 		},
 		"perfects": {
@@ -327,7 +337,7 @@
 				"odd-perfects"
 			],
 			"message_ids": [
-				717866090679500880
+				719520166907478048
 			]
 		},
 		"polls": {
@@ -340,7 +350,7 @@
 				"bee-poll"
 			],
 			"message_ids": [
-				714060126658756648
+				719520139216683040
 			]
 		},
 		"precedence": {
@@ -350,7 +360,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				714060019926302730
+				719520033327546440
 			]
 		},
 		"producing-goods": {
@@ -360,7 +370,7 @@
 			"parent_tag": "land-actions",
 			"child_tags": [],
 			"message_ids": [
-				717866113559691415
+				719520207613329450
 			]
 		},
 		"proposal-171": {
@@ -370,7 +380,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				717866154919461086
+				719520231474856026
 			]
 		},
 		"proposal-9": {
@@ -380,7 +390,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				717866114624782377
+				719520209362485318
 			]
 		},
 		"proposal-content": {
@@ -393,7 +403,7 @@
 				"dependency-resolution"
 			],
 			"message_ids": [
-				714060083415220255
+				719520097122779138
 			]
 		},
 		"proposals": {
@@ -409,7 +419,7 @@
 				"editing-proposals"
 			],
 			"message_ids": [
-				714060082551324675
+				719520095772344402
 			]
 		},
 		"quantities": {
@@ -422,7 +432,7 @@
 				"tree"
 			],
 			"message_ids": [
-				717866070114959482
+				719520164013670432
 			]
 		},
 		"root": {
@@ -443,13 +453,15 @@
 				"stop-pinging-us-man",
 				"soundofspoutingspamprotection",
 				"proposal-171",
-				"bees"
+				"bees",
+				"birth",
+				"survival"
 			],
 			"message_ids": [
-				717866157000097904,
-				717866158254194751,
-				717866176822247515,
-				717866178432729128
+				719969794597847090,
+				719969795243769907,
+				719969796367581224,
+				719969797114167348
 			]
 		},
 		"rule-violation-polls": {
@@ -459,7 +471,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				714060039203061830
+				719520052776402964
 			]
 		},
 		"rules": {
@@ -469,7 +481,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				714060108434374686
+				719520120984174673
 			]
 		},
 		"soundofspoutingspamprotection": {
@@ -479,7 +491,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				717866137555304459
+				719520230602178601
 			]
 		},
 		"stop-pinging-us-man": {
@@ -489,7 +501,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				717866136427036703
+				719520229805391912
 			]
 		},
 		"style-conventions": {
@@ -504,7 +516,17 @@
 				"formatting"
 			],
 			"message_ids": [
-				714060041807855637
+				719520056085577739
+			]
+		},
+		"survival": {
+			"tag": "survival",
+			"title": "Survival",
+			"content": "If a cell has 2 or 3 neighbors, it stays a cell, otherwise becomes an empty space.",
+			"parent_tag": "root",
+			"child_tags": [],
+			"message_ids": [
+				719969793410728078
 			]
 		},
 		"the-land": {
@@ -514,7 +536,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				717866069154463796
+				719520144291921970
 			]
 		},
 		"timezones": {
@@ -524,7 +546,7 @@
 			"parent_tag": "meta-rules",
 			"child_tags": [],
 			"message_ids": [
-				714060040021213265
+				719520053959196813
 			]
 		},
 		"trade": {
@@ -534,7 +556,7 @@
 			"parent_tag": "land-actions",
 			"child_tags": [],
 			"message_ids": [
-				717866111764267200
+				719520187837186059
 			]
 		},
 		"transactions": {
@@ -544,7 +566,7 @@
 			"parent_tag": "channels",
 			"child_tags": [],
 			"message_ids": [
-				717866068538032168
+				719520142605942865
 			]
 		},
 		"tree": {
@@ -554,7 +576,7 @@
 			"parent_tag": "quantities",
 			"child_tags": [],
 			"message_ids": [
-				717866089786245128
+				719520165909233767
 			]
 		},
 		"voting-on-proposals": {
@@ -564,7 +586,7 @@
 			"parent_tag": "proposals",
 			"child_tags": [],
 			"message_ids": [
-				714060086380855338
+				719520100184490037
 			]
 		},
 		"winning": {
@@ -574,7 +596,7 @@
 			"parent_tag": "root",
 			"child_tags": [],
 			"message_ids": [
-				717866133964849244
+				719520210972835930
 			]
 		}
 	}

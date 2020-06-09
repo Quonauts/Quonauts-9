@@ -3018,7 +3018,7 @@
 			"n": 208,
 			"author": 421060058009305088,
 			"content": "This proposal depends on #208.\nflowers are to be pollinated IMMEDIATELY.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 717798131710033950,
 			"votes": {
 				"151149148639330304": -1,
@@ -3049,7 +3049,7 @@
 			"n": 210,
 			"author": 309787486278909952,
 			"content": "Give all of SoundOfSpouting and Gibson's points to Heavpoot. SoundOfSpouting and Gibson are immune to bees.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 717800158892523651,
 			"votes": {
 				"151149148639330304": -1,
@@ -3067,7 +3067,7 @@
 			"n": 211,
 			"author": 421060058009305088,
 			"content": "Add a new rule: %wait-a-minute:\n> if heavpoot wins and it would cause the game to end, as a special case, the game does not end until another player wins.\nThis proposal depends on #210",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 717800829737762888,
 			"votes": {
 				"151149148639330304": -1,
@@ -3082,7 +3082,7 @@
 			"n": 212,
 			"author": 151149148639330304,
 			"content": "Replace the following in %opinion-polls:\n> Players may conduct polls to informally gather opinions about any game relevant topic, called \"opinion polls\".\nwith:\n> Players may conduct polls to informally gather opinions about any game relevant topic, called \"opinion polls\". An opinion poll must be clearly labeled as such.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 717820388913971222,
 			"votes": {
 				"151149148639330304": 1,
@@ -3113,7 +3113,7 @@
 			"n": 214,
 			"author": 543131534685765673,
 			"content": "Create a rule %bee-ca in %bees:\n\n> Bees exist on a square lattice called the \"Bee Grid\". The Bee Grid is static while bees are not deployed. The Bee Grid runs a cellular automaton called The Bee Automaton, which moves by one generation per Bee Poll submitted. The Bee Automaton contains two states: \"bee\" and \"???\". Bees neighboring other bees behave exactly as in the Game of Life. \"???\" neighboring bees or other \"???\" are contingent on ZFC's consistency.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 717829369426477066,
 			"votes": {
 				"151149148639330304": -1,
@@ -3129,7 +3129,7 @@
 			"n": 215,
 			"author": 172341537789837312,
 			"content": "i propose to ban the bot called g",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 717867418810056795,
 			"votes": {
 				"151149148639330304": -1,
@@ -3147,7 +3147,7 @@
 			"n": 216,
 			"author": 151149148639330304,
 			"content": "Replace the contents of %bees with:\n> buzz buzz bz buzz, bz, buzz.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 717870607961817088,
 			"votes": {
 				"151149148639330304": 1,
@@ -3185,6 +3185,7 @@
 				"274720069395808268": 1,
 				"311467257643532288": 1,
 				"331320482047721472": 0,
+				"353513054912249856": 1,
 				"364562317645709336": -1,
 				"421060058009305088": -1
 			},
@@ -3194,7 +3195,7 @@
 			"n": 219,
 			"author": 151149148639330304,
 			"content": "Append the following to %bees:\nThe deployment status of bees (deployed or not deployed) is considered part of the Game State.\n\nRename %bees-1 (\"Bee utilization part 1\") to \"Bee Actions\" and move it to %bee-actions.\nReplace the contents of %bee-actions with:\n> Bee actions are actions triggered when a bee poll passes (see [%bee-polls]).\n> \n> Bee actions are one of two types: \"active\" or \"inactive\". When triggered, active bee actions will have no effect if bees are not deployed, and inactive bee actions will have no effect if bees are deployed.\n> \n> Arguments are values supplied to bee actions when required to customize their effects. A bee action can require any types of arguments in any order. Arguments can be of type Player (a Quonauts player), String (a piece of text), or Number (a numeric value). If a bee actions specifies a default value for an argument, the default value can be supplied by omitting the argument.\n> \n> Inactive bee actions:\n> * Bee Deployment : bees become deployed.\n> Active bee actions:\n> \n> * Bee Cessation: bees become un-deployed (not deployed).\n> * Bee Sting (Player) : `Player` loses 1 of quantity points if they have more than 0 points.\n\nReplace the contents of %bee-polls with:\n> Bee polls are used to trigger bee actions (see [%bee-actions]) when passed. A bee poll must state that it is a bee poll, must describe a bee action, and must list the arguments (in order) to be supplied to it.\n> \n> Permitted reactions for a bee poll are \ud83d\udc4d (representing a vote for the poll) and \ud83d\udc4e (representing a vote against it). Players may make multiple, distinct votes on a bee poll.\n> \n> A player may close a bee poll if it is at least 12 hours old.\n> \n> When a bee poll passes, the bee action it describes is triggered using the bee arguments it lists.",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 717915241194979392,
 			"votes": {
 				"151149148639330304": 1,
@@ -3212,7 +3213,7 @@
 			"n": 220,
 			"author": 543131534685765673,
 			"content": "This proposal depends on the next failed proposal. Heav wins.",
-			"status": "voting",
+			"status": "failed",
 			"message_id": 718042811143815248,
 			"votes": {
 				"151149148639330304": -1,
@@ -3228,16 +3229,434 @@
 			"n": 221,
 			"author": 172341537789837312,
 			"content": "poop",
-			"status": "voting",
+			"status": "passed",
 			"message_id": 718389805574258729,
 			"votes": {
-				"151149148639330304": 0,
+				"151149148639330304": 1,
 				"160279332454006795": 0,
 				"258639553357676545": -1,
 				"309787486278909952": 0,
-				"331320482047721472": -1
+				"311467257643532288": 1,
+				"331320482047721472": -1,
+				"421060058009305088": -1
 			},
 			"timestamp": 1591344279
+		},
+		{
+			"n": 222,
+			"author": 151149148639330304,
+			"content": "Each player gains an amount of points equal to the sixth digit (from the left) of their Discord User ID.",
+			"status": "passed",
+			"message_id": 718982608813293609,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": 1,
+				"258639553357676545": -1,
+				"274720069395808268": 1,
+				"309787486278909952": 0,
+				"311467257643532288": 1,
+				"421060058009305088": -1
+			},
+			"timestamp": 1591485613
+		},
+		{
+			"n": 223,
+			"author": 543131534685765673,
+			"content": "Heav becomes a Bee Attractor: every bee poll which would involve a bee sting against Heav automatically succeeds\\",
+			"status": "failed",
+			"message_id": 719150652378447874,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": -1,
+				"309787486278909952": -1,
+				"311467257643532288": -1,
+				"421060058009305088": 1
+			},
+			"timestamp": 1591525678
+		},
+		{
+			"n": 224,
+			"author": 421060058009305088,
+			"content": "mash some bananas",
+			"status": "passed",
+			"message_id": 719170483223789598,
+			"votes": {
+				"151149148639330304": 1,
+				"160279332454006795": 0,
+				"309787486278909952": 0,
+				"311467257643532288": 1,
+				"353513054912249856": 1
+			},
+			"timestamp": 1591530406
+		},
+		{
+			"n": 225,
+			"author": 160279332454006795,
+			"content": "Add a new rule named \"Birth\":\n> If an empty space has exactly 3 neighbors, it becomes a cell.\nAdd a new rule named \"Survival\":\n> If a cell has 2 or 3 neighbors, it stays a cell, otherwise becomes an empty space.",
+			"status": "passed",
+			"message_id": 719266736687546529,
+			"votes": {
+				"160279332454006795": 1,
+				"309787486278909952": 0,
+				"421060058009305088": 1,
+				"543131534685765673": 1
+			},
+			"timestamp": 1591553355
+		},
+		{
+			"n": 226,
+			"author": 543131534685765673,
+			"content": "This proposal depends on the next proposal to be passed since this proposal's creation. Heav wins.",
+			"status": "voting",
+			"message_id": 719510545266376744,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": 0,
+				"172341537789837312": 1,
+				"258639553357676545": -1,
+				"311467257643532288": -1,
+				"353513054912249856": 1,
+				"421060058009305088": -1
+			},
+			"timestamp": 1591611484
+		},
+		{
+			"n": 227,
+			"author": 309787486278909952,
+			"content": "leaf wins, for banning quobot lol\n\nreplace SoundOfSpouting with the rules to the card game UNO",
+			"status": "voting",
+			"message_id": 719651761651974194,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": -1,
+				"258639553357676545": -1,
+				"309787486278909952": 1,
+				"311467257643532288": 1,
+				"353513054912249856": 1,
+				"421060058009305088": 0
+			},
+			"timestamp": 1591645153
+		},
+		{
+			"n": 228,
+			"author": 421060058009305088,
+			"content": "change every instance of \"quantity\" in the rules to \"quality\"\nthe author of this proposal gets no points if it is passed",
+			"status": "voting",
+			"message_id": 719653205167833089,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": -1,
+				"258639553357676545": 1,
+				"309787486278909952": 1,
+				"311467257643532288": 1,
+				"353513054912249856": 1,
+				"421060058009305088": 1
+			},
+			"timestamp": 1591645497
+		},
+		{
+			"n": 229,
+			"author": 421060058009305088,
+			"content": "The passing of Proposal #230 was legal",
+			"status": "voting",
+			"message_id": 719695617781137409,
+			"votes": {
+				"151149148639330304": -1,
+				"309787486278909952": -1,
+				"311467257643532288": 1,
+				"353513054912249856": 1,
+				"421060058009305088": 1
+			},
+			"timestamp": 1591655610
+		},
+		{
+			"n": 230,
+			"author": 421060058009305088,
+			"content": "The passing of Proposal #229 was legal\nWould this be a heav-style loophole (if it were implemented correctly)?",
+			"status": "voting",
+			"message_id": 719701174080766044,
+			"votes": {
+				"151149148639330304": -1,
+				"160279332454006795": -1,
+				"309787486278909952": -1,
+				"311467257643532288": 1,
+				"353513054912249856": 1,
+				"421060058009305088": 0
+			},
+			"timestamp": 1591656934
+		},
+		{
+			"n": 231,
+			"author": 309787486278909952,
+			"content": "Edit %winning, changing\n> When one or more players have reached 100 points, they win and the game ends.\nto\n> When one or more players have reached 80 points, they win and the game ends.",
+			"status": "voting",
+			"message_id": 719883837508681760,
+			"votes": {
+				"258639553357676545": -1,
+				"309787486278909952": 1,
+				"311467257643532288": 1,
+				"332624525592231937": 1,
+				"353513054912249856": 1,
+				"421060058009305088": -1
+			},
+			"timestamp": 1591700485
+		},
+		{
+			"n": 232,
+			"author": 258639553357676545,
+			"content": "Edit %opinion-polls, changing\n> By default, the allowed reactions of an opinion poll are \ud83d\udc4d and \ud83d\udc4e, but the opinion poll may specify different allowed reactions for itself.\nto\n> By default, the allowed reactions of an opinion poll are \ud83d\udc4d, \ud83d\udc4e, \ud83c\udf35 and \ud83e\udd80, but the opinion poll may specify different allowed reactions for itself.",
+			"status": "voting",
+			"message_id": 719962598287736834,
+			"votes": {
+				"151149148639330304": 1,
+				"258639553357676545": 1,
+				"309787486278909952": 0,
+				"353513054912249856": 1,
+				"421060058009305088": 1
+			},
+			"timestamp": 1591719263
+		},
+		{
+			"n": 233,
+			"author": 258639553357676545,
+			"content": "Edit %winning, changing\n> When one or more players have reached 100 points, they win and the game ends.\nto\n> When two or more players have reached 128 points, they win and the game ends.",
+			"status": "failed",
+			"message_id": 719963128707678359,
+			"votes": {
+				"151149148639330304": -1,
+				"258639553357676545": 1,
+				"309787486278909952": -1,
+				"353513054912249856": -1
+			},
+			"timestamp": 1591719390
+		},
+		{
+			"n": 234,
+			"author": 258639553357676545,
+			"content": "Replace section %forbidden-actions with\n> Unless explicitly stated in the rules, all game actions are permitted. This applies retroactively.",
+			"status": "failed",
+			"message_id": 719964249711181865,
+			"votes": {
+				"258639553357676545": 1
+			},
+			"timestamp": 1591719657
+		},
+		{
+			"n": 235,
+			"author": 353513054912249856,
+			"content": "they don't think it be like it is but it do",
+			"status": "voting",
+			"message_id": 719964980299956394,
+			"votes": {
+				"151149148639330304": -1,
+				"258639553357676545": -1,
+				"309787486278909952": 0,
+				"353513054912249856": 1,
+				"421060058009305088": 1
+			},
+			"timestamp": 1591719831
+		},
+		{
+			"n": 236,
+			"author": 421060058009305088,
+			"content": "Change the contents of %voting-on-proposals to:\n> Each player may cast one vote on each open proposal.\n> \n> Players may vote in favour of (vote \"for\") a proposal by reacting to the proposal with \ud83d\udc4d, vote against by reacting with \ud83d\udc4e, or abstain from voting by reacting with \ud83e\udd37. They may also \"twist\" the voting by reacting with \u264b.\n> \n> A player may change their vote on an open proposal at any time.\nChange the contents of %passing-and-failing-proposals to:\n> If a proposal has exactly as many people who voted to twist as people who abstained, and the amount who voted to twist is nonzero, votes \"for\" are counted as votes \"contrary\" and votes against are counted as votes \"in favor\". Otherwise votes \"for\" are counted as votes \"in favor\" and votes \"against\" are counted as votes \"contrary\".\n> When a proposal is closed, it passes if and only if it has more votes in favour than contrary; otherwise, it fails.\n> \n> The player that authored a proposal may fail it at any time if it is open.\n> \n> After a proposal passes, the game state and game rules change are modified according to it. The player who passed it must carry out the effects of its passing to the best of their ability.\n> \n> The rules may only change as the result of a proposal passing, legally.\n> \n> The state of a proposal may not be directly changed from passed to failed, or directly from failed to passed. A closed proposal may not be deleted.",
+			"status": "voting",
+			"message_id": 719965485604798534,
+			"votes": {
+				"151149148639330304": -1,
+				"258639553357676545": 1,
+				"421060058009305088": 1
+			},
+			"timestamp": 1591719952
+		},
+		{
+			"n": 237,
+			"author": 309787486278909952,
+			"content": ".",
+			"status": "failed",
+			"message_id": 719972346542293023,
+			"votes": {},
+			"timestamp": 1591721588
+		},
+		{
+			"n": 238,
+			"author": 309787486278909952,
+			"content": ".",
+			"status": "failed",
+			"message_id": 719972404109246544,
+			"votes": {},
+			"timestamp": 1591721601
+		},
+		{
+			"n": 239,
+			"author": 309787486278909952,
+			"content": ".",
+			"status": "failed",
+			"message_id": 719972417782546512,
+			"votes": {},
+			"timestamp": 1591721604
+		},
+		{
+			"n": 240,
+			"author": 309787486278909952,
+			"content": ".",
+			"status": "failed",
+			"message_id": 719972428218105886,
+			"votes": {},
+			"timestamp": 1591721607
+		},
+		{
+			"n": 241,
+			"author": 309787486278909952,
+			"content": ".",
+			"status": "failed",
+			"message_id": 719972438456139777,
+			"votes": {},
+			"timestamp": 1591721609
+		},
+		{
+			"n": 242,
+			"author": 309787486278909952,
+			"content": ".",
+			"status": "failed",
+			"message_id": 719972450129149952,
+			"votes": {},
+			"timestamp": 1591721612
+		},
+		{
+			"n": 243,
+			"author": 309787486278909952,
+			"content": ".",
+			"status": "failed",
+			"message_id": 719972460690276392,
+			"votes": {},
+			"timestamp": 1591721615
+		},
+		{
+			"n": 244,
+			"author": 309787486278909952,
+			"content": ".",
+			"status": "failed",
+			"message_id": 719972470777446511,
+			"votes": {},
+			"timestamp": 1591721617
+		},
+		{
+			"n": 245,
+			"author": 309787486278909952,
+			"content": ".",
+			"status": "failed",
+			"message_id": 719972481250623488,
+			"votes": {},
+			"timestamp": 1591721619
+		},
+		{
+			"n": 246,
+			"author": 309787486278909952,
+			"content": ".",
+			"status": "failed",
+			"message_id": 719972491379867738,
+			"votes": {},
+			"timestamp": 1591721622
+		},
+		{
+			"n": 247,
+			"author": 309787486278909952,
+			"content": ".",
+			"status": "failed",
+			"message_id": 719972506114457622,
+			"votes": {},
+			"timestamp": 1591721625
+		},
+		{
+			"n": 248,
+			"author": 309787486278909952,
+			"content": ".",
+			"status": "failed",
+			"message_id": 719972708506402916,
+			"votes": {},
+			"timestamp": 1591721674
+		},
+		{
+			"n": 249,
+			"author": 309787486278909952,
+			"content": ".",
+			"status": "failed",
+			"message_id": 719972743809859694,
+			"votes": {},
+			"timestamp": 1591721682
+		},
+		{
+			"n": 250,
+			"author": 309787486278909952,
+			"content": ".",
+			"status": "failed",
+			"message_id": 719972753645764680,
+			"votes": {},
+			"timestamp": 1591721684
+		},
+		{
+			"n": 251,
+			"author": 309787486278909952,
+			"content": ".",
+			"status": "failed",
+			"message_id": 719972765100277761,
+			"votes": {},
+			"timestamp": 1591721687
+		},
+		{
+			"n": 252,
+			"author": 309787486278909952,
+			"content": ".",
+			"status": "failed",
+			"message_id": 719972775523254293,
+			"votes": {},
+			"timestamp": 1591721690
+		},
+		{
+			"n": 253,
+			"author": 309787486278909952,
+			"content": ".",
+			"status": "failed",
+			"message_id": 719972786638160004,
+			"votes": {},
+			"timestamp": 1591721692
+		},
+		{
+			"n": 254,
+			"author": 309787486278909952,
+			"content": ".",
+			"status": "failed",
+			"message_id": 719972796578529351,
+			"votes": {},
+			"timestamp": 1591721695
+		},
+		{
+			"n": 255,
+			"author": 309787486278909952,
+			"content": ".",
+			"status": "voting",
+			"message_id": 719972807642972620,
+			"votes": {},
+			"timestamp": 1591721697
+		},
+		{
+			"n": 256,
+			"author": 309787486278909952,
+			"content": ".",
+			"status": "failed",
+			"message_id": 719972818724585502,
+			"votes": {},
+			"timestamp": 1591721700
+		},
+		{
+			"n": 257,
+			"author": 309787486278909952,
+			"content": ".",
+			"status": "failed",
+			"message_id": 719972829067739177,
+			"votes": {},
+			"timestamp": 1591721703
 		}
 	]
 }
