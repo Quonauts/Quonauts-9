@@ -53,6 +53,7 @@
 * [**13. Bees**](#bees)
     * [**13.1. Bee Actions**](#bee-actions)
 * [**14. Birth**](#birth)
+* [**15. Survival**](#survival)
 
 ## <a name='meta-rules'/> Meta rules
 
@@ -440,4 +441,8 @@ Active bee actions:
 ## <a name='birth'/> Birth
 
 If an empty space has exactly 3 neighbors, it becomes a cell.
+
+## <a name='survival'/> Survival
+
+If a cell has 2 or 3 neighbors, it stays a cell, otherwise becomes an empty space.
 
