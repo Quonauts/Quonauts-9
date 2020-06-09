@@ -1835,3 +1835,12 @@ The passing of Proposal #230 was legal
 The passing of Proposal #229 was legal
 Would this be a heav-style loophole (if it were implemented correctly)?
 
+<a name='231'/>
+
+## #231
+
+Edit %winning, changing
+> When one or more players have reached 100 points, they win and the game ends.
+to
+> When one or more players have reached 80 points, they win and the game ends.
+
