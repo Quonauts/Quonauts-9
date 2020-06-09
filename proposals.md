@@ -1855,7 +1855,7 @@ to
 
 <a name='233'/>
 
-## #233
+## #233 — Failed
 
 Edit %winning, changing
 > When one or more players have reached 100 points, they win and the game ends.
