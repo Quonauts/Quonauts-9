@@ -1899,7 +1899,7 @@ Change the contents of %passing-and-failing-proposals to:
 
 <a name='237'/>
 
-## #237
+## #237 — Failed
 
 .
 
