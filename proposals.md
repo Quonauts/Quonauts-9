@@ -1776,7 +1776,7 @@ poop
 
 <a name='222'/>
 
-## #222
+## #222 — Passed
 
 Each player gains an amount of points equal to the sixth digit (from the left) of their Discord User ID.
 
