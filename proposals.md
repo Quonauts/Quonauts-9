@@ -1864,7 +1864,7 @@ to
 
 <a name='234'/>
 
-## #234
+## #234 — Failed
 
 Replace section %forbidden-actions with
 > Unless explicitly stated in the rules, all game actions are permitted. This applies retroactively.
